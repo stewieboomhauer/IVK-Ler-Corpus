@@ -1,0 +1,55 @@
+Hala Alhanafi	Woche 7 (Eis)	Datum 01.12.2020
+
+
+
+ORIG1:    Lea, Lars und Dodo spaziere gehen.
+
+ZIELHYP: Lea, Lars und Dodo gehen spazieren.
+
+ORIG2: 	   Sie sehen der Eiskiosk.
+
+ZIELHYP:  Sie sehen den Eiskiosk.
+
+ORIG3:     Sie gehen kaufen ein.
+
+ZIELHYP:  Sie gehen einkaufen.
+
+ORIG4:	    Lea und Lars suchen aus.
+
+ZIELHYP:   Lea und Lars suchen aus.
+
+ORIG5:	    Sie lecken Eis und tropfen Dodo isst,
+
+ZIELHYP:   Sie lecken das Eis und Dodo isst die Tropfen. 
+
+ORIG6:	    Plötzlich Lea hat mit Dodo stolpern.
+
+ZIELHYP:   Plötzlich ist Lea über Dodo gestolpert.
+
+ORIG7:	    Lea herunterfallt.
+
+ZIELHYP:   Lea ist umgefallen.
+
+ORIG8:	    Lea weint weil Eis herunterfallen.
+
+ZIELHYP:   Lea weint, weil das Eis herunterfällt.
+
+ORIG9:	    Dodo leckt Eis.
+
+ZIELHYP:   Dodo leckt das Eis.
+
+ORIG10:    Lars verwirrt ist.
+
+ZIELHYP:   Lars ist verwirrt.
+
+ORIG11:    Lars will mit Lea das Eis teilen.
+
+ZIELHYP:   Lars will mit Lea das Eis teilen.
+
+ORIG12:    Lars umarmen ist Lea.
+
+ZIELHYP:   Lars umarmt Lea.
+
+ORIG13:    Lars und Lea freuen sich und Dodo bleibt und leckt Eis.
+
+ZIELHYP:   Lars und Lea freuen sich und Dodo bleibt und leckt das Eis.

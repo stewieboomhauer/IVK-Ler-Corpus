@@ -1,0 +1,33 @@
+Charalampos 	Woche 7 (Eis)	Datum 09.12.2020
+
+ORIG1:     lea, Lars und Todo gehen Eis zu kaufen.
+
+ZIELHYP:   Lea, Lars und Dodo gehen Eis kaufen.
+
+ORIG2: 	    Der man in der Eiskiosk gibt das Eis in die Kinder und Todo isst das Eis.
+
+ZIELHYP:   Der Mann im Eiskiosk gibt den Kindern das Eis und Dodo isst das Eis.
+
+ORIG3:      Zunächst lea über Todo stolpert und das eis heruntarfällt. 
+
+ZIELHYP:   Zunächst stolpert Lea über Dodo und das Eis fällt herunter. 
+
+ORIG4:	    Фer Todo ist sehr glücklich weil jets er Kann das Eis essen.
+
+ZIELHYP:   Der Dodo ist sehr glücklich, weil er jetzt das Eis essen kann.
+
+ORIG5:      Lars gibt eine Eiskugel in Lea sie freuen sich.
+
+ZIELHYP:    Lars gibt Lea eine Eiskugel, sie freuen sich.
+
+ORIG6:       Todo isst noch das eis
+
+ZIELHYP:    Dodo isst noch das Eis.
+
+ORIG7:        Lea und Lars sich umarmen und spazier nach Hause.
+
+ZIELHYP:     Lea und Lars umarmen sich und spazieren nach Hause.
+
+ORIG8:        Todo bleibt noch eis zu essen und dann er mit Lars und Lea sie freuen sich.
+
+ZIELHYP:     Dodo bleibt noch, um das Eis zu essen und dann ist er mit Lars und Lea, sie freuen sich.

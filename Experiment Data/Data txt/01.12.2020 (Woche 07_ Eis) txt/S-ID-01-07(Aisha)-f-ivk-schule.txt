@@ -1,0 +1,33 @@
+Aisha 	Woche 7 (Eis)	Datum 01.12.2020
+
+ORIG1:     Lea, Lars und Dodo gehen zum Eiskiosk, weil sie das Eis wollen.
+
+ZIELHYP:  Lea, Lars und Dodo gehen zum Eiskiosk, weil sie das Eis wollen.
+
+ORIG2: 	    Lea und Lars suchen seine Eiskugel aus.
+
+ZIELHYP:   Lea und Lars suchen ihre Eiskugeln aus.
+
+ORIG3:      Sie laufen während Dodo lecke die Eistropfen. 
+
+ZIELHYP:   Sie laufen, während Dodo die Eistropfen leckt.
+
+ORIG4:	     Plötzlich, Lea stolpt über Dodo und die Eis fallt.
+
+ZIELHYP:    Plötzlich stolpert Lea über Dodo und das Eis fällt.
+
+ORIG5:       Lia weint, währen Dodo da Eis essen.
+
+ZIELHYP:    Lea weint, während Dodo das Eis isst.
+
+ORIG6:       Lars wenn das Eis gefallen, teilen sein Eis mit Lia.
+
+ZIELHYP:    Als das Eis gefallen ist, teilt Lars sein Eis mit Lea.
+
+ORIG7:       Sie sind glücklich und umarmen.
+
+ZIELHYP:    Sie sind glücklich und umarmen sich.
+
+ORIG8:       Sie spazieren zusamen während Dodo bleibt hinten.
+
+ZIELHYP:    Sie spazieren zusammen, während Dodo hinten bleibt.
