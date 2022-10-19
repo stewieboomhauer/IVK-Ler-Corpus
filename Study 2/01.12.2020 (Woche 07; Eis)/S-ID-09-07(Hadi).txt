@@ -1,0 +1,45 @@
+Hadi	Woche 7 (Eis)	Datum 01.12.2020
+
+ORIG1:     Lea lars sie kaufen eis
+
+ZIELHYP:  Lea und Lars kaufen Eis.
+
+ORIG2: 	    zeig welcher eis sie wollen
+
+ZIELHYP:   Sie zeigen, welches Eis sie wollen.
+
+ORIG3:      sie gehen nach hause 
+
+ZIELHYP:   Sie gehen nach Hause.
+
+ORIG4:	    sie lecKern sie genießen Den Eis.
+
+ZIELHYP:   Sie lecken, sie genießen das Eis.
+
+ORIG5:      Das Eis tropft
+
+ZIELHYP:   Das Eis tropft.
+
+ORIG6:       plotzlich Lea fällt Runter.
+
+ZIELHYP:    Plötzlich fällt Lea um.
+
+ORIG7:       Lea weint sie cockt auf dem Eis
+
+ZIELHYP:    Lea weint, sie guckt auf das Eis.
+
+ORIG8:       und Lars am bisschen traurig auf lea
+
+ZIELHYP:    Und Lars ist ein bisschen traurig wegen Lea.
+
+ORIG9:       und dodo leckt dem Eis 
+
+ZIELHYP:    Und Dodo leckt das Eis.
+
+ORIG10:     und lars gibt lea Eis kugel
+
+ZIELHYP:    Und Lars gibt Lea eine Eiskugel.
+
+ORIG11:     jetzt Lea ist glücklig und Lea lars freuen sich
+
+ZIELHYP:    jetzt ist Lea glücklich und Lea und Lars freuen sich.

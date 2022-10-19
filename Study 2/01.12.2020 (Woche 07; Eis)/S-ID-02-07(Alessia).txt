@@ -1,0 +1,29 @@
+Alessia 	Woche 7 (Eis)	Datum 01.12.2020
+
+ORIG1:     Lea und Lars und Dodo gehen in der EisKiosk und kaufen zwei Eis.
+
+ZIELHYP:   Lea und Lars und Dodo gehen in den Eiskiosk und kaufen zwei Eis.
+
+ORIG2: 	    Die Kinder das Eis lecken,
+
+ZIELHYP:   Die Kinder lecken das Eis.
+
+ORIG3:      Dann das Eis von Lea tropfen. 
+
+ZIELHYP:   Dann tropft das Eis von Lea. 
+
+ORIG4:	    Plötzlich Lea über etwas stolpern auf Dodo, sie weint.
+
+ZIELHYP:   Plötzlich stolpert Lea über Dodo, sie weint.
+
+ORIG5:      Danach Lars teilen deine Eis mit Lea,
+
+ZIELHYP:    Danach teilt Lars sein Eis mit Lea.
+
+ORIG6:       Schließlich die zweite Kinde laufen sich umarmen. 
+
+ZIELHYP:    Schließlich laufen die zwei Kinder sich umarmend. 
+
+ORIG7:        Und Dodo isst die Eis fallen.
+
+ZIELHYP:     Und Dodo isst das gefallene Eis.
