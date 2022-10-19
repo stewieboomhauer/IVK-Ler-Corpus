@@ -1,0 +1,33 @@
+Mahy	Woche 7 (Eis)	Datum 01.12.2020
+
+ORIG1:      Heute ist sehr warm. 
+
+ZIELHYP:   Heute ist es sehr warm. 
+
+ORIG2: 	    Lea hat Lars gesagt: Las uns zum EisKiosk gehen.
+
+ZIELHYP:   Lea hat Lars gesagt: „Lass uns zum Eiskiosk gehen.“
+
+ORIG3:      Lars: gute idee Können wir dodo auch nehmen.
+
+ZIELHYP:   Lars: „Gute Idee! Können wir Dodo auch mitnehmen?“
+
+ORIG4:	    Sie sind zum Eiskiosk gegangen und Sie haben das Eis gekaufen,
+
+ZIELHYP:   Sie sind zum Eiskiosk gegangen und sie haben das Eis gekauft.
+
+ORIG5:      ween sie spazieren und das Eis essen dodo ist schnell gelaufen,
+
+ZIELHYP:    Als sie spazieren und das Eis essen, ist Dodo schnell gelaufen.
+
+ORIG6:       Lea ist gestolpern und das Eis ist heruntergefallen.
+
+ZIELHYP:    Lea ist gestolpert und das Eis ist heruntergefallen.
+
+ORIG7:        Lea weint und dodo das Eis essen.
+
+ZIELHYP:     Lea weint und Dodo isst das Eis.
+
+ORIG8:        Lars will das Eis mit Lea teilen, Lea freut sich sehr. 
+
+ZIELHYP:     Lars will das Eis mit Lea teilen, Lea freut sich sehr.
