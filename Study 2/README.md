@@ -1,7 +1,6 @@
-# L2-PSchoolTextAnno
+# Study 2. 
 
-Annotation of Texts written by Second Language (L2) Learners of German in an international preparatory class setting.  
-The aim is to identify developments in the writings of individual students with the help of longitudinally collected text data.
+Since the underlying Natural Language Processing (NLP) models are generally trained on native language data, the validity of the analysis cannot be taken for granted for learner language and can involve substantial conceptual challenges (Meurers & Dickinson 2017). It is thus important to determine: How much does learners’ language affect automated analyses like POS-tag?
 
 ## Data
 
@@ -27,6 +26,4 @@ Part of
 
 #### Human Evaluation of Automatic Results
 
-#### Automatic Topological Field Analysis
 
-#### Human Evaluation of Automatic Results
