@@ -1,0 +1,48 @@
+title = "Primary School Text Evaluation"
+
+
+[student1]
+first_name = "Aisha"
+last_name = ""
+l1 = "ita"
+l2 = "eng"
+in_germany_since = 2018
+birth_date = "31.07.2006"
+school_type = "IVK"
+
+[student1.week_participation]
+week1 = false
+week2 = true
+
+[student1.evaluation]
+original = "Zuerst, Lia und Lars aussuchet das Eiskugel. [...]"
+target = "Zuerst suchen Lia und Lars die Eiskugeln aus."
+...
+
+[student1.evaluation.errors]
+verb_position = "bla"
+conjugation = ["bli", "blub"]
+sentence_complexity = "bla"
+...
+
+
+
+[student2]
+
+[student2.participation]
+
+[student1.evaluation]
+
+[student1.evaluation.errors]
+
+
+[student3]
+
+[student2.participation]
+
+[student1.evaluation]
+
+[student1.evaluation.errors]
+
+
+...

@@ -1,0 +1,92 @@
+rank	rank delta	rank max	attribute	feature name
+12,20	11,67	23,87	319	Syntactic Complexity Feature: Coordinate Phrases per T-unit
+16,90	11,83	28,73	389	Lexical Richness: Type Token Ratio (STTR Nouns)
+17,70	9,09	26,79	371	Lexical Richness: Type Token Ratio (Root TTR Nouns)
+18,70	11,75	30,45	397	Lexical Richness: Type Token Ratio (Uber10 Nouns)
+30,80	33,71	64,51	214	Number of Connectives: Breindl Causal Connectives
+41,80	51,88	93,68	19	Lexical Density Feature: Modals per Verb
+47,10	31,42	78,52	158	Lexical Sophistication Feature: Minimal Age of Active Use in KCT (FW Token)
+51,50	29,67	81,17	210	POS Density Feature: Functional Words
+53,40	80,52	133,92	417	Lexical Richness: Type Token Ratio (10 Segments)
+54,70	113,10	167,80	132	Morphological Complexity Feature: MCI-5 for Verbs (2 partitions, no repetition)
+60,10	39,55	99,65	204	Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (LW Type)
+61,20	69,63	130,83	322	Syntactic Complexity Feature: Noun Phrases per Clause
+64,90	89,57	154,47	374	Syntactic Complexity Feature: Dependent clause ratio
+67,20	85,10	152,30	465	Morphological Complexity Feature: MCI-5 for Nouns (5 partitions, no repetition)
+74,90	96,48	171,38	450	Morphological Complexity Feature: MCI-5 for Nouns (2 partitions, no repetition)
+76,20	95,56	171,76	343	Syntactic Complexity Feature: Mean Length of Prepositional Phrase
+79,70	6,40	86,10	137	Lexical Sophistication Feature: OpenSubititles Word Frequency per Million (SD N Type)
+81,50	17,00	98,50	145	Mean Sentence Length in Tokens
+83	9,43	92,43	136	Lexical Richness: MTLD (excluding punctuation and numbers)
+84,80	8,66	93,46	133	Lexical Sophistication Feature: Mean Age of Active Use in KCT (LW Token)
+86,30	16,13	102,43	150	Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (FW Type)
+86,90	132,30	219,20	372	Syntactic Complexity Feature: Complex Nominals per Sentence
+87,70	119,61	207,31	418	Lexical Richness: Type Token Ratio (TTR Adverbs)
+88,70	99,87	188,57	447	Lexical Richness: Type Token Ratio (Log10 TTR Lexical Words)
+89,20	106,31	195,51	152	Morphological Complexity Inflection Feature: Past tense per verb token
+91,80	102,19	193,99	183	Morphological Complexity Inflection Feature: Indicatives per word token
+94,10	18,54	112,64	156	POS Density Feature: Demonstrative Pronoun
+96,60	106,02	202,62	330	Syntactic Complexity Feature: Complex Prepositional Phrases per Clause
+97,80	102,10	199,90	151	Morphological Complexity Inflection Feature: Genitive Case per Token
+102,10	36,59	138,69	121	Lexical Sophistication Feature: OpenSubititles Word Frequency per Million (Adv Type)
+104,80	15,35	120,15	209	Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD V Token)
+106,50	25,85	132,35	157	Morphological Complexity Inflection Feature: Any Person per word token
+109,40	118,92	228,32	461	Cohesive Complexity Feature: Breindl Additive Connectives per Token
+109,60	23,42	133,02	166	POS Density Feature: Interrogative Pronoun
+109,70	23,05	132,75	171	POS Density Feature: Pronoun
+111,30	20,61	131,91	170	Lexical Sophistication Feature: SUBTLEX Word Informativeness Per Million Words (LW Type)
+111,70	13,61	125,31	197	POS Density Feature: Punctuation
+113,10	22,81	135,91	167	Lexical Sophistication Feature: OpenSubtitles Logarithmic Word Frequency (SD V Token)
+114,40	126,14	240,54	438	Lexical Variation Feature: Adjective
+114,50	12,22	126,72	195	Number of Connectives: Breindl Other Connectives
+119	145,15	264,15	392	Syntactic Complexity Feature: Noun Phrases per T-unit
+122,10	45,91	168,01	115	Lexical Sophistication Feature: OpenSubititles Word Frequency per Million (SD Adv Token)
+125,30	17,42	142,72	178	Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD AW Type)
+126,60	121,46	248,06	94	Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (N Type)
+127,50	12,51	140,01	180	POS Density Feature: To
+129,10	55,42	184,52	212	Lexical Sophistication Feature: SUBTLEX Word Familiarity Per Million Words (AW Type)
+131	8,80	139,80	182	Lexical Sophistication Feature: OpenSubtitles Logarithmic Word Frequency (Adj Type)
+131,20	52,72	183,92	213	Number of Connectives: Breindl Concessive Connectives
+138,10	61,07	199,17	106	Lexical Sophistication Feature: OpenSubititles Word Frequency per Million (SD Adj Token)
+140,50	158,05	298,55	56	Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD Adv Type)
+144,30	98,59	242,89	198	POS Density Feature: Relative Pronoun
+155,30	18,45	173,75	29	Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD FW Type)
+155,80	20,96	176,76	38	Lexical Sophistication Feature: OpenSubititles Word Frequency per Million (SD AW Type)
+158,50	30,12	188,62	5	Dependency Locality Theory: Total IC at Finite Verb (higher verb weight)
+158,50	19,34	177,84	9	SD Local Edit Distance for Lemmas
+159,60	33,63	193,23	13	SD Global Edit Distance for tokens
+160,40	23,65	184,05	3	Dependency Locality Theory: Total IC at Finite Verb (no modifier weight)
+160,70	15,47	176,17	30	Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (AW Token)
+162,80	130,73	293,53	108	Morphological Complexity Feature: MCI-10 for Verbs (2 partitions, no repetition)
+164,70	29,56	194,26	27	Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD FW Token)
+167,90	20,11	188,01	51	Lexical Sophistication Feature: Google Books 2000 Word Familiarity Per Million Words (LW Token)
+181,80	30,93	212,73	102	Lexical Sophistication Feature: Google Books 2000 Word Familiarity Per Million Words (AW Token)
+189,50	101,96	291,46	460	Cohesive Complexity Feature: Breindl Temporal Connectives per Token
+193,20	99,37	292,57	459	Cohesive Complexity Feature: Breindl Single-Word Connectives per Connective
+204,40	17,29	221,69	80	Lexical Sophistication Feature: OpenSubtitles Logarithmic Word Frequency (SD LW Token)
+206,80	27,52	234,32	76	Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD Adv Type)
+206,80	23,60	230,40	62	Lexical Sophistication Feature: Google Books 2000 Word Informativeness Per Million Words (LW Token)
+216,30	143,31	359,61	442	Morphological Complexity Feature: MCI-10 for Verbs (2 partitions, with repetition)
+220,50	112,95	333,45	4	Dependency Locality Theory: Maximal IC at Finite Verb (original cost configuration)
+257	100,65	357,65	96	Dependency Locality Theory: Maximal IC at Finite Verb (no modifier weight)
+264	12,84	276,84	325	Lexical Sophistication Feature: Google Books 2000 Word Frequency (AW Type)
+264,40	18,66	283,06	335	Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (Adj Type)
+271,60	54,93	326,53	448	Lexical Richness: Type Token Ratio (Log TTR)
+277,10	133,58	410,68	124	Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (Adv Type)
+278,50	25,65	304,15	298	SD Token Length in Syllables
+285,50	140,79	426,29	146	Mean Token Length in Letters
+290,60	26,72	317,32	387	Lexical Sophistication Feature: OpenSubtitles Logarithmic Word Frequency (SD N Token)
+300,80	69,40	370,20	363	Syntactic Complexity Feature: Verb Cluster per T-Unit
+301	33,83	334,83	282	Referential Cohesion: Mean Local Argument Overlap (lemma-based)
+304,90	100,27	405,17	229	POS Density Feature: Past Participle Verb
+313,50	24,81	338,31	267	Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD Adv Token)
+320,70	94,54	415,24	415	Lexical Richness: Type Token Ratio (TTR Nouns per Lexical Types)
+322,70	117,44	440,14	162	Morphological Complexity Inflection Feature: Accusative Case per Token
+327,70	39,44	367,14	370	Syntactic Complexity Feature: Complex Prepositional Phrases per T-Unit
+351,40	28,69	380,09	413	Lexical Richness: Type Token Ratio (TTR Adjectives)
+354	129,86	483,86	160	POS Density Feature: Adverb
+360,60	24,21	384,81	251	Referential Cohesion: SD of Global Argument Overlap (lemma-based)
+394,20	27,44	421,64	275	Referential Cohesion: Mean Global Lexical Overlap (lemma-based)
+410,10	64,74	474,84	215	POS Density Feature: Personal Pronoun
+422,20	15,22	437,42	305	Syntactic Complexity Feature: Complex Nominals per Noun Phrase
+451,70	9,65	461,35	424	Lexical Variation Feature: Verb Variation 1
