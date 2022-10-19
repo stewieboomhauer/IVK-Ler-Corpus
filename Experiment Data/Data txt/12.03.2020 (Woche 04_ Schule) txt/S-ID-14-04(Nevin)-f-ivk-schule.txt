@@ -1,0 +1,17 @@
+﻿Nevin	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:   Lea hat genomen mit ihr Dodo in die Schule. 
+ZIELHYP:  Lea hat Dodo mit sich in die Schule genommen.
+ORIG2: 	   Wann Sie haben begrüßen sich einander mit Lars, Lea hat gezeigt Dodo von Lars, und Lars hat überrascht sich.
+ZIELHYP:  Als sie sich begrüßt haben, hat Lea Lars Dodo gezeigt, und Lars war überrascht.
+ORIG3:     Dann Lars hat gestreichelt Dodo, und Lea, Lars, haben mit Dodo gegangen in die Klasse. 
+ZIELHYP:  Dann hat Lars Dodo gestreichelt und Lea und Lars sind mit Dodo in die Klasse gegangen. 
+ORIG4:	    Wann Lea macht die Aufgabe Dodo hat geschleichen. 
+ZIELHYP:   Als Lea die Aufgabe macht, ist Dodo geschlichen.
+ORIG5:      Dann Dodo hat gesehen einen Vogel, und er hat angebellt. 
+ZIELHYP:   Dann hat Dodo einen Vogel gesehen und er hat ihn angebellt. 
+ORIG6:     Dann die Lehrerin hat gesehen Dodo, und die Klasse haben überraschen sich.
+ZIELHYP:  Dann hat die Lehrerin Dodo gesehen und die Klasse war überrascht.
+
+
+
+

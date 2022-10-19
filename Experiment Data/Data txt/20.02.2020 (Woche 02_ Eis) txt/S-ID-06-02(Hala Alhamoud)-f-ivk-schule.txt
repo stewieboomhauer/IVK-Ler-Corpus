@@ -1,0 +1,27 @@
+﻿Hala Alhamoud	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:    Lea und Lars und Dodo gehen ins Eiskiosk.
+ZIELHYP: Lea, Lars und Dodo gehen in den Eiskiosk.
+ORIG2: 	   Lea und Lars und Dodo kaufen Eis.
+ZIELHYP:  Lea, Lars und Dodo kaufen Eis.
+ORIG3:     Lea und Lars essen Eis.
+ZIELHYP:  Lea und Lars essen Eis.
+ORIG4:	    Lea und Lars genießen Eis.
+ZIELHYP:   Lea und Lars genießen das Eis.
+ORIG5:      Das Eis tropft.
+ZIELHYP:    Das Eis tropft. 
+ORIG6:       Lea lasst Das Eis fallen.
+ZIELHYP:    Lea lässt das Eis fallen.
+ORIG6:        Lea weint und Dodo esst Eis und Lars verwirrt sein.
+ZIELHYP:     Lea weint und Dodo isst das Eis und Lars ist verwirrt.
+ORIG8:        Lars teilt das Eis mit Lea.
+ZIELHYP:     Lars teilt das Eis mit Lea.
+ORIG9:        Lea und Lars sie umarmen. 
+ZIELHYP:     Lea und Lars umarmen sich. 
+ORIG10:      Dodo bleibt über Eis.
+ZIELHYP:     Dodo bleibt über das Eis gebeugt.
+ORIG11:      Lea und Lars freuen.
+ZIELHYP:     Lea und Lars freuen sich.
+
+
+
+

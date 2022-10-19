@@ -1,0 +1,21 @@
+﻿Matej 	Woche 12 (Eis)	Datum 08.07.2021
+ORIG1:     Er werdt Eis kaufen mit schweste. 
+ZIELHYP:   Er wird mit der Schwester Eis kaufen. 
+ORIG2: 	    Er kauft Eis mit Banane - Erdbeere. 
+ZIELHYP:   Er kauft Eis mit Banane - Erdbeere. 
+ORIG3:      Sie kaauft miT Erdbeere - Kiwi. 
+ZIELHYP:   Sie kauft mit Erdbeere - Kiwi.
+ORIG4:	    Sie geht Eis leckt. 
+ZIELHYP:   Sie geht und leckt das Eis.
+ORIG5:      Sie über hund sTolpern. 
+ZIELHYP:    Sie stolpert über den Hund.
+ORIG6:       Lea weinT. 
+ZIELHYP:    Lea weint.
+ORIG7:        Lars Eis gebT. 
+ZIELHYP:     Lars gibt Lea das Eis.
+ORIG8:        Sie geht zu Hause glücklich. 
+ZIELHYP:     Sie geht glücklich nach Hause. 
+ORIG9:        Hund ist bleibt Eis leckt.
+ZIELHYP:     Hund ist geblieben und leckt das Eis.
+
+

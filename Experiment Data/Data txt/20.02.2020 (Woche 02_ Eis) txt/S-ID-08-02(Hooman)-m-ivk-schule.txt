@@ -1,0 +1,16 @@
+﻿Hooman	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:    lars und lea und Dodo gehen in Eiskiosk. 
+ZIELHYP:  Lars und Lea und dodo gehen in den Eiskiosk.
+ORIG2: 	   Und Kaufen Eis. 
+ZIELHYP:  Und sie kaufen Eis.
+ORIG3:     sie lecken Eis. 
+ZIELHYP:  Sie lecken Eis.
+ORIG4:	   lea Plötzlich Herunterfallen. 
+ZIELHYP:  Lea fällt plötzlich um. 
+ORIG5:     lea ist weinen und über etwas stolpern. 
+ZIELHYP:  Lea weint und stolpert über etwas.
+ORIG6:    Er Das Eis geben lea. 
+ZIELHYP: Er gibt Lea das Eis.
+ORIG7:   Sich umram lea und gehen sich Freuen lars und lea.
+ZIELHYP: Er umarmt Lea und Lars und Lea gehen und freuen sich.
+

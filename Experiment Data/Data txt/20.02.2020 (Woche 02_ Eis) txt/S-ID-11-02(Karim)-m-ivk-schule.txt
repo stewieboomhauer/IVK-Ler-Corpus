@@ -1,0 +1,17 @@
+﻿Karim	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:     Lia, Lars und Dodo Kaufen das Eis im der EisKiosk
+ZIELHYP:   Lea, Lars und Dodo kaufen Eis im Eiskiosk. 
+ORIG2: 	    Sie aussuchen die Eiskugel dann Sie laufen Dodo genießet Eis, 
+ZIELHYP:   Sie suchen die Eiskugel aus, dann laufen sie, Dodo genießt das Eis.
+ORIG3:      Tatsächlich er lecket der Eis Tropfen. 
+ZIELHYP:  Tatsächlich leckt er die Eistropfen.
+ORIG4:    Plötzlich, Lia Stolpert wegen Dodo, so das Eis hier herun terfallt.
+ZIELHYP: Plötzlich stolpert Lea wegen Dodo, so dass das Eis herunterfällt.
+ORIG5:    Sie weint aber Lars teilet sein Eis. 
+ZIELHYP:  Sie weint aber Lars teilt sein Eis. 
+ORIG6:   Schließlich sie umarmen und laufen freuen.
+ZIELHYP: Schließlich umarmen sie sich und laufen fröhlich.
+
+
+
+

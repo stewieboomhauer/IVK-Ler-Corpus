@@ -1,0 +1,54 @@
+﻿Hala Alhanafi	Woche 12 (Eis)	Datum 08.07.2021
+ORIG1:    Lea, Lars, Dodo sind in der Eiskiosk gegangen. 
+ZIELHYP: Lea, Lars, Dodo sind in den Eiskiosk gegangen.
+ORIG2: 	   Dann haben sie das Eis gekauft. 
+ZIELHYP:  Dann haben sie das Eis gekauft.
+ORIG3:     Danach haben sie zwei das Eis Kugel aus gesucht. 
+ZIELHYP:  Danach haben sie zwei Eiskugeln ausgesucht.
+ORIG4:	    Dann haben Lea und Lars die EisKugel gelecken, und hat das Eis getropfen in Dodo. 
+ZIELHYP:   Dann haben Lea und Lars die Eiskugeln geleckt und das Eis hat auf Dodo getropft.
+ORIG5:	    Jeztz hat Lea über Dodo gestolPern. 
+ZIELHYP:   Jetzt ist Lea über Dodo gestolpert.
+ORIG6:	    Danach hat Lea auf dem Boden fallen gelassen. 
+ZIELHYP:   Danach hat Lea das Eis auf den Boden fallen lassen. 
+ORIG7:	    Lars ist verwirrt, nun hat Lea geweinen und Dodo hat das Eis geleckt.
+ZIELHYP:   Lars ist verwirrt, nun hat Lea geweint und Dodo hat das Eis geleckt.
+ORIG8:	    Zum schluß hat Lars das Eis geteilen und Lea hat gefreuen. 
+ZIELHYP:   Zum Schluss hat Lars das Eis geteilt und Lea hat sich gefreut. 
+ORIG9:	    Am Ende ist Dodo gebleibt und das Eis geleckt.
+ZIELHYP:   Am Ende ist Dodo geblieben und hat das Eis geleckt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORIG1:    Lea, Lars, Dodo sind in der Eiskiosk gegangen. 
+ZIELHYP: 
+ORIG2: 	   Dann haben sie das Eis gekauft. 
+ZIELHYP:  
+ORIG3:     Danach haben sie zwei das Eis Kugel aus gesucht. 
+ZIELHYP:  
+ORIG4:	    Dann haben Lea und Lars die EisKugel gelecken, und hat das Eis getropfen in Dodo. 
+ZIELHYP:   
+ORIG5:	    Jeztz hat Lea über Dodo gestolPern. 
+ZIELHYP:   
+ORIG6:	    Danach hat Lea auf dem Boden fallen gelassen. 
+ZIELHYP:   
+ORIG7:	    Lars ist verwirrt, nun hat Lea geweinen und Dodo hat das Eis geleckt.
+ZIELHYP:   
+ORIG8:	    Zum schluß hat Lars das Eis geteilen und Lea hat gefreuen. 
+ZIELHYP:   
+ORIG9:	    Am Ende ist Dodo gebleibt und das Eis geleckt.
+ZIELHYP:   
+
+
+

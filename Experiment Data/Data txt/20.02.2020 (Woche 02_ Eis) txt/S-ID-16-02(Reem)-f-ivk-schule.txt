@@ -1,0 +1,19 @@
+﻿Reem	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:     Lea und Lars und Dodo gehen zusamen zu Eis kiosk 
+ZIELHYP:   Lea, Lars und Dodo gehen zusammen zum Eiskiosk.
+ORIG2: 	    und wir kaufen Eis aber Dodo kann es nicht essen.
+ZIELHYP:   Und wir kaufen Eis aber Dodo kann es nicht essen.
+ORIG3:      Wir kaufen zwei Kugel.
+ZIELHYP:   Wir kaufen zwei Kugeln.
+ORIG4:	    Wir genießen Hmmm.
+ZIELHYP:   Wir genießen Hmmm.
+ORIG5:      über etwas stolpern und etwas fallen lassen herunterfallen
+ZIELHYP:    Lea stolpert über etwas und lässt etwas fallen. 
+ORIG6:       und Dodo isst Eis von Boden und sie weint und Lars mach verwirt sein
+ZIELHYP:    Und Dodo isst das Eis vom Boden und sie weint und Lars ist verwirrt.
+ORIG7:        etwas teilen und Lars und Lea sich umarmen
+ZIELHYP:     Lars teilt etwas und Lea umarmt Lars.
+ORIG8:        und sie Traurig freunen bleiben. 
+ZIELHYP:	unformulierbar
+
+

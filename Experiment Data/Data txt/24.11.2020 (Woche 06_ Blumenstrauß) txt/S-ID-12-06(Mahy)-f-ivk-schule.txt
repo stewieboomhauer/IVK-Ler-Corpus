@@ -1,0 +1,27 @@
+﻿Mahy	Woche 6 (Blumenstrauß)	Datum 24.11.2020
+ORIG1:     haute ist das Wätter schön. 
+ZIELHYP:   Heute ist das Wetter schön.
+ORIG2: 	    Liea und Lars sie wollen auf die Wiese gehen.
+ZIELHYP:   Lea und Lars wollen auf die Wiese gehen.
+ORIG3:      Liea hat gesagt Awww schöne Natur
+ZIELHYP:   Lea hat gesagt: „Awww, schöne Natur!“
+ORIG4:	    Ich will einer Blumenstrauß für meine Oma.
+ZIELHYP:   „Ich will einen Blumenstrauß für meine Oma pflücken.“
+ORIG5:      Lars hat Liea gehelfen.
+ZIELHYP:   Lars hat Lea geholfen.
+ORIG6:      Sie haben schönste Blumenstrauß pflücken.
+ZIELHYP:   Sie haben den schönsten Blumenstrauß gepflückt.
+ORIG7:       Sie gehen beide oma besuchen.
+ZIELHYP:     Sie gehen beide die Oma besuchen.
+ORIG8:        die oma war glücklich, als sied aus Blumenstraß gesehen 
+ZIELHYP:     Die Oma war glücklich, als sie den Blumenstrauß gesehen hat.
+ORIG9:        und sie hat BlummenStrauß in die vase gestellt, während die Kinder den tisch decken
+ZIELHYP:     Und sie hat den Blumenstrauß in die Vase gestellt, während die Kinder den Tisch decken.
+ORIG10:        Danach die oma hat Kuchen und Saft gebrinngtn.
+ZIELHYP:     Danach hat die Oma einen Kuchen und Saft gebracht.
+ORIG11:      Während Sie essen Liea hat eine spinne gesehen und die oma legte den MarienKäfen an ihren Finger, 
+ZIELHYP:     Während sie gegessen haben, hat Lea eine Spinne gesehen und die Oma legte den Marienkäfern auf ihren Finger.
+ORIG12:  lars hat erschrectken. weil Insekten auf dem thisch herumKriechen
+ZIELHYP:  Lars hat sich erschrocken, weil Insekten auf dem Tisch herumkriechen.
+
+

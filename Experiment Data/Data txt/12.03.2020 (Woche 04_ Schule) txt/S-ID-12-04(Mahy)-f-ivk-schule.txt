@@ -1,0 +1,25 @@
+﻿Mahy	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:     Lea geht in die Schule. und Sie trefft mit Lars und . sich einander begrüßen
+ZIELHYP:  Lea geht in die Schule und sie trifft sich mit Lars und sie begrüßen sich.
+ORIG2: 	  Hallo lars wie geht es dir danke mehr gehtst gut. 
+ZIELHYP: „Hallo, Lars! Wie geht es dir?“ „Danke, mir geht’s gut.“
+ORIG3:     Lea zeigt etwas. 
+ZIELHYP:  Lea zeigt etwas. 
+ORIG4:   Lars oh Lea Dodo oh du bist sehr nett
+ZIELHYP: Lars: „Oh, Lea, Dodo! Oh, du bist sehr nett.“
+ORIG5:   Lea und Lars im Unterricht sitzen. 
+ZIELHYP: Lea und Lars sitzen im Unterricht.
+ORIG6:    Sie rechnet. 
+ZIELHYP:  Sie rechnet. 
+ORIG7:    dodo schleichet und an bellen den Vogel. 
+ZIELHYP:  Dodo schleicht und bellt den Vogel an.
+ORIG8:     lea hat Angt. 
+ZIELHYP:  Lea hat Angst. 
+ORIG9:    die leherin ist überrascht. 
+ZIELHYP:  Die Lehrerin ist überrascht.
+ORIG10:    Lea schämen Jetzt.
+ZIELHYP: Lea schämt sich jetzt.
+
+
+
+

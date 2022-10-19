@@ -1,0 +1,13 @@
+﻿Charalampos 	Woche 3 (Spinnennetz)	Datum 09.03.2020
+ORIG1:     Lea und Lars schlafen, aber sehen sie eine spinne auf das spinnennetz, in der ecke.
+ZIELHYP:  Lea und Lars schlafen, aber sie sehen eine Spinne auf dem Spinnennetz in der Ecke.
+ORIG2:	Sie nehmt ein Blatt und ein Glas und sie setzt diespinneins Glas.
+ZIELHYP:   Sie nimmt ein Blatt und ein Glas und sie setzt die Spinne ins Glas.
+ORIG3:      Dann er setzt diespinne ins Fensterbrett.
+ZIELHYP:   Dann setzt er die Spinne aufs Fensterbrett.
+ORIG4:	Danach Lea und Lars schlafen zu gehen.
+ZIELHYP:    Danach gehen Lea und Lars schlafen.
+ORIG5:       Am Morgen Lars steht auf und er macht das Fenster auf und er guck die Spinne und sie macht ein Spinnennetz.
+ZIELHYP:    Am Morgen steht Lars auf und er macht das Fenster auf und er guckt die Spinne an und sie macht ein Spinnennetz.
+ORIG6:       Jetz die spinne ist noch Freundin von Lea und Lars
+ZIELHYP:    Jetzt ist die Spinne noch eine Freundin von Lea und Lars.

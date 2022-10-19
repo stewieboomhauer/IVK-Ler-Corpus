@@ -1,0 +1,13 @@
+﻿Yazan	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    Lea sit in Bus.
+ZIELHYP:  Lea sitzt im Bus.
+ORIG2: 	   Lea aussteigen.
+ZIELHYP:  Lea steigt aus.
+ORIG3:     Lea etwas realisieren and etwas vergessen.
+ZIELHYP:  Lea realisiert etwas und vergisst etwas.
+ORIG4:	    man Go in Fundbüro abgeben Tasche.
+ZIELHYP:   Der Mann geht ins Fundbüro und gibt die Tasche ab.
+ORIG5:      Fru abholen tasche winken.
+ZIELHYP:   Die Frau holt die Tasche ab und winkt.
+
+

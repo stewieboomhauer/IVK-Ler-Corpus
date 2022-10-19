@@ -1,0 +1,12 @@
+﻿Aisha 	Woche 3 (Spinnennetz)	Datum 05.03.2020
+ORIG1:     Lars ist im Bet wann die Spinne macht e Spinnennetz in der Ecke.
+ZIELHYP:  Lars ist im Bett als die Spinne ein Spinnennetz in der Ecke macht.
+ORIG2:	Lea jemandt fangt mit das Blatt und ins Glas setzt.
+ZIELHYP:   Lea fängt jemanden mit dem Blatt und setzt ihn ins Glas.
+ORIG3:      Lars guckt die Spinne und setz freilasst.
+ZIELHYP:   Lars guckt die Spinne an und lässt sie frei.
+ORIG4:	Sie schlafen gehen.
+ZIELHYP:    Sie gehen schlafen.
+ORIG5:       Wenn Lars aufsteht, Er zeigt die spinne macht e Spinnennetz an das Fensterbrett.
+ZIELHYP:    Als Lars aufsteht, zeigt er, dass die Spinne ein Spinnennetz am Fensterbrett macht.
+

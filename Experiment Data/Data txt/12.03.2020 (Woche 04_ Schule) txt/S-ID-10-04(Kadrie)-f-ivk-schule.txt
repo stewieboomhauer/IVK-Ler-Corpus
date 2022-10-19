@@ -1,0 +1,26 @@
+﻿Kadrie	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:     Lea geht in die Schule und begrüßen sich einander. 
+ZIELHYP:  Lea geht in die Schule und begrüßt Lars.
+ORIG2: 	    Danach Lea hat der Hund geversteckt. 
+ZIELHYP:   Danach hat Lea den Hund versteckt. 
+ORIG3:      Sie zeigt dodo für Lars. 
+ZIELHYP:   Sie zeigt Lars Dodo. 
+ORIG4:	    Lars ist überarrascht. 
+ZIELHYP:   Lars ist überrascht. 
+ORIG5:      Sie gehen in die Klasse. 
+ZIELHYP:    Sie gehen in die Klasse. 
+ORIG6:       Sie sitzen im Unterricht. 
+ZIELHYP:    Sie sitzen im Unterricht. 
+ORIG7:       Sie rechnet, aber Dodo scheicht. 
+ZIELHYP:     Sie rechnet, aber Dodo schleicht. 
+ORIG8:        Dodo steht auf der Tisch. 
+ZIELHYP:     Dodo steht auf dem Tisch.
+ORIG9:        En vögel und Dodo hau hau gesagt. 
+ZIELHYP:     Da war ein Vogel und Dodo hat „hau hau“ gesagt.
+ORIG10:        Vögel plötzlich und die Lehrarin seiht
+ZIELHYP:     Plötzlich sieht die Lehrerin den Vogel.
+
+
+
+
+

@@ -1,0 +1,32 @@
+﻿Mahy	Woche 8 (Verlust)	Datum 08.12.2020
+
+ORIG1:      Heutet morgen ist Lea aufgeestanden. 
+ZIELHYP:   Heute morgen ist Lea aufgestanden.
+ORIG2: 	    Sie hat dodo nicht gesehen und sie Angst hate. 
+ZIELHYP:   Sie hat Dodo nicht gesehen und sie hatte Angst.
+ORIG3:      Sie hat sehr schnell drauß gegangen und sie Klebt der Aushangzettel an die Wand. 
+ZIELHYP:   Sie ist sehr schnell rausgegangen und sie klebt den Aushangzettel an die Wand. 
+ORIG4:	    Sie hat nach Haus zurück gekommen, sie hat Lars Aufgerufen uns sagt: „hallo Lars hast du dodo gesehen. 
+ZIELHYP:   Sie ist nach Hause zurückgekommen, sie hat Lars angerufen und sagt: „Hallo, Lars, hast du Dodo gesehen?“
+ORIG5:      Ich habe er nicht gesehen wo ist es Ich habe angst.“ 
+ZIELHYP:    „Ich habe ihn nicht gesehen. Wo ist er? Ich habe Angst.“
+ORIG6:       Lars: „Lea Lea sprech langsam und im rühe bleiben er ist beimir!!. 
+ZIELHYP:    Lars: „Lea, Lea, sprich langsam und bleib ruhig. Er ist bei mir!“
+ORIG7:       Lea freut sich sehr und die Augen strahlen. 
+ZIELHYP:    Lea freut sich sehr und die Augen strahlen.
+ORIG8:      Lea: „dann Komm schnell ich warte auf euch den Fensterbrett.“ 
+ZIELHYP:   Lea: „Dann komm schnell, ich warte auf euch auf dem Fensterbrett.“
+ORIG9:      Lars Ja wir kommen
+ZIELHYP:   Lars: „Ja, wir kommen.“
+ORIG10:  an der Tür klingeln
+ZIELHYP: An der Tür klingelt es.
+ORIG11:  Lea hat sehr schnell die Tür auf machen.
+ZIELHYP: Lea hat sehr schnell die Tür aufgemacht.
+ORIG12: Sie hat Lars umarmt und sie freut sich sehr wenn sie dodo hat nochmal gesehen.
+ZIELHYP: Sie hat Lars umarmt und sie freut sich sehr, als sie Dodo nochmal gesehen hat.
+
+
+
+
+
+

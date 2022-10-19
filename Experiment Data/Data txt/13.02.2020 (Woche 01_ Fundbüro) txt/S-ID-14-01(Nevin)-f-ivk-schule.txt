@@ -1,0 +1,22 @@
+﻿Nevin	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    Einen tag Lea hat gafahren mit den Bus.
+ZIELHYP:  Eines Tages ist Lea mit dem Bus gefahren.
+ORIG2: 	   Wann hat den Bus gestoppt, sie hat steigen aus.
+ZIELHYP:  Als der Bus gestoppt hat, ist sie ausgestiegen.
+ORIG3:     Sie hat die tasche vergessen.
+ZIELHYP:  Sie hat die Tasche vergessen.
+ORIG4:	    Sie hat realisiert Ihre tasche ist weg.
+ZIELHYP:   Sie hat realisiert, ihre Tasche ist weg.
+ORIG5:      Ein alter man hat gewunken von Lea.
+ZIELHYP:   Ein alter Mann hat Lea gewunken.
+ORIG6:     Lea hat gegangen hinter den Bus, aber sie kann nicht holen auf.
+ZIELHYP:  Lea ist hinter dem Bus hergelaufen, aber sie konnte ihn nicht aufholen.
+ORIG7:     Dann den alter mann hat gegeben die tasche von fundbüro, und Lea hat gegangen bis fundbüro,
+ZIELHYP:   Dann hat der alte Mann hat die Tasche im Fundbüro abgegeben, und Lea ist ins Fundbüro gegangen.
+ORIG8:     und den man in fundbüro hat gegeben die tasche von Lea.
+ZIELHYP:  Und der Mann aus dem Fundbüro hat Lea die Tasche gegeben.
+
+
+
+
+

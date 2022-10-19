@@ -1,0 +1,24 @@
+﻿Ezzedin	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    Lea sitze mit Dodo im Bus.
+ZIELHYP:  Lea sitzt mit Dodo im Bus.
+ORIG2: 	   und dan lea muss aufsteige mit dodo.
+ZIELHYP:  Und dann muss Lea mit Dodo aussteigen.
+ORIG3:     Lea hat Schultasch vergesst.
+ZIELHYP:  Lea hat die Schultasche vergessen.
+ORIG4:	    Der Bus aufholen und Lea los geht in der Bus am es schön weck.
+ZIELHYP:   Lea geht los um den Bus aufzuholen, aber er ist schon weg.
+ORIG5:      der Mann hat die Tasch abgeben von Fundbüro,
+ZIELHYP:   Der Mann hat die Tasche im Fundbüro abgegeben.
+ORIG6:     und lea gegangen in das Fundbüro.
+ZIELHYP:  Und Lea ist ins Fundbüro gegangen.
+ORIG7:     Und lea hat sein Tasch gewundend.
+ZIELHYP:   Und Lea hat ihre Tasche gefunden.
+ORIG8:     Sie ist freuen.
+ZIELHYP:  Sie freut sich.
+ORIG9:     Sie ist verabschieden und dan gehen sie in der Haus.
+ZIELHYP:  Sie verabschiedet sich und dann geht sie nach Hause.
+
+
+
+
+

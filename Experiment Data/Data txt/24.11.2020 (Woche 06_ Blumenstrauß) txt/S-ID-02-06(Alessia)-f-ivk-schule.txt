@@ -1,0 +1,21 @@
+﻿Alessia 	Woche 6 (Blumenstrauß)	Datum 13.02.2020
+ORIG1:     Lea und Lars, etwas sammeln die Blaumen in die Wies von seine Oma.
+ZIELHYP:   Lea und Lars sammeln die Blumen auf der Wiese für ihre Oma.
+ORIG2: 	    Nach der RücKKehr nach Haus gibt die Blaumen von seine Oma schließen stellt in die Vase.
+ZIELHYP:   Nach der Rückkehr nach Hause geben sie die Blumen ihrer Oma, schließlich stellt die Oma die Blumen in eine Vase.
+ORIG3:      Während Lea und lars den Tisch decken, die Oma etwas riechen die Blaumen. 
+ZIELHYP:   Während Lea und Lars den Tisch decken, riecht die Oma an den Blumen.
+ORIG4:	    Lea, Lars und Oma gehen in Tisch.
+ZIELHYP:   Lea, Lars und die Oma gehen zum Tisch.
+ORIG5:      Während essen sie, sehen ein der Marienkäfer Lehnen sie sich an den Finger ihrer Großmutter.
+ZIELHYP:    Während sie essen, sehen sie einen Marienkäfer, der an dem Finger ihrer Großmutter lehnt.
+ORIG6:       Und sie waren erstaunt. 
+ZIELHYP:    Und sie waren erstaunt.
+ORIG7:        Am End wir sehen eine spinne mit oder die Insekten,
+ZIELHYP:     Am Ende sehen wir eine Spinne und die Insekten.
+ORIG8:        Die oma ist glücklich, Während Lea und Lars waren sich erschrecken
+ZIELHYP:     Die Oma ist glücklich, während Lea und Lars sich erschrocken haben.
+
+
+
+

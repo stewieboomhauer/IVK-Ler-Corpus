@@ -1,0 +1,38 @@
+﻿Yazan	Woche 8 (Verlust)	Datum 08.12.2020
+ORIG1:   heute ist Lea traurig. weil sie dodo verloren hat. 
+ZIELHYP: Heute ist Lea traurig, weil sie Dodo verloren hat.
+ORIG2: 	   sie steht mit auf zehen spitzen da, um Aus hang zettel auf kleben an Dodo vermisst hat. 
+ZIELHYP:  Sie steht auf Zehenspitzen da, um einen Aushangzettel aufzukleben, auf dem steht, dass Dodo vermisst wird. 
+ORIG3:     dann Lea hat angzettel angeklebt im wann. 
+ZIELHYP:  Dann hat Lea den Aushangzettel an die Wand angeklebt. 
+ORIG4:	    Dann Lea hat sich traurig gefühtlt und sie hat geweint auf dem fensterbett. 
+ZIELHYP:   Dann hat Lea sich traurig gefühlt und sie hat auf dem Fensterbrett geweint. 
+ORIG5:	    und Lea gewartet hat Neben von Telefon. 
+ZIELHYP:   Und Lea hat neben dem Telefon gewartet.
+ORIG6:	    und plötzlich bekommt Lea anruf 
+ZIELHYP:   Und plötzlich bekommt Lea einen Anruf. 
+ORIG7:	    dann hat sie gerant. zum telefon. 
+ZIELHYP:   Dann ist sie zum Telefon gerannt. 
+ORIG8:	    und Lea hat sich traurig gefühllt. 
+ZIELHYP:   Und Lea hat sich traurig gefühlt.
+ORIG9:	    Dann Lars hat gesagt dodo bei mir. 
+ZIELHYP:   Dann hat Lars gesagt: „Dodo ist bei mir.“
+ORIG10:	    Dann Lea hat gejubelt. weil sie dodo gefündt hat. 
+ZIELHYP:  Dann hat Lea gejubelt, weil sie Dodo gefunden hat. 
+ORIG11:    Dannach hat Lars züruk gekommen und Lea hat Lars gewartet und den Fensterbrett. und an. der tür Klingeln 
+ZIELHYP:  Danach ist Lars zurückgekommen und Lea hat auf Lars auf dem Fensterbrett gewartet und es klingelt an der Tür.
+ORIG12:    Lea hat dir tür auf machen. und dodo gebellt hat, weil dodo lars gekinglt zurük.
+ZIELHYP:   Lea hat die Tür aufgemacht und Dodo hat gebellt, weil Lars Dodo zurückgebracht hat.
+ORIG13:    und dann lea hat Lars umarmt. 
+ZIELHYP:   Und dann hat Lea Lars umarmt. 
+ORIG14:    dann sie halte eine stielbonbon.
+ZIELHYP:   Dann hält sie einen Stielbonbon.
+ORIG15:    und Lars hat Finger gedroht von dodo. 
+ZIELHYP:   Und Lars hat Dodo mit dem Finger gedroht. 
+ORIG16:  und dodo hat gegessen. 
+ZIELHYP: Und Dodo hat gegessen. 
+ORIG17:  und fertig.
+ZIELHYP: Und fertig.
+
+
+

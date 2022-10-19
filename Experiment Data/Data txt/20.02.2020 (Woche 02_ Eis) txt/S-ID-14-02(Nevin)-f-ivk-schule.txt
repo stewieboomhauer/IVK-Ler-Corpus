@@ -1,0 +1,19 @@
+﻿Nevin	Woche 2 (Eis)	Datum 01.03.2020
+ORIG1:     Einen tag Lea, Lars, und Dodo haben gegangen für Eis nach Eiskiosk.
+ZIELHYP:  Eines Tages sind Lea, Lars und Dodo für Eis in den Eiskiosk gegangen.
+ORIG2: 	    Wann sie haben gekaufen zwei Kugel Eis Lea hat gestolpern und das Eis hat geherunterfallen.
+ZIELHYP:   Als sie zwei Eiskugeln gekauft haben, ist Lea gestolpert und das Eis ist heruntergefallen.
+ORIG3:      Lea hat start weinen.
+ZIELHYP:   Lea hat angefangen zu weinen.
+ORIG4:	    Lars hat Lea umarmen und er hat teilen ihn Eis mit Lea.
+ZIELHYP:   Lars hat Lea umarmt und er hat sein Eis mit Lea geteilt.
+ORIG5:      Zuletzt Alles waren glücklich.
+ZIELHYP:   Zuletzt waren alle glücklich.
+
+
+
+
+
+
+
+

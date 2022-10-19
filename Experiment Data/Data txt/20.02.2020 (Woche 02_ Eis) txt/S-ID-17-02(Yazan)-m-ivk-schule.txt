@@ -1,0 +1,25 @@
+﻿Yazan	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:    Lea und Lars und Dodo gehen zuerst in der Eiskiosk.
+ZIELHYP: Lea und Lars und Dodo gehen zuerst in den Eiskiosk.
+ORIG2: 	   Danach Lea und Lars kaufen Eis.
+ZIELHYP:  Danach kaufen Lea und Lars Eis.
+ORIG3:     Danach Lea und Lars etwas genießen lecken und tropfen.
+ZIELHYP:  Danach genießen Lea und Lars etwas, lecken das Eis und es tropft.
+ORIG4:	    Danach plötzlich. Lars über etwas stolpern.
+ZIELHYP:   Danach stolpert Lars plötzlich über etwas.
+ORIG5:	    Danach herunterfalen.
+ZIELHYP:   Danach fällt das Eis herunter.
+ORIG6:	    Dann Lars weinen.
+ZIELHYP:   Dann weint Lars.
+ORIG7:	    Danach Lars etwas teilen Eis.
+ZIELHYP:   Danach teilt Lars das Eis.
+ORIG8:	    Danach sich umarmen in Lea.
+ZIELHYP:   Danach umarmt Lars Lea.
+ORIG9:	    Lea sich freuen.
+ZIELHYP:   Lea freut sich.
+ORIG10:    Dann Dodo bleiben Lecken. Zuletzt
+ZIELHYP:   Zuletzt bleibt Dodo, um das Eis zu lecken.
+
+
+
+

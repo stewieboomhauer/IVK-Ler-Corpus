@@ -1,0 +1,15 @@
+﻿Anwaar	Woche 5 (Schnecken)	Datum 25.03.2020
+
+ORIG1:    lera lars und der dodo die waren in eine Gartenmora und die suchen sich schnecken. 
+ZIELHYP:  Lea, Lars und der Dodo, die waren in einem Garten und sie suchen Schnecken. 
+ORIG2: 	   lera und lars haben die zu ihr oma gegangen und die schnecken zu zeigen
+ZIELHYP:  Lea und Lars sind zu ihrer Oma gegangen, um die Schnecken zu zeigen
+ORIG3:    lera und lars haben die schnecken buntlen gemalt. 
+ZIELHYP: Lea und Lars haben die Schnecken bunt bemalt.
+ORIG4:	   lera und lars haben die Schnecken fertig gemalt. 
+ZIELHYP:  Lea und Lars haben die Schnecken fertig bemalt. 
+ORIG5:      lera und lars waren viel müde und die haben geschlaffen. 
+ZIELHYP:   Lea und Lars waren sehr müde und haben geschlafen. 
+ORIG6:      dannach haben die aufgeschteht und haben alen Schnecken auf ihrem Bett gesehen.
+ZIELHYP:    Danach sind sie aufgestanden und haben alle Schnecken auf ihrem Bett gesehen.
+

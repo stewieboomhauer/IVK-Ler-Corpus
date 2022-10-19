@@ -1,0 +1,24 @@
+﻿Mahy	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:     Lea und Lars und Dodo gehen zusamen zum EisKiosk 
+ZIELHYP:   Lea und Lars und Dodo gehen zusammen zum Eiskiosk
+ORIG2: 	    und wir kaufen Eis aber Dodo kann es nicht essen.
+ZIELHYP:   Und wir kaufen Eis aber Dodo kann es nicht essen.
+ORIG3:      Wir kaufen zwei Kugel mit Eis.
+ZIELHYP:   Wir kaufen zwei Eiskugeln.
+ORIG4:	    Wir genießen hnnn hnn Lecke.
+ZIELHYP:   Wir genießen, hmmm hmm lecker.
+ORIG5:      Oh no Dodo Nein.
+ZIELHYP:    Oh nein, Dodo, nein.
+ORIG6:       Lea herunterfallen und fallen eis.
+ZIELHYP:    Lea fällt um und das Eis fällt.
+ORIG7:        Jetzt sie ist Traurigen und weinen.
+ZIELHYP:     Jetzt ist sie traurig und weint.
+ORIG8:        Lars umarmen Nein Lea nicht weint. 
+ZIELHYP:     Lars umarmt Lea: „Nein, Lea, wein nicht!“
+ORIG9:        Ich kann Teile mein Eis mit du.
+ZIELHYP:     Ich kann mein Eis mit dir teilen.
+ORIG10:      Sich freuen Jatzt.
+ZIELHYP:     Sie freuen sich jetzt.
+
+
+

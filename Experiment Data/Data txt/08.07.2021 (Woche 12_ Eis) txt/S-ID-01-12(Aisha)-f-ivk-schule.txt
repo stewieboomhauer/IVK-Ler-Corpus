@@ -1,0 +1,25 @@
+﻿Aisha 	Woche 12 (Eis)	Datum 08.07.2021
+ORIG1:     Es ist Sommer. 
+ZIELHYP:  Es ist Sommer.
+ORIG2: 	    Es ist einer Guter Tag. 
+ZIELHYP:   Es ist ein guter Tag.
+ORIG3:      Lea und Lars wollen ein Eis essen. 
+ZIELHYP:   Lea und Lars wollen Eis essen.
+ORIG4:	     Neben Leas Haus, gibt es ein Eiskiosk. 
+ZIELHYP:    Neben Leas Haus gibt es einen Eiskiosk.
+ORIG5:       Sie zeigen die geschmack und dann suchen aus. 
+ZIELHYP:    Sie zeigen den Geschmack und dann suchen sie Eis aus.
+ORIG6:       Dann gehen sie spazieren mit Dodo, ihr Hund. 
+ZIELHYP:    Dann gehen sie mit Dodo, ihrem Hund, spazieren. 
+ORIG7:       Plötzlich, ist Lea auf dem Boden runtergefallen. 
+ZIELHYP:    Plötzlich ist Lea auf den Boden runtergefallen.
+ORIG8:       Sie hat ihre Eis auf dem Boden Fallen gelassen. 
+ZIELHYP:    Sie hat ihr Eis auf den Boden fallen gelassen. 
+ORIG9:       Sie hat viel geweint. 
+ZIELHYP:    Sie hat viel geweint.
+ORIG10:      Dann Lars hat ein Idee: er Teilt sein Eis mit Lea. 
+ZIELHYP:     Dann hat Lars eine Idee: Er teilt sein Eis mit Lea.
+ORIG11:      Sie umarmen sich. 
+ZIELHYP:     Sie umarmen sich.
+ORIG12:      Während sie spazieren gehen, isst Dodo das Eis auf dem Boden.
+ZIELHYP:    Während sie spazieren gehen, isst Dodo das Eis von dem Boden.

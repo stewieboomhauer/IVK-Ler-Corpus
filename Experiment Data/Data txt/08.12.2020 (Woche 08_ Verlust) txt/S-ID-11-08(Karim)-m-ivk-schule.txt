@@ -1,0 +1,24 @@
+﻿Karim	Woche 8 (Verlust)	Datum 08.12.2020
+
+ORIG1:     Sie hat der hund. varloh 
+ZIELHYP:   Sie hat den Hund verloren.
+ORIG2: 	    sie weint und sie hat etwas ankleben. 
+ZIELHYP:   Sie weint und sie hat etwas anklebt. 
+ORIG3:      Sie kokt Anruf Telefon
+ZIELHYP:   Sie guckt Anrufe auf dem Telefon.
+ORIG4:	    klingeln Haustür 
+ZIELHYP:   Es klingelt an der Haustür.
+ORIG4:	    lars hat dodo gevonden 
+ZIELHYP:   Lars hat Dodo gefunden.
+ORIG5:	    lars hat angerufen Kiehe Sorge Dodo ist bie mir 
+ZIELHYP:   Lars hat angerufen: „Keine Sorge. Dodo ist bei mir.“
+ORIG6:	    und. lart hat mit bonbon gebracht 
+ZIELHYP:   Und Lars hat einen Bonbon mitgebracht.
+ORIG7:	    un lars kommt nach und lea ist grugliesch.
+ZIELHYP:   Und Lars kommt nach Hause und Lea ist glücklich.
+ORIG7:	    lea hat gesagkt Danke
+ZIELHYP:   Lea hat gesagt: “Danke.“
+
+
+
+

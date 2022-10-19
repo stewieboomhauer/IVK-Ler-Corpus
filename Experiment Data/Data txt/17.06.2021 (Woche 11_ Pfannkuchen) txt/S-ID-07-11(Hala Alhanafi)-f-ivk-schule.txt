@@ -1,0 +1,27 @@
+﻿Hala Alhanafi	Woche 11 (Pfannkuchen)	Datum 17.06.2021
+
+ORIG1:    Am Abend Lea will einen Pfan Kuchen. 
+ZIELHYP: Am Abend will Lea einen Pfannkuchen. 
+ORIG2: 	   Fernanolo hat gesagt: okay ich berete Jetze zu. 
+ZIELHYP:  Fernando hat gesagt: „Okay, ich bereite jetzt den Teig zu.“
+ORIG3:     Lea und Fernanolo tragen eine schürzen. 
+ZIELHYP:  Lea und Fernando tragen Schürzen. 
+ORIG4:	    Dann lea rührt den Teig und Fernanolo brecht Eier. 
+ZIELHYP:   Dann rührt Lea den Teig und Fernando bricht Eier. 
+ORIG5:	    lea gießt den Teig in Pfanne. 
+ZIELHYP:   Lea gießt den Teig in die Pfanne.
+ORIG6:	    Fernanolo wendt Pfann Kuchen, Pfann Kuchen beim wenden reißt. 
+ZIELHYP:   Fernando wendet Pfannkuchen und reißt Pfannkuchen beim Wenden. 
+ORIG7:	    der Pfann Kuchen herunter fallen. 
+ZIELHYP:   Der Pfannkuchen ist heruntergefallen.  
+ORIG8:	    lea wendt PfannKuchen mit Pfann und Fernanolo Putze den Boden. 
+ZIELHYP:   Lea wendet Pfannkuchen mit der Pfanne und Fernando putzt den Boden.
+ORIG9:     der PfannKuchen landt auf der Kopf. 
+ZIELHYP:   Der Pfannkuchen landet auf den Kopf. 
+ORIG10:    und Fernanolo ist überracht und lea ist Kichern. 
+ZIELHYP:   Und Fernando ist überrascht und Lea kichert.  
+ORIG11:    Happy Ending.
+ZIELHYP:   Happy End.
+
+
+

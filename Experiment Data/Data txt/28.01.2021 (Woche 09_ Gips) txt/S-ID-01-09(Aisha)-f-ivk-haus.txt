@@ -1,0 +1,20 @@
+﻿Aisha 	Woche 9 (Gips)	Datum 28.01.2021
+ORIG1:     Lea und Lars machen eine Radtour. 
+ZIELHYP:  Lea und Lars machen eine Radtour. 
+ORIG2: 	    In der Kurve fälllt Lars vom Fahradd. 
+ZIELHYP:   In der Kurve fällt Lars vom Fahrrad.
+ORIG3:      Lara hilft Lars und dann sie gehen ins Krankenhaus. 
+ZIELHYP:   Lara hilft Lars und dann gehen sie ins Krankenhaus. 
+ORIG4:	     Die Ärztin untersucht Lars und sein Bein. 
+ZIELHYP:    Die Ärztin untersucht Lars und sein Bein. 
+ORIG5:       Er weint so viel. 
+ZIELHYP:    Er weint so viel.
+ORIG6:       Die Ärztin verbindet ihr Bein mit der Gips. 
+ZIELHYP:    Die Ärztin verbindet sein Bein mit dem Gips.
+ORIG7:       In der Schule schreiben Lars Freunde auf dem Gips.
+ZIELHYP:    In der Schule schreiben die Freunde von Lars auf den Gips.
+ORIG8:       Er lauft mit Krücken.
+ZIELHYP:    Er läuft mit Krücken.
+
+
+

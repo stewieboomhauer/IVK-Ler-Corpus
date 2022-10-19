@@ -1,0 +1,15 @@
+﻿Ezzedin	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:    Lar und lea und Dodu und gehen sie Eiskulufen und essen das Eis und Lea plötzlich Fallen 
+ZIELHYP:  Lars und Lea und Dodo gehen das Eis kaufen und essen das Eis und Lea fällt plötzlich. 
+ORIG2: 	   und Lars Helft lea und dodo essist Eis in den Boden
+ZIELHYP:  Und Lars hilft Lea und Dodo isst das Eis vom Boden. 
+ORIG3:     und lea weinen und Lars teilen das Eis
+ZIELHYP:  Und Lea weint und Lars teilt das Eis.
+ORIG4:	    und sie essen das Eis und sich freuen
+ZIELHYP:   Und sie essen das Eis und freuen sich.
+ORIG5:      und Zuletzt und und und und Firtig und Firtig und und und umarmen Lars und Lea und Dodo
+ZIELHYP:   Und zuletzt und und und und fertig und fertig und und und Lars und Lea und Dodo umarmen sich.
+
+
+
+

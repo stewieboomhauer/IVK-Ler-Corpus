@@ -1,0 +1,22 @@
+﻿Reem	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:    Lea und Lars treffen und begrüßen 
+ZIELHYP: Lea und Lars treffen und begrüßen sich.
+ORIG2: 	  Lea zeigt etwas. 
+ZIELHYP: Lea zeigt etwas.
+ORIG3:    Lars überrascht sein.
+ZIELHYP: Lars ist überrascht.
+ORIG4:    Oh Lea das ist dodo? 
+ZIELHYP: „Oh, Lea, ist das Dodo?“
+ORIG5:	 Ja!!!
+ZIELHYP: Ja!!!
+ORIG6:   Lea un Lars in die Schule gehen und im Unterricht sitzen. 
+ZIELHYP: Lea und Lars gehen in die Schule und sitzen im Unterricht.
+ORIG7:    Lea rechnt 
+ZIELHYP: Lea rechnet.
+ORIG8:    dodo schleicht und anbellt 
+ZIELHYP:  Dodo schleicht und bellt den Vogel an.
+ORIG9:    die Leherin ist überrascht und lea hat Angt Jetzt. 
+ZIELHYP: Die Lehrerin ist überrascht und Lea hat jetzt Angst. 
+ORIG10:  Lea schämet (obs)
+ZIELHYP: Lea schämt sich.
+

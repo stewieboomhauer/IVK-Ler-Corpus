@@ -1,0 +1,39 @@
+﻿Hala Alhamoud	Woche 6 (Blumenstrauß)	Datum 24.11.2020
+ORIG1:      Zuerst gehen Lea und Lars auf die wiese.
+ZIELHYP:   Zuerst gehen Lea und Lars auf die Wiese.
+ORIG2: 	    Danach sammeln sie Blummen.
+ZIELHYP:   Danach sammeln sie Blumen.
+ORIG3:      Dann Lea und Lars besuchen die oma.
+ZIELHYP:   Dann besuchen Lea und Lars die Oma.
+ORIG4:	     Und die Oma begrüßt Lea und Lars.
+ZIELHYP:   Und die Oma begrüßt Lea und Lars.
+ORIG5:      Dann schenken Sie die oma einem Blumenstrauß und die oma freut sich.
+ZIELHYP:    Dann schenken Sie der Oma einen Blumenstrauß und die Oma freut sich.
+ORIG6:       Danach die Oma stellt die Blumen in die Vase.
+ZIELHYP:    Danach stellt die Oma die Blumen in die Vase.
+ORIG7:       Dann decken Lea und Lars den Tisch.
+ZIELHYP:    Dann decken Lea und Lars den Tisch.
+ORIG8:        Und die Oma richt die Blumen.
+ZIELHYP:     Und die Oma riecht an den Blumen.
+ORIG9:        Und sie genießen. 
+ZIELHYP:     Und sie genießen.
+ORIG10:      Danach essen Sie.
+ZIELHYP:     Danach essen sie.
+ORIG11:      Und es gibt einen Marienkäfer auf dem Finger von oma.
+ZIELHYP:     Und es ist ein Marienkäfer auf dem Finger von der Oma.
+ORIG12:      Und sie freut sich.
+ZIELHYP:     Und sie freut sich.
+ORIG13:      und Lea und Lars sind überrascht.
+ZIELHYP:     Und Lea und Lars sind überrascht.
+ORIG14:      Es gibt Insekten überall.
+ZIELHYP:     Es sind überall Insekten.
+ORIG15:     und Es gibt eine Spinne, Die Spinne kricht herum.
+ZIELHYP:    Und da ist eine Spinne, die Spinne kriecht herum.
+ORIG16:     und die Oma lacht. 
+ZIELHYP:   Und die Oma lacht.
+ORIG17:    und Lea und Lars sind überrascht und verwirrt.
+ZIELHYP:   Und Lea und Lars sind überrascht und verwirrt.
+
+
+
+

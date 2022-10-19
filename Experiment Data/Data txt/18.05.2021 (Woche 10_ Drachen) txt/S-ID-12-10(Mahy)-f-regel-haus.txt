@@ -1,0 +1,26 @@
+﻿Mahy	Woche 10 (Drachen)	Datum 22.06.2021
+
+ORIG1:      Ja, Lea hat Geburtstag, schokoladen Kuchen, Kerzen und ein großen Geschenk für Lea und Sie möchte das Geschenk mit ihrem Bruder Lars teilen. 
+ZIELHYP:   Ja, Lea hat Geburtstag, einen schokoladenen Kuchen, Kerzen und ein großeß Geschenk für Lea und sie möchte das Geschenk mit ihrem Bruder Lars teilen.
+ORIG2: 	    sie öffnet das Geschenk mit großer Begeisterung, 
+ZIELHYP:   Sie öffnet das Geschenk mit großer Begeisterung. 
+ORIG3: Lea: was ist das, was ist das?!!!
+ZIELHYP: Lea: “Was ist das, was ist das?!!!“
+ORIG4:      Nachdem sie die GeschenKbox geöffnet hatte, war sie überrascht. 
+ZIELHYP:   Nachdem sie die Geschenkbox geöffnet hatte, war sie überrascht.
+ORIG5:	    Lea: was is ein Drachen in Form eines Papageis? 
+ZIELHYP:   Lea: „Was ist ein Drachen in Form eines Papageis?“
+ORIG6:      Lars: magst du das? 
+ZIELHYP:    Lars: „Magst du das?“
+ORIG7:       Ich habe es für dich geKaft. 
+ZIELHYP:    Ich habe es für dich gekauft.
+ORIG8:       Lea: omg Vielen danke voll schön. 
+ZIELHYP:   Lea: „OMG. Vielen Dank. Voll schön.“
+ORIG8:      Lea und Lars wollen draußen mit Drachen spielen. 
+ZIELHYP:   Lea und Lars wollen draußen mit dem Drachen spielen.
+ORIG9:      Plötzlich blies ein starke wind. 
+ZIELHYP:   Plötzlich blies ein starker Wind.
+ORIG10:  Lea versuchte das Drachen gut zu halten, aber es flogt über den Baum und blieb stecken. 
+ZIELHYP: Lea versuchte den Drachen gut zu halten, aber es flog über den Baum und blieb stecken. 
+ORIG11: Lea zeigt auf das Drachen und sagt: lasst uns den Drachen retten 
+ZIELHYP: Lea zeigt auf den Drachen und sagt: “Lass uns den Drachen retten.“

@@ -1,0 +1,21 @@
+﻿Hadi	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:     Lea und Lars sich treffen
+ZIELHYP:  Lea und Lars treffen sich.
+ORIG2: 	    Lea und sich einander begrüßen und Lars überrascht sein
+ZIELHYP:   Lea und Lars begrüßen sich und Lars ist überrascht.
+ORIG3:    Dodo indie schule gehen
+ZIELHYP: Dodo geht in die Schule.
+ORIG4:	    Lea und Lars und Dodo im unterrichtsitzen
+ZIELHYP:   Lea und Lars und Dodo sitzen im Unterricht.
+ORIG5:      Aufgaben machen
+ZIELHYP:   Sie machen Aufgaben.
+ORIG6:       Schleichen plötzlich jemandenanbellen 
+ZIELHYP:   Dodo schleicht plötzlich und bellt jemanden an.
+ORIG7:       sicherschrecken Lea in Dodo sich Füretwas (Akk) schämen.
+ZIELHYP:    Lea erschreckt sich vor Dodo, sie schämt sich für etwas.
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+﻿Karim	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:     Lea und Lars sich treffen
+ZIELHYP:   Lea und Lars treffen sich.
+ORIG2: 	    sich einander begrüßen zeigt Dado
+ZIELHYP:   Sie begrüßen sich, Lea zeigt Dodo.
+ORIG3:      lea und dado sitze im unterecht
+ZIELHYP:   Lea und Dodo sitzen im Unterricht.
+

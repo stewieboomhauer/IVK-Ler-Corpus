@@ -1,0 +1,34 @@
+﻿Hala Alhanafi	Woche 9 (Gips)	Datum 28.01.2021
+
+ORIG1:    Lea: Hallo lars. 
+ZIELHYP: Lea: “Hallo, Lars.”
+ORIG2: 	   Komm mit mir, und spielt Fahrrad.
+ZIELHYP:  „Komm mit mir und spiel mit dem Fahrrad.“
+ORIG3:     lars und lea spielt mit dem Fahrrad
+ZIELHYP:  Lars und Lea spielen mit dem Fahrrad.
+ORIG4:	    lars fahrt Geschwindigkeit,
+ZIELHYP:   Lars fährt mit hoher Geschwindigkeit.
+ORIG5:	    Er hat einen Unfall,
+ZIELHYP:   Er hat einen Unfall.
+ORIG6:	    lea: geht es dir gut,
+ZIELHYP:   Lea: „Geht es dir gut?“
+ORIG7:	    lea kontrolliert sich er heit lars, lars erschreckt. 
+ZIELHYP:   Lea kontrolliert Lars, Lars erschreckt sich. 
+ORIG8:	    lea gehet ihn ins Krankenhaus. 
+ZIELHYP:   Lea geht mit ihm ins Krankenhaus.
+ORIG9:	    die Ärztin: Was ist Passiert? 
+ZIELHYP:   Die Ärztin: „Was ist passiert?“
+ORIG10:    lea: er von Fahrrad gefalt. 
+ZIELHYP:   Lea: „Er ist vom Fahrrad gefallen.“
+ORIG11:    die Ärztin untersucht gemacht. 
+ZIELHYP:   Die Ärztin hat eine Untersuchung gemacht. 
+ORIG12:    Sie gipst der Gips lars Fuß.
+ZIELHYP:   Sie gipst den Fuß von Lars in den Gips.
+ORIG13:    Am nächste Tag lars geht in der schule,
+ZIELHYP:   Am nächsten Tag geht Lars in die Schule.
+ORIG14:    die Mitschülen unstauen vor lars und unterstützen. 
+ZIELHYP:   Die Mitschüler starren Lars an und unterstützen ihn. 
+ORIG15:    die Mitschülen  unter schreiben vor Gips. 
+ZIELHYP:   Die Mitschüler unterschreiben auf dem Gips. 
+ORIG16:    lars ist zufrieden und glücklich.
+ZIELHYP:   Lars ist zufrieden und glücklich.

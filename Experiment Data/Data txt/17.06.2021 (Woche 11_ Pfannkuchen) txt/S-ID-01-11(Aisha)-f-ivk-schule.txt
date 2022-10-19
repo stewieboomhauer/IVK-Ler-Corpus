@@ -1,0 +1,27 @@
+﻿Aisha 	Woche 11 (Pfannkuchen)	Datum 17.06.2021
+
+ORIG1:     Heute ist ein Gute Tag für Kochen. 
+ZIELHYP:  Heute ist ein guter Tag zum Kochen. 
+ORIG2: 	    Lea und ihr Vather, Fernando, wollen Pfankuchen kochen. 
+ZIELHYP:   Lea und ihr Vater, Fernando, wollen Pfannkuchen kochen.
+ORIG3:      Sie machen der Teig mit Eier, Mehl und Wasser. 
+ZIELHYP:   Sie machen den Teig mit Eiern, Mehl und Wasser.
+ORIG4:	     Dann rührt Lea den Teig in die schüssel. 
+ZIELHYP:    Dann rührt Lea den Teig in der Schüssel.
+ORIG5:       Sie warten für 5 Minuten, 
+ZIELHYP:    Sie warten 5 Minuten.
+ORIG6:       Dann gießt Lea der Teig in die Pfanne. 
+ZIELHYP:    Dann gießt Lea den Teig in die Pfanne. 
+ORIG7:       Während gießt Lea der Teig, hält Fernando die Pfanne. 
+ZIELHYP:    Während Lea den Teig gießt, hält Fernando die Pfanne.
+ORIG8:       wende die Pfannkuchen aber er ist nicht so gut, deshalb ist die Pfannkuchen untergefallen. 
+ZIELHYP:    Fernando wendet den Pfannkuchen, aber er ist nicht so gut, deshalb ist der Pfannkuchen runtergefallen.
+ORIG9: 	     Lea will probiert das auch. 
+ZIELHYP:    Lea will das auch probieren.
+ORIG10:    Während Lea wendet die Pfannkuchen, putzt Fernando den Boden. 
+ZIELHYP:   Während Lea den Pfannkuchen wendet, putzt Fernando den Boden.
+ORIG11:    Trotzdem ist die Pfannkuchen auf dem Kopf von Fernando gelandet. 
+ZIELHYP:   Trotzdem ist der Pfannkuchen auf den Kopf von Fernando gelandet. 
+ORIG12:    Er ist sehr überrascht aber Lea hat viel spaß gehabt.
+ZIELHYP:   Er ist sehr überrascht, aber Lea hat viel Spaß gehabt.
+

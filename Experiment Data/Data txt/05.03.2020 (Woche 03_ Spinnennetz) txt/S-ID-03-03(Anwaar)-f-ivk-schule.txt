@@ -1,0 +1,21 @@
+﻿Anwaar 	Woche 3 (Spinnennetz)	Datum 03.03.2020
+ORIG1:     Sie serd im Bett.
+ZIELHYP:  Sie sind im Bett.
+ORIG2:	Lars erschreckt sich.
+ZIELHYP:   Lars erschreckt sich.
+ORIG3:      das Spinnennetz im zimmer.
+ZIELHYP:   Das Spinnennetz ist im Zimmer.
+ORIG4:	die Spinne in der Ecke.
+ZIELHYP:    Die Spinne ist in der Ecke.
+ORIG5:       Lars zeigt Lars Spinne.
+ZIELHYP:    Lars zeigt Lars die Spinne.
+ORIG6:       Lars schaut die Spinne an.
+ZIELHYP:    Lars schaut die Spinne an.
+ORIG7:       die Spinne freilässt
+ZIELHYP:    Er lässt die Spinne frei.
+ORIG8:       Sie sind schlafen gehen.
+ZIELHYP:    Sie gehen schlafen.
+ORIG9:       Lars steht auf, er ist überrascht das spinnennetz.
+ZIELHYP:    Lars steht auf, er ist überrascht vom Spinnennetz.
+
+

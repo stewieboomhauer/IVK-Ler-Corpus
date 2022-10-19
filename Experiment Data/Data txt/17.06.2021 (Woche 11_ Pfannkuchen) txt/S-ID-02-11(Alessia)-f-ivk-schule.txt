@@ -1,0 +1,24 @@
+﻿Alessia 	Woche 11 (Pfannkuchen)	Datum 17.06.2021
+
+ORIG1:     Heute ist eine gute tag, und Lea mit ihre Vater machen PfanKuchen. 
+ZIELHYP:   Heute ist ein guter Tag und Lea mit ihrem Vater machen Pfannkuchen. 
+ORIG2: 	    Wir machen der Teig in eine Schüssel, 
+ZIELHYP:   Wir machen den Teig in eine Schüssel. 
+ORIG3:     dann Lea geißen der Teig in die Pfanne, 
+ZIELHYP:  Dann gießt Lea den Teig in die Pfanne.
+ORIG4:	    der Vater macht die Pfannkuchen wenden. 
+ZIELHYP:   Der Vater wendet die Pfannkuchen.
+ORIG5:      Aber die Pfannkuchen hunterfallen auf dem boden. 
+ZIELHYP:    Aber die Pfannkuchen fallen auf den Boden herunter. 
+ORIG6:       Jetzt Lea lenden machen, Während die Vater putzen an den boden. 
+ZIELHYP:    Jetzt wendet Lea die Pfannkuchen, während der Vater den Boden putzt.
+ORIG7:       Wann Lea hat Lea hat landen die PfannKuchen hat fallen lase auf die Kopf von der Vater.
+ZIELHYP:    Als Lea es gemacht hat, landen die Pfannkuchen auf den Kopf von dem Vater.
+ORIG8:       Trotzdem Lea Kichern und ihre Vater ist überrascht.
+ZIELHYP:    Trotzdem kichert Lea und ihr Vater ist überrascht.
+
+
+
+
+
+

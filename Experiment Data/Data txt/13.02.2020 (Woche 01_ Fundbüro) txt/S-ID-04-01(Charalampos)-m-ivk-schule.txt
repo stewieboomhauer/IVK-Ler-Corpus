@@ -1,0 +1,19 @@
+﻿Charalampos	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    Lea Fahrt in Bus. 
+ZIELHYP: Lea fährt im Bus. 
+ORIG2: 	   Mit der Bus fährt auch ein Man mit Stock.
+ZIELHYP:  Mit dem Bus fährt auch ein Mann mit Stock.
+ORIG3:     Lea hat ein Hund, er heißt Dodo.
+ZIELHYP:  Lea hat einen Hund, er heißt Dodo.
+ORIG4:	    Lea und sein Hund steigen aus aber sie vergesst seine ….. Tasche!!!
+ZIELHYP:   Lea und ihr Hund steigen aus, aber sie vergisst ihre … Tasche!!!
+ORIG5:     Der Alter Mann sieht die Tasche aber der Bus Fährt ab.
+ZIELHYP:   Der alte Mann sieht die Tasche, aber der Bus fährt ab.
+ORIG6:     Lea realisiert und versucht der Bus aufzuholen aber sie kann nicht.
+ZIELHYP:  Lea realisiert, dass… und versucht den Bus aufzuholen, aber sie kann nicht.
+ORIG7:    Der alter Mann geht in Fundbüro und giebt die Tasche von Lea ab.
+ZIELHYP: Der alte Mann geht ins Fundbüro und gibt die Tasche von Lea ab.
+ORIG8:     Sie freut sich winkt und verabschiedet sich und geht mit Dodo in Park
+ZIELHYP:  Sie freut sich, winkt und verabschiedet sich und geht mit Dodo in den Park.
+ 
+

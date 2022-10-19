@@ -1,0 +1,25 @@
+﻿Yazan	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:    Lars und Lea trefft und einander begrüßen
+ZIELHYP:  Lars und Lea treffen sich und begrüßen einander.
+ORIG2: 	   Dann DoDo zeigen
+ZIELHYP:  Dann zeigt Lea Dodo. 
+ORIG3:     Dann versteckst
+ZIELHYP:  Dann versteckt sie ihn.
+ORIG4:     Überrascht sein in Dodo hat Lars
+ZIELHYP:  Lars ist überrascht wegen Dodo.
+ORIG5:	    Danach in die Schule gehen
+ZIELHYP:   Danach gehen sie in die Schule. 
+ORIG6:      Dann im Unterricht sitzen,
+ZIELHYP:   Dann sitzen sie im Unterricht.
+ORIG7:      Dann Lea rechnen lea Aufgaben machen
+ZIELHYP:   Dann rechnet Lea, Lea macht Aufgaben.
+ORIG8:      Schleichen eimfach. 
+ZIELHYP:   Dodo schleicht einfach.
+ORIG9:      Dann Dodo pötzlich jemanden anbellen
+ZIELHYP:   Dann bellt Dodo plötzlich jemanden an.
+ORIG10:  Dann Lea sich erschrecken und sich für schämen wei Lehraren.
+ZIELHYP: Dann erschreckt sich Lea und schämt sich vor der Lehrerin.
+
+
+
+

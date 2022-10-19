@@ -1,0 +1,28 @@
+﻿Aisha 	Woche 10 (Drachen)	Datum 18.05.2021
+
+ORIG1:     Heute hat Lea Geburtstag. 
+ZIELHYP:  Heute hat Lea Geburtstag. 
+ORIG2: 	    Sie ist jezt 9. 
+ZIELHYP:   Sie ist jetzt 9. 
+ORIG3:      Lars tragt eine große Geschenk. 
+ZIELHYP:   Lars trägt ein großes Geschenk.
+ORIG4:	     Das ist vor Lea. 
+ZIELHYP:    Das ist für Lea.
+ORIG5:       Sie bekommen diese Geschenk, Sie ist neugierig. 
+ZIELHYP:    Sie bekommt dieses Geschenk, sie ist neugierig. 
+ORIG6:       Wenn sie das Geschenk auspacken, ist sie überrascht. 
+ZIELHYP:    Wenn sie das Geschenk auspackt, ist sie überrascht.
+ORIG7:       Es gibt eine schöner Papagei auf dem Drachen. 
+ZIELHYP:    Es gibt einen schönen Papagei auf dem Drachen.
+ORIG8:       Lea und Lars wollen draußen spielen, daswegen gehen sie in der Garten. 
+ZIELHYP:    Lea und Lars wollen draußen spielen, deswegen gehen sie in den Garten.  
+ORIG9: 	     Lea will der Drachen steige lassen deswegen rennen sie. 
+ZIELHYP:    Lea will den Drachen steigen lassen, deswegen rennt sie.
+ORIG10:    Ist eine wendig Tag, gut Für spielen mit dem Drachen. 
+ZIELHYP:  Es ist ein windiger Tag - gut für spielen mit dem Drachen. 
+ORIG11:    Dann ist der Drachen auf dem Baum hängen bleibt. 
+ZIELHYP:   Dann ist der Drachen auf dem Baum hängen geblieben. 
+ORIG12:    Lea und Lars sind sehr überraschen. 
+ZIELHYP:   Lea und Lars sind sehr überrascht. 
+ORIG13:    Sie brauchen eine idee Für bringen der Drachen.
+ZIELHYP:   Sie brauchen eine Idee, um den Drachen runterzubringen.

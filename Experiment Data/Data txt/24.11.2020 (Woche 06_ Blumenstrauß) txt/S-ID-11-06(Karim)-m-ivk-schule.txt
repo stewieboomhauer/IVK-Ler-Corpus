@@ -1,0 +1,13 @@
+﻿Karim	Woche 6 (Blumenstrauß)	Datum 24.11.2020
+ORIG1:     Die kinder pflücken auf der Wiese einen Blumenstrauß. 
+ZIELHYP:   Die Kinder pflücken auf der Wiese einen Blumenstrauß.
+ORIG2: 	    Sie besuchen ihre oma sie bringen irne oma jeda einen Blumenstraus.
+ZIELHYP:   Sie besuchen ihre Oma, sie bringen ihrer Oma jeder einen Blumenstrauß.
+ORIG3:      Sie stellt die beiden Sträuße in eine vase.
+ZIELHYP:   Sie stellt die beiden Sträuße in eine Vase.
+ORIG4:	    Die Kinder deckn den Tisch die Kinder essen Kuchen essenund trinken limonade.
+ZIELHYP:   Die Kinder decken den Tisch, die Kinder essen Kuchen und trinken Limonade.
+ORIG5:      Sie haben im Blumenstraus einen marienkäfer gefunden.
+ZIELHYP:    Sie haben im Blumenstrauß einen Marienkäfer gefunden.
+ORIG6:       dan haben sie auch noch eine spinne entdecKt
+ZIELHYP:	Dann haben sie auch noch eine Spinne entdeckt.

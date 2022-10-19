@@ -1,0 +1,32 @@
+﻿Yazan	Woche 10 (Drachen)	Datum 18.05.2021
+ORIG1:   Heute ist geburtstag von Lea. 
+ZIELHYP: Heute ist Geburtstag von Lea. 
+ORIG2: 	   Es gebt eine Geburstagstorte und es gebt neun Kerzen auf dem Geburstagstorte. 
+ZIELHYP:  Es gibt eine Geburtstagstorte und es gibt neun Kerzen auf der Geburtstagstorte. 
+ORIG3:     Dann Lea kommt und sie ist erstaunt und glücklich, weil das ist ihren Geburtstag. 
+ZIELHYP:  Dann kommt Lea und sie ist erstaunt und glücklich, weil das ist ihr Geburtstag.
+ORIG4:	    Und dann Lars kommt 
+ZIELHYP:   Und dann kommt Lars.
+ORIG5:	    Und sie tragen das Geschenk. 
+ZIELHYP:   Und sie tragen das Geschenk.
+ORIG6:	    Dann Lea hat gesagt danke verklich du bist mein bruder. 
+ZIELHYP:   Dann hat Lea gesagt: „Danke wirklich. Du bist mein Bruder.“
+ORIG7:	    Dannach Lea machte das GeschenK auf. 
+ZIELHYP:   Danach machte Lea das Geschenk auf.
+ORIG8:	    Und Lea bekommt zum Geschenk Drachen. 
+ZIELHYP:   Und Lea bekommt zum Geschenk einen Drachen.
+ORIG9:	    Und sie ist erschrocKen, weil das ist erste mal Drachen sehen. 
+ZIELHYP:  Und sie ist erschrocken, weil sie den Drachen zum ersten Mal sieht.
+ORIG10:    entscheiden, dass sie Drachen steigen lassen. 
+ZIELHYP:  Sie entscheiden, dass sie den Drachen steigen lassen.
+ORIG11:    Und dann gehen sie draußen auf der straße. 
+ZIELHYP:   Und dann gehen sie nach draußen, auf die Straße.
+ORIG12:    halten sie an dem Drachen fest, weil sehr windig ist. 
+ZIELHYP:   Sie halten an dem Drachen fest, weil es sehr windig ist.
+ORIG13:    und dann bleibt der Drachen hängen.
+ZIELHYP:   Und dann bleibt der Drachen hängen.
+ORIG14:    dann Lea ist erstaunt und unglücK und sie hat mit dem Finger auf Drachen zeigen. 
+ZIELHYP:   Dann ist Lea erstaunt und unglücklich und sie hat mit dem Finger auf den Drachen gezeigt.
+ORIG15:  Und Es war spassiger Tag.
+ZIELHYP: Und es war ein spaßiger Tag.
+ 

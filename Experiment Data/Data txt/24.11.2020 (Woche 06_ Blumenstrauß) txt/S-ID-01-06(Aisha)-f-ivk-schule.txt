@@ -1,0 +1,27 @@
+﻿Aisha 	Woche 6 (Blumenstrauß)	Datum 24.11.2020
+ORIG1:     Lea und Lars, gehen auf die Wiese für pflücken viele Blumen.
+ZIELHYP:  Lea und Lars gehen auf die Wiese fürs Pflücken vieler Blumen.
+ORIG2: 	    Sie verbrachten viel Zeit in der Natur.
+ZIELHYP:   Sie verbrachten viel Zeit in der Natur.
+ORIG3:      Danach, sie gehen nach die Oma’s Haus. 
+ZIELHYP:   Danach gehen sie zu Omas Haus.
+ORIG4:	     Die Oma ist glücklich und Sie stellt die Blumen in eine Vase.
+ZIELHYP:    Die Oma ist glücklich und sie stellt die Blumen in eine Vase.
+ORIG5:       Lia und Lars decken den Tisch für das mittagessen.
+ZIELHYP:    Lea und Lars decken den Tisch für das Mittagessen.
+ORIG6:       Die Oma seviert essen.
+ZIELHYP:    Die Oma serviert das Essen.
+ORIG7:       Die Oma Finde einen Marienkäfer.
+ZIELHYP:    Die Oma findet einen Marienkäfer.
+ORIG8:       Lea und Lars zeigen, sie sind überrascht.
+ZIELHYP:    Lea und Lars zeigen auf die Käfer, sie sind überrascht.
+ORIG9:       Lea zeigt ein Spinne und sie hat angst.
+ZIELHYP:    Lea zeigt auf eine Spinne und sie hat Angst.
+ORIG10:     Die Oma und Lars zeigen die Spinne herumkrieche, sie versuchen die spinne zu Fangen.
+ZIELHYP:    Die Oma und Lars zeigen auf die herumkriechende Spinne, sie versuchen die Spinne zu fangen.
+ORIG11:     Es gibt so viel insekten Fliegen.
+ZIELHYP:    Es gibt so viele fliegende Insekten.
+
+
+
+

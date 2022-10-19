@@ -1,0 +1,32 @@
+﻿Hala Alhamoud	Woche 9 (Gips)	Datum 28.01.2021
+
+ORIG1:    Es ist schönes Tag. 
+ZIELHYP: Es ist ein schöner Tag.
+ORIG2: 	   Lea und Lars erwägen, dass sie an einen Radfahrerwettbewerb machen. 
+ZIELHYP:  Lea und Lars erwägen, dass sie einen Radfahrerwettbewerb machen.
+ORIG3:     Und sie haben das gemacht, und das war sehr interessant. 
+ZIELHYP:  Und sie haben das gemacht und das war sehr interessant.
+ORIG4:	    Aber dann gab es ein Problem. 
+ZIELHYP:   Aber dann gab es ein Problem.
+ORIG5:      Lars ist vom Fahrrad gefallen. 
+ZIELHYP:   Lars ist vom Fahrrad gefallen. 
+ORIG6:       Dann ist er sehr Traurig. 
+ZIELHYP:    Dann ist er sehr traurig.
+ORIG7:       Danach haben sie nach Krankenhaus gegangen. 
+ZIELHYP:     Danach sind sie ins Krankenhaus gegangen.
+ORIG8:       Und die Ärztin hat das Knie von Lars geuntersucht,
+ZIELHYP:    Und die Ärztin hat das Knie von Lars untersucht.
+ORIG9:        während sie das machen, Lea überrascht war. 
+ZIELHYP:     Während sie das macht, war Lea überrascht.
+ORIG10:      und ein Paar Stunden sPäter die Freunde vom Lars haben gekommen. 
+ZIELHYP:     Und ein paar Stunden später sind die Freunde von Lars gekommen. 
+ORIG11:      Und sie haben Lars geunterstützt. 
+ZIELHYP:     Und sie haben Lars unterstützt.
+ORIG12:      Dann haben sie am Gips ausgemalt. 
+ZIELHYP:     Dann haben sie den Gips ausgemalt. 
+ORIG13:      Und das war sehr nett. 
+ZIELHYP:     Und das war sehr nett.
+ORIG14:      Und diese Ding hat Lars sehr glücklich gemacht. 
+ZIELHYP:     Und diese Sache hat Lars sehr glücklich gemacht.
+ORIG15:      Und Sie haben gelernt dass es eine sehr gute Sache ist, Menschen zu unterstützen und bei ihnen zu bleiben.
+ZIELHYP:     Und sie haben gelernt, dass es eine sehr gute Sache ist, Menschen zu unterstützen und bei ihnen zu bleiben.

@@ -1,0 +1,20 @@
+﻿Hala Alhanafi	Woche 6 (Blumenstrauß)	Datum 24.11.2020
+ORIG1:    lea und lars gehen zu die Wiese, und sie sammelen Blaume,
+ZIELHYP: Lea und Lars gehen zu der Wiese und sie sammeln Blumen.
+ORIG2: 	   Sie machen der Blumenstrauß für die Oma,
+ZIELHYP:  Sie machen den Blumenstrauß für die Oma.
+ORIG3:     Oma ist glücklich,
+ZIELHYP:  Die Oma ist glücklich.
+ORIG4:	   Oma ist stellen in die Vase.
+ZIELHYP:  Oma stellt die Blumen in die Vase.
+ORIG5:	   lea und lars haben den Tisch decken, und Oma ist riechen Blaume,
+ZIELHYP:  Lea und Lars haben den Tisch gedeckt und Oma riecht an den Blumen.
+ORIG6:	   lea, lars und oma essen zu Mittag, und das Aussehen einer spinnen und einer Käfer,
+ZIELHYP:  Lea, Lars und die Oma essen zu Mittag und sehen eine Spinne und einen Käfer.
+ORIG7:	   Oma legt der marienkäfer Finger, lars und lea geentdecken, die Oma ist glücklich.
+ZIELHYP:  Oma legt den Marienkäfer auf den Finger, Lars und Lea haben ihn entdeckt, die Oma ist glücklich.
+
+
+
+
+

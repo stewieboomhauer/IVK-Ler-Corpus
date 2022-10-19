@@ -1,0 +1,24 @@
+﻿Aisha 	Woche 8 (Verlust)	Datum 08.12.2020
+
+ORIG1:     heute ist Lea traurig, weil sie ihre hund verloren hat. 
+ZIELHYP:  Heute ist Lea traurig, weil sie ihren Hund verloren hat.
+ORIG2: 	    Sie hat viel Aushangzettel angeklebt. 
+ZIELHYP:   Sie hat viele Aushangzettel angeklebt. 
+ORIG3:      Sie war sehr traurig, und weintet. 
+ZIELHYP:   Sie war sehr traurig und weinte.
+ORIG4:	     Sie wartet auf das Fensterbrett und plötzlich ihre telefon klingeln. 
+ZIELHYP:    Sie wartet auf dem Fensterbrett und plötzlich klingelt ihr Telefon. 
+ORIG5:       Ist Lars. 
+ZIELHYP:    Das ist Lars.
+ORIG6:       Er hat Dodo gefunden.
+ZIELHYP:    Er hat Dodo gefunden.
+ORIG7:       Lea war Froh. 
+ZIELHYP:    Lea war froh.
+ORIG8:       Sie schaut auf dem Fenster, Lars klingelt an der Tür. 
+ZIELHYP:    Sie schaut aus dem Fenster, Lars klingelt an der Tür. 
+ORIG9: 	     Lea und Lars umarment sich, während Dodo isst.
+ZIELHYP:    Lea und Lars umarmen sich, während Dodo isst.
+
+
+
+

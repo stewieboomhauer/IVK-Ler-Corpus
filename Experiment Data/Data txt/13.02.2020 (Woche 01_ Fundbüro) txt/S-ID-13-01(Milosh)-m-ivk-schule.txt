@@ -1,0 +1,20 @@
+﻿Milosh	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    Lea, Dodo und ein Mann sind im Bus.
+ZIELHYP: Lea, Dodo und ein Mann sind im Bus.
+ORIG2: 	   Leo und Dodo aussteigen auf dem Bus.
+ZIELHYP:  Lea und Dodo steigen aus dem Bus aus.
+ORIG3:     Abar Lea vergessen die Schultasche im dem Bus.
+ZIELHYP:  Aber Lea vergisst die Schultasche im Bus.
+ORIG4:	    Wan Lea etwas realisieren der Bus abfahren.
+ZIELHYP:   Als Lea etwas realisiert, fährt der Bus ab.
+ORIG5:      Lea versuchen abar der Bus aufholen.
+ZIELHYP:   Lea versucht aber den Bus aufzuholen.
+ORIG6:      Der Mann geht in das Fundbüro und abgeben die Schultasche.
+ZIELHYP:    Der Mann geht in das Fundbüro und gibt die Schultasche ab.
+ORIG7:       Lea abholen die Schultasche.
+ZIELHYP:    Lea holt die Schultasche ab.
+ORIG8:        Lea bin ser freuen.
+ZIELHYP:   Lea freut sich sehr.
+ORIG9:       Sie winken und also der Mann.
+ZIELHYP:   Sie winkt und der Mann auch.
+

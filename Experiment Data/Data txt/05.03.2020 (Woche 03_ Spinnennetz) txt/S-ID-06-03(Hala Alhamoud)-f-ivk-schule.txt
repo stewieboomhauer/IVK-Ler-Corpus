@@ -1,0 +1,23 @@
+﻿Hala Alhamoud 	Woche 3 (Spinnennetz)	Datum 05.03.2020
+ORIG1:     Lea und Lars im bett.
+ZIELHYP:  Lea und Lars sind im Bett.
+ORIG2:	Lea und Lars Schrecken sich.
+ZIELHYP:   Lea und Lars erschrecken sich.
+ORIG3:      Lea setzen Spinne ins Glas.
+ZIELHYP:   Lea setzt die Spinne ins Glas.
+ORIG4:	Lars anschauen sich Spinne.
+ZIELHYP:    Lars schaut sich die Spinne an.
+ORIG5:       Lars Spinne freilassen.
+ZIELHYP:    Lars lässt die Spinne frei.
+ORIG6:       Spine setzt in das Fensterbrett.
+ZIELHYP:    Die Spinne sitzt auf dem Fensterbrett.
+ORIG7:       Lars Schlafen gehen.
+ZIELHYP:    Lars geht schlafen.
+ORIG8:       Lars auf steht.
+ZIELHYP:    Lars steht auf.
+ORIG9:       Lars öffnen den Fenster.
+ZIELHYP:    Lars öffnet das Fenster.
+ORIG10:       Lars sein überrascht.
+ZIELHYP:    Lars ist überrascht.
+
+

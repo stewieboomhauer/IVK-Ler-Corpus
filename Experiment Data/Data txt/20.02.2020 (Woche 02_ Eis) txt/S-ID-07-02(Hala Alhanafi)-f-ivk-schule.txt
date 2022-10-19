@@ -1,0 +1,13 @@
+﻿Hala Alhanafi	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:    Lea, lars, Dodo gehen und der Eiskiosk Kaufen das Eis.
+ZIELHYP: Lea, Lars und Dodo gehen zum Eiskiosk und kaufen Eis.
+ORIG2: 	   Lea, lars essen Die Eiskugel.
+ZIELHYP:  Lea und Lars essen die Eiskugeln.
+ORIG3:     lea über etwas stolpern, herunter fallen das Eis, lars etwas teilen das Eis.
+ZIELHYP:  Lea stolpert über etwas, das Eis fällt herunter, Lars teilt das Eis.
+ORIG4:	    lars sich umarmen, Lea, lars gehen sich freuen.
+ZIELHYP:   Lars und Lea umarmen sich, Lea und Lars freuen sich.
+
+
+
+

@@ -1,0 +1,23 @@
+﻿Mahy	Woche 5 (Schnecken)	Datum 19.05.2020
+ORIG1:     Lea und Lars treffen sich und sammeln zusammen die Schnecken und stellen die in den Korb. 
+ZIELHYP:   Lea und Lars treffen sich und sammeln zusammen die Schnecken und legen sie in den Korb. 
+ORIG2: 	    Lea und lars zeigen Oma die Schnecken. 
+ZIELHYP:   Lea und Lars zeigen Oma die Schnecken. 
+ORIG3:      Danach fangen Lea und lars die Schnecken bunt ausmalen mit mit Pinsel 
+ZIELHYP:   Danach fangen Lea und Lars an, die Schnecken bunt auszumalen mit dem Pinsel.
+ORIG4:	    sie geben sich richtig mühe. 
+ZIELHYP:   Sie geben sich richtig Mühe.
+ORIG5:      Zunächst stellen die alle gemalte Schnecken in die Kiste rein. 
+ZIELHYP:   Zunächst legen sie alle bemalten Schnecken in die Kiste rein. 
+ORIG6:      und lassen die Kiste auf dem Tisch liegen. 
+ZIELHYP:   Und lassen die Kiste auf dem Tisch liegen.
+ORIG7:       Die Beidn sind müde. 
+ZIELHYP:     Die beiden sind müde.
+ORIG8:       Zuletzt gehen Lea und lars ins Bett und sind eingeschlafen. 
+ZIELHYP:    Zuletzt gehen Lea und Lars ins Bett und sind eingeschlafen.
+ORIG9:      Während die am schlafen sind sind die schnecken am herumkriechen wo die Beiden schlafen auf die Decke auf den Küssen,
+ZIELHYP:   Während sie am Schlafen sind, sind die Schnecken am herumkriechen, wo die beiden schlafen: auf der Decke, auf den Kissen.
+ORIG10:       die Beiden haben gefüht das jemand sie berührt und sind aufgewacht.
+ZIELHYP:  Die beiden haben gefühlt, dass jemand sie berührt, und sind aufgewacht.
+
+

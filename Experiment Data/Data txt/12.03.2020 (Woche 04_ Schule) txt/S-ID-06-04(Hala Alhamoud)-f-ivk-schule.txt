@@ -1,0 +1,30 @@
+﻿Hala Alhamoud	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:    Lea und Lars treffen. 
+ZIELHYP: Lea und Lars treffen sich.
+ORIG2: 	   Lea und Lars einander begrüßen. 
+ZIELHYP:  Lea und Lars begrüßen einander. 
+ORIG3:     Lea zeigt Dodo in die Jacke. 
+ZIELHYP:  Lea zeigt Dodo in der Jacke.
+ORIG4:	    und Lars ist überrascht. 
+ZIELHYP:   Und Lars ist überrascht.
+ORIG5:      Lea steckt Dodo in die Jacke. 
+ZIELHYP:   Lea steckt Dodo in die Jacke.
+ORIG6:     Lea und Lars gehen in die Schule. 
+ZIELHYP:  Lea und Lars gehen in die Schule.
+ORIG7:     Lea und Lars im unterricht sitzen. 
+ZIELHYP:  Lea und Lars sitzen im Unterricht.
+ORIG8:    Lea rechnt. 
+ZIELHYP:  Lea rechnet.
+ORIG9:    Dodo plötzlich. 
+ZIELHYP:  unformulierbar
+ORIG10:  Dodo sieht einen VogeL. 
+ZIELHYP:  Dodo sieht einen Vogel.
+ORIG11:   Dodo macht auf gaben. 
+ZIELHYP:   Dodo macht Aufgaben.
+ORIG12:   Dodo anbellt in VogeL. 
+ZIELHYP:   Dodo bellt den Vogel an.
+ORIG13:   Lea erschreckt und Lehrerinistüberrascht. 
+ZIELHYP:  Lea erschreckt sich und die Lehrerin ist überrascht.
+ORIG14:   Lea schämt Jetzt.
+ZIELHYP:  Lea schämt sich jetzt.
+

@@ -1,0 +1,16 @@
+﻿Ezzedin 	Woche 3 (Spinnennetz)	Datum 05.03.2020
+ORIG1:     Lea und Lars erschreckt von das Spinner 
+ZIELHYP:  Lea und Lars erschrecken sich vor der Spinne.
+ORIG2:	und dann fangt sie Das spinner in die Glas
+ZIELHYP:   Und dann fängt sie die Spinne in dem Glas.
+ORIG3:       und Lars zeigt für das Spinner
+ZIELHYP:   Und Lars zeigt auf die Spinne.
+ORIG4:	und dann Lars hat das Spinner freilasst
+ZIELHYP:    Und dann hat Lars die Spinne freigelassen.
+ORIG5:       und dann Lars schlaft im Bett
+ZIELHYP:    Und dann schläft Lars im Bett.
+ORIG6:       Lars steht auf und zeigt in das spinnennetz  und das spinner
+ZIELHYP:    Lars steht auf und zeigt auf das Spinnennetz und die Spinne.
+ORIG7:       und er ist schließlich überrascht
+ZIELHYP:    Und er ist schließlich überrascht.
+

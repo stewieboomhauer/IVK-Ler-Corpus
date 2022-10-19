@@ -1,0 +1,18 @@
+﻿Alessia 	Woche 9 (Gips)	Datum 28.01.2021
+ORIG1:     Lars fährt Fahrrad. 
+ZIELHYP:   Lars fährt Fahrrad. 
+ORIG2: 	    Er fällt hin,Lea Kommt und hilfe ihr Freund.
+ZIELHYP:   Er fällt hin, Lea kommt und hilft ihrem Freund.
+ORIG3:      Lea und Lars sind in einem Krankenhaus. 
+ZIELHYP:   Lea und Lars sind in einem Krankenhaus.
+ORIG4:	    Die Ärztin Untersucht Las bein. 
+ZIELHYP:   Die Ärztin untersucht Lars Bein.
+ORIG5:      Die Arztin macht einen Verband um Lars‘ Bein. 
+ZIELHYP:    Die Ärztin macht einen Verband um Lars Bein.
+ORIG6:       Die Kind Unterschreiben auf dem Verband. 
+ZIELHYP:    Die Kinder unterschreiben auf dem Verband. 
+ORIG7:      Lars geht mit Krücken.
+ZIELHYP:  Lars geht mit Krücken.
+
+
+

@@ -1,0 +1,37 @@
+﻿Yazan	Woche 12 (Eis)	Datum 08.07.2021
+ORIG1:   Im Sommer gingen Lea und Lars im Eiskiosk. 
+ZIELHYP: Im Sommer gingen Lea und Lars in den Eiskiosk.
+ORIG2: 	   Dann suchen lea und lars aus. 
+ZIELHYP:  Dann suchen Lea und Lars Eissorten aus.
+ORIG3:     Und der Eisverkäufer gab Lea und Lars Eiskugeln. 
+ZIELHYP:  Und der Eisverkäufer gab Lea und Lars Eiskugeln. 
+ORIG4:	    Dann zahlten Lea und Lars das Geld. 
+ZIELHYP:   Dann zahlten Lea und Lars das Geld.
+ORIG5:	    Dann liefen Lea und Lars und genoßen die Eiskugeln. 
+ZIELHYP:   Dann liefen Lea und Lars und genossen die Eiskugeln.
+ORIG6:	    Und zu diesem Zeit leckten lea und Lars die Eiskugeln. 
+ZIELHYP:   Und zu dieser Zeit leckten Lea und Lars die Eiskugeln.
+ORIG7:	    Und zu diesem Zeit tropfte die Eiskugeln. 
+ZIELHYP:   Und zu dieser Zeit tropfte eine Eiskugel.
+ORIG8:	    Und Dodo aß die Eistropfen. 
+ZIELHYP:   Und Dodo aß die Eistropfen.
+ORIG9:	    Und plötzlich stolperte Lea über Dodo. 
+ZIELHYP:   Und plötzlich stolperte Lea über Dodo. 
+ORIG10:    Dann lasste Lea die EisKugel auf dem Boden fallen. 
+ZIELHYP:   Dann ließ Lea die Eiskugel auf den Boden fallen.
+ORIG11:    Lea fiel herunter auf dem Boden. 
+ZIELHYP:   Lea fiel auf den Boden herunter. 
+ORIG12:    Und zu diesem Zeit war Lars verwirrt. 
+ZIELHYP:   Und zu dieser Zeit war Lars verwirrt
+ORIG13:    Dann teilte Lars seine Eiskugel. 
+ZIELHYP:   Dann teilte Lars seine Eiskugel.
+ORIG14:    Und Lea umarmte Lars. 
+ZIELHYP:   Und Lea umarmte Lars.
+ORIG15:    Und zu diesem Zeit blieb Dodo auf dem Boden und lecKte Dodo die Eiskugel. 
+ZIELHYP:   Und zu dieser Zeit blieb Dodo auf der Straße und leckte die Eiskugel.
+
+
+ORIG16: Dann freuten Lea und Lars.
+ZIELHYP: Dann freuten sich Lea und Lars.
+ORIG17: Und die Beide gingen nach Hause.
+ZIELHYP: Und die Beiden gingen nach Hause.

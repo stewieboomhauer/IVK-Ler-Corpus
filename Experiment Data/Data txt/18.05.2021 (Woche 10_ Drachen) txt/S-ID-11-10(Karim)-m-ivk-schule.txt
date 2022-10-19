@@ -1,0 +1,16 @@
+﻿Karim	Woche 10 (Drachen)	Datum 18.05.2021
+
+ORIG1:     Lea hat Heute Geburtstag. 
+ZIELHYP:   Lea hat heute Geburtstag.
+ORIG2: 	    und lars getragt ein GeschenK. 
+ZIELHYP:   Und Lars hat ein Geschenk getragen.
+ORIG3:      In das Geschenk Box gibt ein LehKdrachen 
+ZIELHYP:   In der Geschenkbox gibt es ein Lenkdrachen.
+ORIG4:	    Lea spilt mit dem LehKdrachen 
+ZIELHYP:   Lea spielt mit dem Lenkdrachen.
+ORIG5:	    der LehKdrachen hängt auf dem Baum 
+ZIELHYP:   Der Lenkdrachen hängt auf dem Baum. 
+ORIG6:	    der Wind war sehr stark.
+ZIELHYP:   Der Wind war sehr stark.
+
+

@@ -1,0 +1,16 @@
+﻿Charalampos	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:   Lea und Lars. treffen sich und begrüßen sich einander, aber Lea hat Dodo in die Jacke versteckt. 
+ZIELHYP: Lea und Lars treffen sich und begrüßen sich, aber Lea hat Dodo in der Jacke versteckt. 
+ORIG2:    Lars ist überrascht weil Dodo hat Dodo mit genommen. 
+ZIELHYP:  Lars ist überrascht, weil Dodo Dodo mitgenommen hat. 
+ORIG3:     Dannach gehen sie in die Schule.
+ZIELHYP:  Danach gehen sie in die Schule.
+ORIG4:	    zunächst sitzen sie im uterricht. 
+ZIELHYP:   Zunächst sitzen sie im Unterricht. 
+ORIG5:      Lea rechnet, aber Dodo schleicht und sieht ein Vögel. 
+ZIELHYP:   Lea rechnet, aber Dodo schleicht und sieht einen Vogel.
+ORIG6:      Dodo bellt plötzlich an und Lea erschreckt sich. 
+ZIELHYP:   Dodo bellt den Vogel plötzlich an und Lea erschreckt sich. 
+ORIG7:     Dann kommt die Lehrer in und sie sieht Dodo und den Vogel, weil sind sie neue Freunde, aber Lea schämt sich aber nicht sehr viel, weil alle zur Pause gehen.
+ZIELHYP:  Dann kommt die Lehrerin herein und sie sieht Dodo und den Vogel, weil sie neue Freunde sind , aber Lea schämt sich, aber nicht sehr, weil alle in die Pause gehen.
+

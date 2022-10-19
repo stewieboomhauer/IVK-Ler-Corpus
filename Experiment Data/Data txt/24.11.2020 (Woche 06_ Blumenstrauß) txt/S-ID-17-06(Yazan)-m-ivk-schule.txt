@@ -1,0 +1,23 @@
+﻿Yazan	Woche 6 (Blumenstrauß)	Datum 21.11.2020
+ORIG1:    Lia und Lars sind eggangen zu die Wiese, sie sammeln Bume Blumenstraße für die oma
+ZIELHYP: Lea und Lars sind zu der Wiese gegangen, sie sammeln einen Blumenstrauß für die Oma.
+ORIG2: 	   Dann Lea und Lars Blumen gepflücken.
+ZIELHYP:  Dann haben Lea und Lars Blumen gepflückt.
+ORIG3:     Und Danach gegangen Von oma und gegibt Blumenstraus 
+ZIELHYP:  Und danach sind sie zur Oma gegangen und haben ihr den Blumenstrauß gegeben.
+ORIG4:	    und dann oma sehr glücklich und Dann Die Blumen in Wiese stellt.
+ZIELHYP:   Und dann ist die Oma sehr glücklich und stellt die Blumen in eine Vase.
+ORIG5:	    den Tisch decken.
+ZIELHYP:   Sie decken den Tisch.
+ORIG6:	    dann der Marienkäfer laufen im Finger von oma.
+ZIELHYP:   Dann läuft der Marienkäfer auf dem Finger von der Oma.
+ORIG7:	    und die Kinder und erschrecken von der Spine und Marienkäfer.
+ZIELHYP:   Und die Kinder erschrecken sich vor der Spinne und dem Marienkäfer.
+ORIG8:	    und die Kinder sehr Angst von Spine und Marienkäfer.
+ZIELHYP:   Und die Kinder haben viel Angst vor der Spinne und dem Marienkäfer.
+ORIG9:	    und oma haben Freuen.
+ZIELHYP:   Und die Oma hat sich gefreut.
+
+
+
+

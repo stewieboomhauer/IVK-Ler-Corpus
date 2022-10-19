@@ -1,0 +1,26 @@
+﻿Kadrie	Woche 2 (Eis)	Datum 01.03.2020
+ORIG1:     Lars und Lea gehen in der Eiskiosk.
+ZIELHYP:  Lars und Lea gehen in den Eiskiosk.
+ORIG2: 	    Und wir kaufen.
+ZIELHYP:   Und wir kaufen Eis.
+ORIG3:      Lars kauft ein Kirsche und ein banane Eiskugel.
+ZIELHYP:   Lars kauft eine Kirsch- und eine Bananeneiskugel.
+ORIG4:	    Lea kauft ein Kiwi und ein erdbeere Eiskugel.
+ZIELHYP:	Lea kauft eine Kiwi- und eine Erdbeereiskugel.
+ORIG5:   Lars, Lea und Dodo gehen in die Straße.
+ZIELHYP:      Lars, Lea und Dodo laufen auf der Straße.
+ORIG6:       Plötzlich Lea stolpern über etwas und sie herunterfallt.
+ZIELHYP:    Plötzlich stolpert Lea über etwas und sie fällt um.
+ORIG7:       Sie weint und Dodo leckt das Eis.
+ZIELHYP:     Sie weint und Dodo leckt das Eis.
+ORIG8:        Lars sich umarmen und teilt dein Eis.
+ZIELHYP:     Lars umarmt Lea und teilt sein Eis.
+ORIG9:        Lea ist freut.
+ZIELHYP:     Lea freut sich.
+ORIG10:        Und zuletzt alles ist gut.
+ZIELHYP:     Und zuletzt ist alles gut.
+
+
+
+
+

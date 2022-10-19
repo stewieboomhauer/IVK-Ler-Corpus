@@ -1,0 +1,19 @@
+﻿Alessia 	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:     Zuerst, Lea und Lars aussuchen das Eis.
+ZIELHYP:   Zuerst suchen Lea und Lars das Eis aus.
+ORIG2: 	    Domoch Lea etwas kaufen das Eis.
+ZIELHYP:   Danach kauft Lea das Eis.
+ORIG3:      Domoch aver etwas lecken das Eis. 
+ZIELHYP:   Danach aber leckt sie das Eis.
+ORIG4:	    Lea über etwas stolpern sio Dodo e herunterfallen.
+ZIELHYP:   Lea stolpert über Dodo und fällt herunter.
+ORIG5:      Lars etwas teilen er das Eis.
+ZIELHYP:    Lars teilt das Eis.
+ORIG6:       Zuletzt Lea sich umarmen Lars und sie sich freuen 
+ZIELHYP:    Zuletzt umarmen sich Lea und Lars und sie freuen sich.
+ORIG7:        und Dodo etwas lecken er das Eis etwas zeigen.
+ZIELHYP:     Und Dodo leckt das Eis und zeigt auf etwas.
+
+
+
+

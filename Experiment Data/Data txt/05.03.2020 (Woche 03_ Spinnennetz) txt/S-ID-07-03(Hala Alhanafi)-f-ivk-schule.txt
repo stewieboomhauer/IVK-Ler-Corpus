@@ -1,0 +1,14 @@
+﻿Hala Alhanafi 	Woche 3 (Spinnennetz)	Datum 05.03.2020
+ORIG1:     Lea und Lars sich etwas anschauen, das Spinnennetz.
+ZIELHYP:  Lea und Lars schauen sich etwas an – ein Spinnennetz.
+ORIG2:	Lars sich erschrecken
+ZIELHYP:   Lars erschreckt sich.
+ORIG3:      Lea, jemanden fangen die Spinne
+ZIELHYP:   Lea fängt die Spinne.
+ORIG4:	Lea und Lars schlaft geht.
+ZIELHYP:    Lea und Lars gehen schlafen.
+ORIG5:       aufstehen, Lars geht in den Tür, etwas öffnet und überrascht sein.
+ZIELHYP:    Sie stehen auf, Lars geht an die Tür, öffnet sie und ist überrascht.
+
+
+

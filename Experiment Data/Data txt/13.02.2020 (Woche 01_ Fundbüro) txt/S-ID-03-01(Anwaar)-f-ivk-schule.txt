@@ -1,0 +1,22 @@
+﻿Anwaar	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    lea ist im Bus 
+ZIELHYP: Lea ist im Bus. 
+ORIG2:   der Mann sitzt Ihr gegen über.
+ZIELHYP: Der Mann sitzt ihr gegenüber.
+ORIG3: 	   Sie hat eine schöen Perlenkette. 
+ZIELHYP:  Sie hat eine schöne Perlenkette.
+ORIG4:     Der Mann hat einen stok. 
+ZIELHYP:  Der Mann hat einen Stock.
+ORIG5:	    lea und dodo müssen aussteigen. 
+ZIELHYP:   Lea und Dodo müssen aussteigen. 
+ORIG6:      lea hat ihre Tache vergessen. 
+ZIELHYP:   Lea hat ihre Tasche vergessen.
+ORIG7:      Der Mann gibt die Tasche im Fundbüro ab. 
+ZIELHYP:    Der Mann gibt die Tasche im Fundbüro ab. 
+ORIG8:       lea Kann ihre Tasche im Fundbüro abholen. 
+ZIELHYP:    Lea kann ihre Tasche im Fundbüro abholen.
+ORIG9:       lea freu sich. 
+ZIELHYP:    Lea freut sich. 
+ORIG10:     lea verabschieden sich
+ZIELHYP:   Lea verabschiedet sich.
+

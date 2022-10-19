@@ -1,0 +1,19 @@
+﻿Mahy	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    Lea sitzt im Bus mit Dodo.
+ZIELHYP:  Lea sitzt im Bus mit Dodo.
+ORIG2: 	   Lea steigt aus den Bus.
+ZIELHYP:  Lea steigt aus dem Bus.
+ORIG3:     Sie vergeisst etwas.
+ZIELHYP:  Sie vergisst etwas.
+ORIG4:	    Oh sie vergeisst ihre Tasche.
+ZIELHYP:   Oh, sie vergisst ihre Tasche.
+ORIG5:      Ein man gibt die Tasche im Fundbüro ab.
+ZIELHYP:   Ein Mann gibt die Tasche im Fundbüro ab.
+ORIG6:      Lea holt ihre Tasche im Fundbüro ab.
+ZIELHYP:    Lea holt ihre Tasche im Fundbüro ab.
+ORIG7:       Sie freut sich jatzt und Lea verabschiedt sich.
+ZIELHYP:    Sie freut sich jetzt und Lea verabschiedet sich.
+ORIG8:        Und sie hat schöne Perlen.
+ZIELHYP:     Und sie hat schöne Perlen.
+
+

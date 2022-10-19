@@ -1,0 +1,33 @@
+﻿Hala Alhamoud	Woche 12 (Eis)	Datum 08.07.2021
+ORIG1:    Es ist ein sonnig Tag. 
+ZIELHYP: Es ist ein sonniger Tag.
+ORIG2: 	   Das Wetter war sehr warm, und mit diesem Wetter braucht man etwas Kaltes. 
+ZIELHYP:  Das Wetter war sehr warm und mit diesem Wetter braucht man etwas Kaltes.
+ORIG3:     Lea und Lars entscheiden, dass sie Eis kaufen. 
+ZIELHYP:  Lea und Lars entscheiden, dass sie Eis kaufen.
+ORIG4:	    Dann sind sie zu den Eiskiosk gegangen, und Dodo geht auch mit. 
+ZIELHYP:   Dann sind sie zu dem Eiskiosk gegangen, und Dodo geht auch mit.
+ORIG5:      Dort haben sie sehr leckeres Eis gefunden, Erdbeere, Banane, Schokolade, Kirche… 
+ZIELHYP:   Dort haben sie sehr leckeres Eis gefunden: Erdbeere, Banane, Schokolade, Kirsche…
+ORIG6:       Dann sind sie verwirrt, sie wissen es nicht was sie wollen. 
+ZIELHYP:    Dann sind sie verwirrt, sie wissen nicht, was sie wollen.
+ORIG7:       Während sie das Eis aussucht, nimmt der Mann die Eiskugel. 
+ZIELHYP:     Während sie das Eis aussucht, nimmt der Mann eine Eiskugel.
+ORIG8:        Nachdem sie ihr Eis genommen haben, sind sie spazieren gegangen. 
+ZIELHYP:     Nachdem sie ihr Eis genommen haben, sind sie spazieren gegangen.
+ORIG9:        Das Eis von Lea tropft, aber Lea bemerkt das nicht. 
+ZIELHYP:     Das Eis von Lea tropft, aber Lea merkt das nicht.
+ORIG10:      Dodo läuft vor Lea, und er isst das Eis Tropfen. 
+ZIELHYP:     Dodo läuft vor Lea, und er isst die Eistropfen.
+ORIG11:      Lea läuft weiter, aber Plözlich ist sie über Dodo gestolpert, und sie ist auf dem Boden herunter gefallen. 
+ZIELHYP:     Lea läuft weiter, aber plötzlich ist sie über Dodo gestolpert und sie ist auf den Boden heruntergefallen.
+ORIG12:      Während Dodo das Eis leckt, weint Lea. 
+ZIELHYP:     Während Dodo das Eis leckt, weint Lea. 
+ORIG13:      Lars war verwirrt, was soll er machen. 
+ZIELHYP:     Lars war verwirrt: „Was soll er machen?“
+ORIG14:      Danach hat er eine idee, er hat das Eis mit Lea geteilt. 
+ZIELHYP:     Danach hat er eine Idee, er hat das Eis mit Lea geteilt.
+ORIG15:      Schließlich läufen sie weiter und sie genießen das Eis zusammen, und sie umarmen sich. 
+ZIELHYP:     Schließlich laufen sie weiter und sie genießen das Eis zusammen, und sie umarmen sich.
+ORIG16:      Der Schock Sie haben Dodo vergessen. :)
+ZIELHYP:     Der Schock: Sie haben Dodo vergessen. :)

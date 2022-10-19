@@ -1,0 +1,29 @@
+﻿Anwaar	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:    Lea und Lars und Dodo gehen ins Eiskiosk.
+ZIELHYP:  Lea, Lars und Dodo gehen in den Eiskiosk..
+ORIG2: 	   Lea und Lars kaufen Eis.
+ZIELHYP:  Lea und Lars kaufen Eis.
+ORIG3:     Lea und Lars essen Eis.
+ZIELHYP:  Lea und Lars essen Eis.
+ORIG4:	    Lea und Lars genießen Eis.
+ZIELHYP:   Lea und Lars genießen Eis.
+ORIG5:      Lea und Lars lecken ihre Eis.
+ZIELHYP:   Lea und Lars lecken ihr Eis.
+ORIG6:      das Eis tropft.
+ZIELHYP:    Das Eis tropft.
+ORIG7:       Lea lasst das Eis fallen.
+ZIELHYP:    Lea lässt das Eis fallen.
+ORIG8:        Lea weint.
+ZIELHYP:     Lea weint.
+ORIG9:        Lars teilt das Eis mit Lea.
+ZIELHYP:      Lars teilt das Eis mit Lea.
+ORIG10:      Lea umarmt ihen.
+ZIELHYP:     Lea umarmt ihn.
+ORIG11:     Lea und Lars freuen.
+ZIELHYP:     Lea und Lars freuen sich.
+ORIG12:     Dodo bleibt über Eis.
+ZIELHYP:     Dodo bleibt über das Eis gebeugt.
+
+
+
+

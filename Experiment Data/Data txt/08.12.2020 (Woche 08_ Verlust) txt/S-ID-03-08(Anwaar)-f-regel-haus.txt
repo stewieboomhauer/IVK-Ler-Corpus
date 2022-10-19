@@ -1,0 +1,25 @@
+﻿Anwaar	Woche 8 (Verlust)	Datum 08.03.2021
+ORIG1:    Lea und Lars haben das Hund verloren 
+ZIELHYP:  Lea und Lars haben den Hund verloren.
+ORIG2: 	   Lea hat angs das sie ihre Hund nicht fenden könnte. 
+ZIELHYP:  Lea hat Angst, dass sie ihren Hund nicht finden kann.
+ORIG4:	   Lea klept die Bilder auf alle wänder und lars hat gegangen weil er will über dodo suchen 
+ZIELHYP:  Lea klebt die Bilder auf alle Wände und Lars ist gegangen, weil er Dodo suchen will.
+ORIG5:      danach setzt lea neben dem Fenster und sie wartet auf lars und sie hat geweint 
+ZIELHYP:   Danach sitzt Lea neben dem Fenster und sie wartet auf Lars und sie hat geweint.
+ORIG6:      Lea hat immer gewartet bis der Lars angeruft hatte und hat der lars gesagt das er dodo gefunden hatte 
+ZIELHYP:    Lea hat immer gewartet, bis der Lars angerufen hatte und hat dem Lars gesagt, dass er Dodo gefunden hatte. 
+ORIG7:       und die Lea frat sich sehr 
+ZIELHYP:    Und die Lea freut sich sehr.
+ORIG8:        danach hat lea auf lars und dodo gewartet und Lars klingelte an der Tür mit dodo 
+ZIELHYP:     Danach hat Lea auf Lars und Dodo gewartet und Lars klingelte an der Tür mit Dodo.
+ORIG9:        auf jeden Fall lara sah wie sie an der Tür klingelte und weinte, aber gleichzeit lachte Lea,
+ZIELHYP:     Auf jeden Fall sah Lara, wie sie an der Tür klingelten, und weinte, aber gleichzeitig lachte Lea.
+ORIG10:      Lea hat schnell der Tür auf gemacht und haben Lea und lars sich umarmenten 
+ZIELHYP:      Lea hat schnell die Tür aufgemacht und Lea und Lars haben sich umarmt. 
+ORIG11:        und dodo isst 
+ZIELHYP:      Und Dodo isst.
+ORIG12:        und lars hat lolis für Lea geschinkt 
+ZIELHYP:      Und Lars hat Lollies Lea geschenkt. 
+ORIG13:       und alle fruen sich.
+ZIELHYP:      Und alle freuen sich.

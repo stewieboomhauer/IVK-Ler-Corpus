@@ -1,0 +1,32 @@
+﻿Hala Alhanafi	Woche 8 (Verlust)	Datum 08.12.2020
+
+ORIG1:    lea wachte auf und fand Dodo nicht. 
+ZIELHYP: Lea wachte auf und fand Dodo nicht.
+ORIG2: 	   Sie sucht nach ihm und fand das nicht. 
+ZIELHYP:  Sie sucht nach ihm und fand ihn nicht.
+ORIG3:     lea klebt Aushangzettel Dodo an. 
+ZIELHYP:  Lea klebt einen Aushangzettel für Dodo an. 
+ORIG4:	    Sie steht mit auf zehen Spitzen da, um Aushangzettel aufkleben an Dodo vermisst hat. 
+ZIELHYP:   Sie steht auf Zehenspitzen da, um den Aushangzettel aufzukleben, auf dem steht, dass Dodo vermisst wird.
+ORIG5:	    Lea wartet auf einen Anruf. 
+ZIELHYP:   Lea wartet auf einen Anruf.
+ORIG6:	    Lars gefundt Dodo und ruft Lea an. 
+ZIELHYP:   Lars hat Dodo gefunden und ruft Lea an.
+ORIG7:	    Lars redt mit Lea „Ich finde Dodo und komme schnell“. 
+ZIELHYP:   Lars redet mit Lea: „Ich finde Dodo und komme schnell.“
+ORIG8:	    Lea ist froh und weinen. 
+ZIELHYP:   Lea ist froh und weint.
+ORIG9:     Lars klinglt un der Tür.
+ZIELHYP:   Lars klingelt an der Tür.
+ORIG10:    Sie schaut aus dem fenster. 
+ZIELHYP:   Sie schaut aus dem Fenster. 
+ORIG11:    Lars bringt Lea der Stielbonbon. 
+ZIELHYP:   Lars bringt Lea den Stielbonbon.
+ORIG12:   Sie hat drauß gegangen und findt Dodo. 
+ZIELHYP:  Sie ist rausgegangen und findet Dodo.
+ORIG13:  Lea umarmt Lars. 
+ZIELHYP: Lea umarmt Lars.
+ORIG14: Lars droht mit dem finger vor Dodo.
+ZIELHYP: Lars droht Dodo mit dem Finger.
+
+

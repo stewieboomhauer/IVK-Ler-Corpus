@@ -1,0 +1,31 @@
+﻿Caiden	Woche 11 (Pfannkuchen)	Datum 17.06.2021
+
+ORIG1:     Sooo! Fernando ein gick Junge ist KocKen mit Lea Fernando’s Schwester. 
+ZIELHYP:  Sooo! Fernando, ein geek-Junge, kocht mit Lea, Fernandos Schwester. 
+ORIG2: 	    dieser zwei habe viel hunger. 
+ZIELHYP:   Diese zwei haben viel Hunger. 
+ORIG3:      Fernando hast gefindung ein Schlussel so er Kann zubereiten der Teig. 
+ZIELHYP:   Fernando hat eine Schussel gefunden, sodass er den Teig zubereitet hat. 
+ORIG4:	    Weil Ihr macht PfannKucken. 
+ZIELHYP:   Weil ihr Pfannkuchen macht.
+ORIG5: 	    Die erste Schritt Ihr hat gemacht ist brechen die Eier in der Schlussel. 
+ZIELHYP:   Der erste Schritt, den ihr gemacht habt, ist die Eier in die Schüssel zu brechen. 
+ORIG6:      Forzetsen lea lass Umrühren während Fernando hinzufügen die andere inhaltstoffe. 
+ZIELHYP:   Weiter rührt Lea Eier um, während Fernando die anderen Zutaten hinzufügt.
+ORIG7:       ein paar minuten Später Ihr hat die Teig gemacht. 
+ZIELHYP:    Ein paar Minuten später habt ihr den Teig gemacht. 
+ORIG8:       „Kann Ich Gieße der tieg in der Pfanne“ lea hat gesagt. 
+ZIELHYP:    „Kann ich den Teig in die Pfanne gießen“ – hat Lea gesagt. 
+ORIG9:       „Warum nicht“ Fernando sagt. 
+ZIELHYP:    „Warum nicht.“ - sagt Fernando.
+ORIG10:      So Fernando hat gewarted dann wann ein Seite ist fertig er hat PfannKuchen wenden. 
+ZIELHYP:     So hat Fernando gewartet, dann wenn eine Seite fertig ist, hat er Pfannkuchen gewendet.
+ORIG11:     obwohl Fernando ist sehr dumm und der pfannkucken hat heruntergefallen und gebrocken wann es hat gelanden. 
+ZIELHYP:    Fernando ist sehr dumm und der Pfannkuchen ist heruntergefallen und gebrochen, wenn es gelandet ist.
+ORIG12:     Dann Fernando hat der boden geputze aber lea hat ein neue Pfannkuchen werden und es hat nicht gefallen. 
+ZIELHYP:    Dann hat Fernando den Boden geputzt, aber Lea hat einen neuen Pfannkuchen gewendet und er ist nicht gefallen. 
+ORIG13:    Und dieser zwei dumm Kinder war uberssacht.
+ZIELHYP:    Und diese zwei dummen Kinder waren überrascht.
+
+
+

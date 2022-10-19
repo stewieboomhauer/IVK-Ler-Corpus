@@ -1,0 +1,33 @@
+﻿Caiden	Woche 10 (Drachen)	Datum 18.05.2021
+
+ORIG1:     Heute ist Lea’s Geburtstage. 
+ZIELHYP:  Heute ist Leas Geburtstag.
+ORIG2: 	    Sie haben ein Geburtstagstorte auf dem tisch. 
+ZIELHYP:   Sie haben eine Geburtstagstorte auf dem Tisch. 
+ORIG3:      Das Geburtstagstorte haben 9/neun Kerzen. 
+ZIELHYP:   Die Geburtstagstorte hat 9/neun Kerzen.
+ORIG4:	    So Ich glaube sie ist neun Jetzt. 
+ZIELHYP:   So, ich glaube, sie ist jetzt neun. 
+ORIG5: 	    Sie bekommt ein Geschenk vom Lars wem ist lea’s Freund. 
+ZIELHYP:   Sie bekommt ein Geschenk von Lars, wer Leas Freund ist. 
+ORIG6:      Dieser zwei hat getragen der Geschenk zu ein andere zimmer weil Sie will auspacken das Geschenke vom lars. 
+ZIELHYP:   Diese zwei haben das Geschenk zu einem anderen Zimmer getragen, weil sie das Geschenk von Lars auspacken wollen.
+ORIG7:       Später wann sie hat machen der Geschenk aus, Lea bekommt Große Augen. 
+ZIELHYP:    Später, als sie das Geschenk aufgemacht hat, bekommt Lea große Augen.
+ORIG8:       lea wartte nicht so sie renner drauß weil sie haben ein neue Drachen. 
+ZIELHYP:    Lea erwartete das nicht, sie rennen nach draußen, weil sie haben einen neuen Drachen.
+ORIG9:       Lea und Lars hat entscheiden dass ihr lassen der Lendrachen stiegen aber heute hast viel Sonnen 
+ZIELHYP:    Lea und Lars haben entschieden, dass sie den Lenkdrachen stiegen lassen, aber heute gibt es viel Sonne.
+ORIG10:      Trotzdem es gibt viel wind auch. 
+ZIELHYP:     Trotzdem gibt es auch viel Wind.
+ORIG11:     Lars halten so der drachen Kommes zu dem Fest. 
+ZIELHYP:    Lars hält den Drachen fest.
+ORIG12:     Unglucklicherweise ihr hat gelossen der drachen. 
+ZIELHYP:    Unglücklicherweise habt ihr den Drachen gelassen.
+ORIG13:     15 Minuten Später lea hat gefunden und denn mit den Finger auf dem baum 
+ZIELHYP:    15 Minuten später hat Lea den Drachen gefunden und den mit dem Finger auf dem Baum gezeigt. 
+ORIG14:    Lars hat auch gefunden.
+ZIELHYP:   Lars hat ihn auch gefunden.
+
+
+

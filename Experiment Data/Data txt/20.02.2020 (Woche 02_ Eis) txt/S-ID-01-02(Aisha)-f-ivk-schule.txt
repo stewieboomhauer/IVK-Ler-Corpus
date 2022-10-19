@@ -1,0 +1,17 @@
+﻿Aisha 	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:     Zuerst, Lia und Lars aussuchet das Eiskugel.
+ZIELHYP:   Zuerst suchen Lea und Lars die Eiskugel aus.
+ORIG2: 	    Danach sie kaufet Eis und sie genießet.
+ZIELHYP:   Danach kauft sie Eis und genießt.
+ORIG3:      Dann, Lia über stolpert auf Dodo. 
+ZIELHYP:   Dann stolpert Lea über Dodo. 
+ORIG4:	    Sie weinent und sie ist verwirrt sein.
+ZIELHYP:   Sie weint und sie ist verwirrt.
+ORIG5:      Zuletzt teilt Lars sein Eis mit Leam.
+ZIELHYP:    Zuletzt teilt Lars sein Eis mit Lea.
+ORIG6:       Jetzt freuen sie sich und Dodo lecken das Eis tropfen.
+ZIELHYP:    Jetzt freuen sie sich und Dodo leckt die Eistropfen.
+
+
+
+

@@ -1,0 +1,33 @@
+﻿Yazan	Woche 9 (Gips)	Datum 28.01.2021
+ORIG1:   Zuerst Lea und Lars gingen mit Fahrrädern spazieren. 
+ZIELHYP: Zuerst gingen Lea und Lars mit Fahrrädern spazieren. 
+ORIG2: 	   Und plözlich Lars hat Unfall gemacht. weil er so geschwindigkeit radelt. 
+ZIELHYP:  Und plötzlich hat Lars einen Unfall gehabt, weil er so schnell radelt. 
+ORIG3:     Dann Lars hat geweinen. 
+ZIELHYP:  Dann hat Lars geweint.
+ORIG4:	    Und Er traurig ist. 
+ZIELHYP:   Und er ist traurig.
+ORIG5:	    Und sein Knie war verletzt. Weil er vom Fahrrad fiel. 
+ZIELHYP:   Und sein Knie war verletzt, weil er vom Fahrrad fiel.
+ORIG6:	    Dann Lea hat geschrien Laaaaarrrsss. 
+ZIELHYP:   Dann hat Lea geschrien: „Laaaaarrrsss.“
+ORIG7:	    Dann Lea und Lars ins Krankenhaus gehen. 
+ZIELHYP:   Dann gehen Lea und Lars ins Krankenhaus. 
+ORIG8:	    Dann die Krankenschwester gekommt. 
+ZIELHYP:   Dann ist die Krankenschwester gekommen. 
+ORIG9:	    Und dann Krankenschwester untersuchte Lars. 
+ZIELHYP:   Und dann untersuchte die Krankenschwester Lars. 
+ORIG10:    Dann legt die Krankenschwester den Gips auf Lars Bein. 
+ZIELHYP:   Dann legt die Krankenschwester den Gips auf Lars Bein.
+ORIG11:    Während Lars hat Schmerz schreien. 
+ZIELHYP:   Während Lars Schmerz hat, schreit er. 
+ORIG12:    Und Lea unterstützt Lars. 
+ZIELHYP:   Und Lea unterstützt Lars.
+ORIG13:   Er ist nach Hause gekommen. 
+ZIELHYP:   Er ist nach Hause gekommen.
+ORIG14:    Die Familie kümmert sich um ihn. 
+ZIELHYP:   Die Familie kümmert sich um ihn.
+ORIG15:    Und die schwester von Lars schrieb und malte auf der Gips. 
+ZIELHYP:   Und die Schwester von Lars schrieb und malte auf den Gips. 
+ORIG16: Und trotzdem, Lars ist zufrieden und sehr glücklich.
+ZIELHYP: Und trotzdem ist Lars zufrieden und sehr glücklich.

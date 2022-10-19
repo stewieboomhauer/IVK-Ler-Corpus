@@ -1,0 +1,32 @@
+﻿Yazan	Woche 11 (Pfannkuchen)	Datum 17.06.2021
+ORIG1:   Zuerst sie bereiten den Teig zu. 
+ZIELHYP: Zuerst bereiten sie den Teig zu. 
+ORIG2: 	   Dann Lea rührt den Teig. 
+ZIELHYP:  Dann rührt Lea den Teig. 
+ORIG3:     Dannach der Vater hat die Ei i die Schüssel gebrochen. 
+ZIELHYP:  Danach hat der Vater das Ei in die Schüssel gebrochen. 
+ORIG4:	    Dann sie haben die Schürze getragen. 
+ZIELHYP:   Dann haben sie die Schürzen getragen. 
+ORIG5:	    Dann Lea hat der Teig in die Pfanne gegossen. 
+ZIELHYP:   Dann hat Lea den Teig in die Pfanne gegossen. 
+ORIG6:	    Dann der Vater wendet die PFannKuchen. 
+ZIELHYP:   Dann wendet der Vater die Pfannkuchen. 
+ORIG7:	    Und Plötzlich der Vater hat der PfannKuchen Fallen gelassen. 
+ZIELHYP:   Und plötzlich hat der Vater den Pfannkuchen fallen lassen.
+ORIG8:	    Und der Vater hat der PfannKuchen beim wenden gerissen. 
+ZIELHYP:   Und der Vater hat den Pfannkuchen beim Wenden gerissen. 
+ORIG9:	    Dann der PFannKuchen ist heruntergefallen. 
+ZIELHYP:  Dann ist der Pfannkuchen heruntergefallen. 
+ORIG10:    Und dann der Vater Putzt den Boden. 
+ZIELHYP:  Und dann putzt der Vater den Boden. 
+ORIG11:    Und Plötzlich der andere Pfann Kuchen landet auf den Kopf von Vater. 
+ZIELHYP:   Und plötzlich landet der andere Pfannkuchen auf den Kopf von dem Vater.
+ORIG12:    der Vater ist überrascht. 
+ZIELHYP:   Der Vater ist überrascht. 
+ORIG13:    Und Lea hat spaß und Kichern.
+ZIELHYP:   Und Lea hat Spaß und kichert.
+ 
+
+
+
+

@@ -1,0 +1,15 @@
+﻿Hadi	Woche 6 (Blumenstrauß)	Datum 24.11.2020
+ORIG1:     Die Kinder Pflucken auf der wiese einen Blumenstrauße 
+ZIELHYP:  Die Kinder pflücken auf der Wiese einen Blumenstrauß.
+ORIG2: 	    sie besuchen ihre oma Jeda eine Blumenstraus
+ZIELHYP:   Sie besuchen ihre Oma, jeder schenkt einen Blumenstrauß.
+ORIG3:      sie steht die beiden strauße im eine Vase
+ZIELHYP:   Sie stellt die beiden Sträuße in eine Vase.
+ORIG4:	    die oma rie scht die blumen und die Kinder decken dentich
+ZIELHYP:   Die Oma riecht an den Blumen und die Kinder decken den Tisch.
+ORIG5:      und lia zeigt auf spinne sie spielt nitmarienkaffer und lars ist überracht
+ZIELHYP:   Und Lea zeigt auf eine Spinne, sie spielt mit einem Marienkäfer und Lars ist überrascht.
+ORIG6:       un liahat Angst und lars erschreckt weil er sieht Mareien Kaffer und die oma lacht
+ZIELHYP:    Und Lea hat Angst und Lars erschreckt sich, weil er den Marienkäfer sieht und die Oma lacht.
+
+

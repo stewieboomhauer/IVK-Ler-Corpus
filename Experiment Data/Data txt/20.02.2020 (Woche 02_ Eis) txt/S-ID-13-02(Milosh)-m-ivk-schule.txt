@@ -1,0 +1,21 @@
+﻿Milosh	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:    Lea und Lars kaufen ein Eis auf der Eiskiosk.
+ZIELHYP: Lea und Lars kaufen Eis im Eiskiosk.
+ORIG2: 	   Lea Eis fängt an tropfen und Dodo ist.
+ZIELHYP:  Leas Eis fängt an zu tropfen und Dodo isst es.
+ORIG3:     Lea plötzlich gefallt und das Eis herunterfallen.
+ZIELHYP:  Lea ist plötzlich gefallen und das Eis fällt herunter.
+ORIG4:	    Lea fängt an weinen und sie Fängt an verwirrt sein.
+ZIELHYP:   Lea fängt an zu weinen und sie ist verwirrt.
+ORIG5:      Lars teilt ein Eiskugel für Lea.
+ZIELHYP:   Lars teilt eine Eiskugel mit Lea.
+ORIG6:      Lea und Lars sich freuen, genießen das Eis und Dodo bleibt für das Eis.
+ZIELHYP:   Lea und Lars freuen sich, genießen das Eis und Dodo bleibt, um das Eis zu essen.
+ORIG7:      Zuletzt sind ale glücklich.
+ZIELHYP:   Zuletzt sind alle glücklich.
+
+
+
+
+
+

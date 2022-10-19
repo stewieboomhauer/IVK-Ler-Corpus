@@ -1,0 +1,9 @@
+﻿Aisha 	Woche 5 (Schnecken)	Datum 25.03.2020
+
+ORIG1:     Lia, Lars und Dodo sammeln Schnecken
+ZIELHYP:  Lea, Lars und Dodo sammeln Schnecken.
+ORIG2: 	    Die Großmutter überprüfte die Muscheln und dann die mit Aquarellen gefärbten Kinder.
+ZIELHYP:   Die Großmutter überprüfte die Muscheln und dann haben die Kinder sie mit Aquarellen gefärbt.
+ORIG3:      Abend schlafen sie ein und wenn sie aufwachen, sind überall Schnecken.
+ZIELHYP:   Am Abend schlafen sie ein und als sie aufwachen, sind die Schnecken überall.
+

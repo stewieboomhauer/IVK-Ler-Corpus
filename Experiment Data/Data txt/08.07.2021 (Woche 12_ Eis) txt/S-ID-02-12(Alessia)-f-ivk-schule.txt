@@ -1,0 +1,22 @@
+﻿Alessia 	Woche 12 (Eis)	Datum 08.07.2021
+
+ORIG1:     Lea, Lars, und Dodo ging zu ein EisKiosk. 
+ZIELHYP:   Lea, Lars und Dodo gingen zu einem Eiskiosk. 
+ORIG2: 	    Wie kaufen zwei Eis. 
+ZIELHYP:   Wir kaufen zwei Eis.
+ORIG3:      Lea in seine Eis hat zwei Kugel: ein am Erdbere und ein am Kiwi. 
+ZIELHYP:   Lea hat zwei Kugeln in ihrem Eis: Erdbeere und Kiwi.
+ORIG4:	    Lea hat hauc zwei Eiskugel: ein am Lemon und ein am Erdbere. 
+ZIELHYP:   Lea hat auch zwei Eiskugeln: Zitrone und Erdbeere.
+ORIG5:      Lea, Lars, und Dodo laufen, aber dann Lea unterfallt an den Straße. 
+ZIELHYP:   Lea, Lars und Dodo laufen, aber dann Lea fällt um auf die Straße.
+ORIG6:       Sie ist traurig und weint weil seine Eis ist an die Straße. 
+ZIELHYP:    Sie ist traurig und weint, weil ihr Eis ist auf der Straße.
+ORIG7:        Aber Lars hat getailen sein Eis mit Lea. 
+ZIELHYP:     Aber Lars hat sein Eis mit Lea geteilt.
+ORIG8:        Dann laufen die zweite Freunden glücklich. 
+ZIELHYP:     Dann laufen die beiden Freunde glücklich. 
+ORIG9:        Dann ging Lea, Lars und Dodo zu hause und spielt zusammen. 
+ZIELHYP:     Dann gingen Lea, Lars und Dodo nach Hause und spielten zusammen. 
+ORIG10:       Jetzt ging Lea un Lars in die bad und schlafen weil in diese Tag haben sie so viele Spaß gehabt.
+ZIELHYP:     Jetzt gingen Lea und Lars in das Bad und schlafen, weil sie an diesem Tag so viel Spaß gehabt haben.

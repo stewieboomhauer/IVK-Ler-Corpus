@@ -1,0 +1,15 @@
+﻿Alessia 	Woche 3 (Spinnennetz)	Datum 05.03.2020
+ORIG1:     Lea und Lars im Bett, Lars aufstehen und etwas zeigen.
+ZIELHYP:  Lea und Lars sind im Bett, Lars steht auf und zeigt etwas.
+ORIG2:	Lars sich erschrroken.
+ZIELHYP:   Lars hat sich erschrocken.
+ORIG3:      Lea eins Spinne in der Ecke, und jemanden fangen.
+ZIELHYP:   Lea sieht eine Spinne in der Ecke und fängt jemanden.
+ORIG4:	Lars sich etwas anschauen die Spinne zunächst.
+ZIELHYP:    Lars schaut sich zunächst die Spinne an.
+ORIG5:       Lars das Fensterbrett und die Spinne.
+ZIELHYP:    Lars lässt die Spinne auf das Fensterbrett frei.
+ORIG6:       Lea un Lars im Bett, Lars die Morgen Danach überrascht sein, schlafen gehen.
+ZIELHYP:    Lea und Lars sind im Bett, Lars ist am Morgen danach überrascht, er geht schlafen.
+
+

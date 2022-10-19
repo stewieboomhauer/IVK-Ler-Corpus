@@ -1,0 +1,16 @@
+﻿Rafal	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:    Lea und Lars gehen zu EisKiosk und sie wollen Eis kaufen 
+ZIELHYP: Lea und Lars gehen zum Eiskiosk und sie wollen Eis kaufen. 
+ORIG2:   sie suchen etwas
+ZIELHYP: Sie suchen etwas.
+ORIG3: 	   Lea nehmt Ein Kugel und Lars auch. 
+ZIELHYP:  Lea nimmt eine Kugel und Lars auch.
+ORIG4:     eine Schokolade und eine Vanielea, sie Eis genußen und sie laufen und lecken das Eis. 
+ZIELHYP:  Eine mit Schokolade und eine mit Vanille. Sie genießen das Eis und sie laufen und lecken das Eis.
+ORIG5:	    Lea stolpern und ihre eis ist heruntergefallt 
+ZIELHYP:   Lea stolpert und ihr Eis ist heruntergefallen. 
+ORIG6:      Danach weinet sie und Lars verwirrt sein und Dodo leckt das Eis die gefallen ist,
+ZIELHYP:   Danach weint sie und Lars ist verwirrt und Dodo leckt das Eis, das gefallen ist.
+ORIG7:      und lars teilt seine Eis mit Lea und Lea freut sich und fertig.
+ZIELHYP:    Und Lars teilt sein Eis mit Lea und Lea freut sich und fertig.
+

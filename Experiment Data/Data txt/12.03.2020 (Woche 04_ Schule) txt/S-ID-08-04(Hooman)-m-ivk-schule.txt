@@ -1,0 +1,10 @@
+﻿Hooman	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:    lea und lars sich treffen. 
+ZIELHYP:  Lea und Lars treffen sich. 
+ORIG2: 	   lea Dodo zeigen lars und lea verstecken Dodo in die Klasse. 
+ZIELHYP:  Lea zeigt Lars Dodo und Lea versteckt Dodo in der Klasse. 
+ORIG3:     lea lernen und Dodo schleichen gehen und dann einen vögel sehen,
+ZIELHYP:  Lea lernt und Dodo schleicht und sieht dann einen Vogel.
+ORIG4:	    Plötzlich lehrerin kommen sie ist überrascht sein und lars sich für etwas schämen.
+ZIELHYP:   Plötzlich kommt die Lehrerin, sie ist überrascht und Lars schämt sich für etwas.
+

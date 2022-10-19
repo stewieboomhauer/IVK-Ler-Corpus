@@ -1,0 +1,12 @@
+﻿Alessia 	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:     Lea und Lars sich treffen. 
+ZIELHYP:   Lea und Lars treffen sich.
+ORIG2: 	    Lea etwas zeigen a Lars Dodo, sie in die schule gehen. 
+ZIELHYP:   Lea zeigt Lars Dodo, sie gehen in die Schule.
+ORIG3:      Wehn Lea und Lars Aufgaben machen di Mathematic Dodo schleichen. 
+ZIELHYP:   Als Lea und Lars die Mathematikaufgaben machen, schleicht Dodo. 
+ORIG4:	    Plötzlich Dodo jemanden anbellen, Lea si Sich für etwas schämen.
+ZIELHYP:   Plötzlich bellt Dodo jemanden an, Lea schämt sich für etwas.
+
+
+

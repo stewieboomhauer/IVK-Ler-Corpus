@@ -1,0 +1,18 @@
+﻿Hala Alhamoud	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    Lea ist im Bus 
+ZIELHYP: Lea ist im Bus. 
+ORIG2: 	   der Mann sitzt Ihr gegen über. 
+ZIELHYP:  Der Mann sitzt ihr gegenüber.
+ORIG3:     Sie hat eine schöen Perlenkette. 
+ZIELHYP:  Sie hat eine schöne Perlenkette. 
+ORIG4:	    Der Mann hat einen Stok. 
+ZIELHYP:   Der Mann hat einen Stock.
+ORIG5:      Lea und dodo müssen aussteigen.
+ZIELHYP:    Lea und Dodo müssen aussteigen.
+ORIG6:       Lea hat ihre Tache vergessen. 
+ZIELHYP:    Lea hat ihre Tasche vergessen.
+ORIG7:       Der Mann gibt ihre Tache im Fundbüro.
+ZIELHYP:    Der Mann gibt ihre Tasche im Fundbüro ab.
+
+
+

@@ -1,0 +1,19 @@
+﻿Alessia 	Woche 10 (Drachen)	Datum 18.05.2021
+
+ORIG1:     Heute ist die Geburtstag von Lea und Lars pracche eine geschenk fur sie. 
+ZIELHYP:   Heute ist der Geburtstag von Lea und Lars brachte ein Geschenk für sie.
+ORIG2: 	    Wann Lars gibt da Geschenkt am Lea, Sie öffnet und sie Große Auge bekomme:
+ZIELHYP:   Wenn Lars Lea das Geschenkt gibt, öffnet sie es und bekommt sie große Augen:
+ORIG3:     „Lea hat beaKommt eine LenKdrachen!“.
+ZIELHYP:  „Lea hat einen Lenkdrachen bekommen!“.
+ORIG4:	    Sie und Lars gehe in der garten und probiren das. 
+ZIELHYP:   Sie und Lars gehen in den Garten und probieren es aus.
+ORIG5:      Wir zusammen der LenKdrachen steige lasse. 
+ZIELHYP:    Wir lassen zusammen den Lenkdrachen steigen.
+ORIG6:       Dann Wir für die wind neht an der Lenkdrache festhalten aber der wind sind sehr starg und die Lendrache an die baumen hängen bleiben.
+ZIELHYP:    Dann halten wir an den Lenkdrachen fest, wenn der Wind weht, aber der Wind ist sehr stark und der Lenkdrachen bleibt an den Bäumen hängen.
+
+
+
+
+

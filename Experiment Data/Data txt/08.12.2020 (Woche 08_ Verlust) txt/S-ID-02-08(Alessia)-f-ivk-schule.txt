@@ -1,0 +1,20 @@
+﻿Alessia 	Woche 8 (Verlust)	Datum 08.12.2020
+
+ORIG1:     Lea ist traurig, weil, Dodo ist verloren hat. 
+ZIELHYP:   Lea ist traurig, weil sie Dodo verloren hat. 
+ORIG2: 	    Sie angeklebt die Aushangzettel in der Baum. 
+ZIELHYP:   Sie hat den Aushangzettel an den Baum angeklebt. 
+ORIG3:      Dann Lars anruft Lea und erzählt hat gefunde Dodo. 
+ZIELHYP:   Dann ruft Lars Lea an und erzählt, er hat Dodo gefunden. 
+ORIG4:	    Am ende Lars Kommt mit Dodo, 
+ZIELHYP:   Am Ende kommt Lars mit Dodo.
+ORIG5:      Sie ist nich traurig weil sie sehe Dodo, 
+ZIELHYP:    Sie ist nicht traurig, weil sie Dodo sieht.
+ORIG6:       Die Kinder umarmt, 
+ZIELHYP:    Die Kinder umarmen sich. 
+ORIG7:        Lars mit dem Finger droht zu Dodo isst
+ZIELHYP:     Lars droht Dodo mit dem Finger und er isst.
+
+
+
+

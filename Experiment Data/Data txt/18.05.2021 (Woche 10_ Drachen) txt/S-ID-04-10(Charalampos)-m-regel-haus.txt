@@ -1,0 +1,14 @@
+﻿Charalampos 	Woche 10 (Drachen)	Datum 17.06.2021
+ORIG1:     Als Lea Geburstag natte, Lars hat Lea ein Großes Geschenk und Geburstagstorte hatte 12 Kerzen. 
+ZIELHYP:   Als Lea Geburtstag hatte, hat Lars Lea ein großes Geschenk geschenkt und die Geburtstagstorte hatte 12 Kerzen.
+ORIG2: 	    Als Lea das Geschen öffnete, fand sie einen Drachen.
+ZIELHYP:   Als Lea das Geschenk öffnete, fand sie einen Drachen.
+ORIG3:      Es wehte viel wind und sie haben draußen gegangen, um den Dracnen steigen zu lassen, aber der wind trug den Drachen zu einem Baum. 
+ZIELHYP:   Es wehte viel Wind und sie sind nach draußen gegangen, um den Drachen steigen zu lassen, aber der Wind trug den Drachen zu einem Baum.
+ORIG4:	    Lea hat es Lars gezeigt. 
+ZIELHYP:   Lea hat Lars ihn gezeigt. 
+ORIG5: 	     Lars sah überrascnt aus……
+ZIELHYP:   Lars sah überrascht aus…
+
+
+

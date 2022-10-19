@@ -1,0 +1,26 @@
+﻿Hala Alhanafi	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:    Lea, lars treffen. 
+ZIELHYP: Lea und Lars treffen sich.
+ORIG2: 	   Lea und lars einander begrüßen. 
+ZIELHYP:  Lea und Lars begrüßen einander.
+ORIG3:     Lea etwas zeigt dodo. 
+ZIELHYP:  Lea zeigt Dodo.
+ORIG4:	   lars überrascht sein
+ZIELHYP:   Lars ist überrascht.
+ORIG5:    lea, lars und Dodo in die Schule gehen. 
+ZIELHYP: Lea, Lars und Dodo gehen in die Schule.
+ORIG6:	    Lea und lars im Unterricht sitzen. 
+ZIELHYP:   Lea und Lars sitzen im Unterricht. 
+ORIG7:	    Lea versteckt dodo leherein. 
+ZIELHYP:   Lea versteckt Dodo vor der Lehrerin.
+ORIG8:	    Lea rechnt. 
+ZIELHYP:   Lea rechnet.
+ORIG9:    Dodo schleicht.
+ZIELHYP: Dodo schleicht.
+ORIG10:   Plötzlich. Dodo jemanden an bellt. 
+ZIELHYP:   Plötzlich bellt Dodo jemanden an.
+ORIG11:   Lea sich erschreckt. 
+ZIELHYP:   Lea erschreckt sich.
+ORIG12:    Lea für etwas schämen leherein.
+ZIELHYP:   Lea schämt sich für etwas vor der Lehrerin.
+

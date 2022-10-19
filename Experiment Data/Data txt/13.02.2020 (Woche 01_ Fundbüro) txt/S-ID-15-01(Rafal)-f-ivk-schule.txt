@@ -1,0 +1,16 @@
+﻿Rafal	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    Lea verließ das Haus mit ihrem Kleinen Hund Dodo. 
+ZIELHYP: Lea verließ das Haus mit ihrem kleinen Hund Dodo.
+ORIG2:    Lea steig in den Bus und einer sehr netter alter mann saß vor ihr. 
+ZIELHYP:  Lea steigt in den Bus und ein sehr netter alter Mann saß vor ihr.
+ORIG3:   Dodo begann mit dem alten Mann zu spielen. 
+ZIELHYP: Dodo begann mit dem alten Mann zu spielen.
+ORIG4: 	   Lea erreicht ihre station und Lea kam mit ihrem Hund Dodo herunter und erinnert sich, dass sie ihre Tasche vermisste.
+ZIELHYP:  Lea erreicht ihre Station und Lea kam mit ihrem Hund Dodo herunter und erinnert sich, dass sie ihre Tasche vermisste.
+ORIG5:     der alter mann bemerkte, dass eine Tasche Lea war auf dem Stuhl im Bus geblieben. 
+ZIELHYP:  Der alte Mann bemerkte, dass eine Tasche von Lea auf dem Sitz im Bus geblieben war. 
+ORIG6:	    also nahm der alter mann ihm die Tasche und gang zum ort der verlorenen. 
+ZIELHYP:   Also nahm der alte Mann die Tasche und ging zum Ort der verlorenen Sachen. 
+ORIG7:      Dann geht Lea und fragt über ihre Tasche im verlorenen Ort und sie hate schön gefunden.
+ZIELHYP:   Dann geht Lea und fragt nach ihrer Tasche am Ort der verlorenen Sachen und sie hatte sie schon gefunden.
+

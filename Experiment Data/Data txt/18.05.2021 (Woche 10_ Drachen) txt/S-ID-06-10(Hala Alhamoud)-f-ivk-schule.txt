@@ -1,0 +1,60 @@
+﻿Hala Alhamoud	Woche 10 (Drachen)	Datum 18.05.2021
+
+ORIG1:    Es ist der schönster Tag von Lea, weil sie Geburtstag hat. 
+ZIELHYP: Es ist der schönste Tag von Lea, weil sie Geburtstag hat.
+ORIG2: 	   Sie entscheidet, dass sie mit ihr Freunden Feiern will. 
+ZIELHYP:  Sie entscheidet, dass sie mit ihren Freunden feiern will.
+ORIG3:     Sie hat eine Party gemacht, und alle Freunden sind gekommen, und sie freut sich sehr, weil alle sind gekommen. 
+ZIELHYP:  Sie hat eine Party gemacht, und alle Freunde sind gekommen, und sie freut sich sehr, weil alle gekommen sind.
+ORIG4:	    Danach ist die Torte gebracht. 
+ZIELHYP:   Danach ist die Torte gebracht. 
+ORIG5:      Auf dem Torte gab es neuen Kerzen, weil Lea neuen jahre alt wird. 
+ZIELHYP:   Auf der Torte gab es neun Kerzen, weil Lea neun Jahre alt wird. 
+ORIG6:       Sie hat viele Geschenke bekommen, aber sie ist neugerig was hat Lars gebracht. 
+ZIELHYP:    Sie hat viele Geschenke bekommen, aber sie ist neugierig, was Lars gebracht hat. 
+ORIG7:       Nachdem sie die Kerzen angezunget hat, hat sie ihr Geschenk von Lars bekommen, und sie ist sehr glücklig und überrascht. 
+ZIELHYP:     Nachdem sie die Kerzen angezündet hat, hat sie ihr Geschenk von Lars bekommen, und sie ist sehr glücklich und überrascht.
+ORIG8:        Danach hat sie das Geschenk ausgePackt. 
+ZIELHYP:     Danach hat sie das Geschenk ausgepackt.
+ORIG9:        Während sie die Geschenkbox ausPackt, ist sie sehr begestert und neugerig. 
+ZIELHYP:     Während sie die Geschenkbox auspackt, ist sie sehr begeistert und neugierig.
+ORIG10:      Danach hat sie einen Drachen zum Geschenk bekommen. 
+ZIELHYP:     Danach hat sie einen Drachen zum Geschenk bekommen.
+ORIG11:      Auf diesen Drachen ist Vogel gemalt. 
+ZIELHYP:     Auf diesem Drachen ist ein Vogel gemalt.
+ORIG12:      Lea hat große Augen bekommen. 
+ZIELHYP:     Lea hat große Augen bekommen.
+ORIG13:      Dann haben sie entschieden, dass sie nach draußen gehen, und mit dem Drachen spielen. 
+ZIELHYP:     Dann haben sie entschieden, dass sie nach draußen gehen und mit dem Drachen spielen.
+ORIG14:      Das Wetter war sehr windig. 
+ZIELHYP:     Das Wetter war sehr windig.
+ORIG15:      Sie haben der Drachen festgehalten, weil sie Angst haben, dass der Drachen fliegen. 
+ZIELHYP:     Sie haben an dem Drachen festgehalten, weil sie Angst haben, dass der Drachen fliegt.
+ORIG16:      Später sind sie nochmal nach draußen gegangen, und Lea hat der Drachen auf dem Baum angeschaut, und ist sie erstaunt. 
+ZIELHYP:     Später sind sie nochmal nach draußen gegangen und Lea hat den Drachen auf dem Baum angeschaut und sie ist erstaunt.
+ORIG17:      dann hat sie mit dem Fingen auf dem Baum gezeigt. 
+ZIELHYP:     Dann hat sie mit dem Finger auf den Baum gezeigt.
+ORIG18:      Danach haben sie gedacht, wie Sie der Drachen runterbringen. 
+ZIELHYP:     Danach haben sie gedacht, wie sie den Drachen runterbringen.
+ORIG19:      Das war schöner und interesanter Tag.
+ZIELHYP:     Das war ein schöner und interessanter Tag.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

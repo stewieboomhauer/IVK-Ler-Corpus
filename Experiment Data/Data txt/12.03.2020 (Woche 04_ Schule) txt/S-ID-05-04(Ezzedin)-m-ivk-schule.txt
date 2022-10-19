@@ -1,0 +1,15 @@
+﻿Ezzedin	Woche 4 (Schule)	Datum 12.03.2020
+ORIG1:    lars trefft mit Lea und Dodo und Lea versteckt Dodo in dem JaKe. 
+ZIELHYP:  Lars trifft sich mit Lea und Dodo und Lea versteckt Dodo in der Jacke.
+ORIG2: 	   dann Lea und Lars sitzt im Unterricht. 
+ZIELHYP:  Dann sitzen Lea und Lars im Unterricht.
+ORIG3:     lea rechnet die HauSaafgabe und Lea siehst die HauSaafgabe ist schwereckg. 
+ZIELHYP:  Lea rechnet die Hausaufgabe und Lea sieht, die Hausaufgabe ist schwierig.
+ORIG4:	    Dannach lea überracht von Dodo. 
+ZIELHYP:   Danach ist Lea überrascht von Dodo.
+ORIG5:      Dann die lehrerin Kommt und siehst der Dodo. 
+ZIELHYP:   Dann kommt die Lehrerin und sieht Dodo.  
+ORIG6:      und Dodo schreit in den Vogel. 
+ZIELHYP:   Und Dodo schreit den Vogel an. 
+ORIG7:     lea erscheckt von lehrerin.
+ZIELHYP:  Lea erschreckt sich vor der Lehrerin.

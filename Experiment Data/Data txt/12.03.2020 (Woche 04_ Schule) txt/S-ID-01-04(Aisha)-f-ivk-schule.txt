@@ -1,0 +1,15 @@
+﻿Aisha 	Woche 4 (Schule)	Datum 12.03.2020
+
+ORIG1:     Lia und Lars treffen sich. 
+ZIELHYP:  Lea und Lars treffen sich.
+ORIG2: 	    Lia zeigen a Lars Dodo, göhert Hund. 
+ZIELHYP:   unformulierbar
+ORIG3:      Lars ist überrascht. 
+ZIELHYP:   Lars ist überrascht.
+ORIG4:	     So Sie gehen in die Schule und mach matematik. 
+ZIELHYP:    So gehen sie in die Schule und machen Mathematik. 
+ORIG5:       Wenn Lia rechnt, Dodo plötzlich anbellt a einen Vogel.
+ZIELHYP:    Als Lea rechnet, bellt Dodo plötzlich einen Vogel an.
+ORIG6:       Lia ist schämt.
+ZIELHYP:    Lea schämt sich.
+

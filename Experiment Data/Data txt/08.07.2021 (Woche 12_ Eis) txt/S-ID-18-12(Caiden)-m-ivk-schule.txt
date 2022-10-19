@@ -1,0 +1,26 @@
+﻿Caiden	Woche 12 (Eis)	Datum 08.07.2021
+
+ORIG1:     Im Sommer Lea und Lars die Freunde sind. Hat ein Eiskiosk. gesahen. 
+ZIELHYP:  Im Sommer haben Lea und Lars, die Freunde sind, einen Eiskiosk gesehen.
+ORIG2: 	    Lars will Eis essen so er fraggt Lea. „Möchtest du Eis essen.“ 
+ZIELHYP:   Lars will Eis essen, deswegen fragt er Lea: „Möchtest du Eis essen?“ 
+ORIG3:      „Ja das ist ein sehr Gut Idee, vielen dank lars“ Lea geruft aus.
+ZIELHYP:   „Ja, das ist eine sehr gute Idee, vielen Dank, Lars“ - Lea rief aus.
+ORIG4:	    Der Eiskiosk hat nur FruchtSorta. 
+ZIELHYP:   Der Eiskiosk hat nur Fruchtsorten.
+ORIG5: 	    Lars hat Edbern und bannana bestalt. 
+ZIELHYP:   Lars hat Erdbeere und Banane bestellt.  
+ORIG6:      aber for seine Freund er weißt Lea magst Himbeer und Kiwi so Er kauft beide Sorta vor Lea. 
+ZIELHYP:   Aber für seine Freundin weißt er, dass Lea Himbeere und Kiwi mag, deswegen kauft er beide Sorten für Lea.
+ORIG7:       Dodo die Kleines Hund begleiten sie. 
+ZIELHYP:    Dodo, der kleine Hund, begleiten sie.
+ORIG8:       Plotzlich Sie hat über etwas fallen und Leas Eis hat herunterfallen. 
+ZIELHYP:    Plötzlich ist sie umgefallen und Leas Eis ist heruntergefallen.
+ORIG9:       Dodo hat deiner Schanze aus genucht und Er leckte die eis auf den boden. 
+ZIELHYP:    Dodo hat seine Chance ausgenutzt und er leckte das Eis von dem Boden.
+ORIG10:      Lea wint das wegen Lars hat sich entschulegt etwas teilt sein Eis mit Lea 
+ZIELHYP:     Lea weint, deswegen hat Lars sich entschuldigt, teilt sein Eis mit Lea.
+ORIG11:     Dann beide war Glücklich und Dodo der Hund war auch Glücklich mit die fallen eis.
+ZIELHYP:   Dann waren Beide glücklich und Dodo, der Hund, war auch glücklich mit dem gefallenem Eis.
+
+

@@ -1,0 +1,15 @@
+﻿Hooman	Woche 1 (Fundbüro)	Datum 13.02.2020
+ORIG1:    lea|und Dodo sitzen im Bus.
+ZIELHYP:  Lea und Dodo sitzen im Bus.
+ORIG2: 	   der Bus held und lea und Dodo wolen aus steigen.
+ZIELHYP:  Der Bus hält und Lea und Dodo wollen aussteigen.
+ORIG3:     Aber Lea vergessen die Ruck sack.
+ZIELHYP:  Aber Lea vergisst den Rucksack.
+ORIG4:	    Der Bus fährt schon weiter und Lea Kann ihn nicht mehr ein holen.
+ZIELHYP:   Der Bus fährt schon weiter und Lea kann ihn nicht mehr einholen.
+ORIG5:      der Mann giebt den Ruck sack im Fundbüro. ab.
+ZIELHYP:   Der Mann gibt den Rucksack im Fundbüro ab.
+ORIG6:     lea abholen die Ruck sack im Fundbüro.
+ZIELHYP: Lea holt den Ruchsack im Fundbüro ab.
+
+

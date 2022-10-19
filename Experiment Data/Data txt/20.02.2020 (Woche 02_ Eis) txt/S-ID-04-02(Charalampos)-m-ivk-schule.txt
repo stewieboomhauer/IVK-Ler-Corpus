@@ -1,0 +1,28 @@
+﻿Charalampos 	Woche 2 (Eis)	Datum 20.02.2020
+ORIG1:     Es ist sommer…
+ZIELHYP:   Es ist Sommer…
+ORIG2: 	    Lea und Lars mit Dodo gehen zum Eiskiosk und wollen sie eis kaufen.
+ZIELHYP:   Lea und Lars mit Dodo gehen zum Eiskiosk und wollen Eis kaufen.
+ORIG3:      Lea sucht zwei Eiskugeln aus. 
+ZIELHYP:   Lea sucht zwei Eiskugeln aus. 
+ORIG4:	    Die erste Eiskugel ist Erdbeere und die zweite Apfel.
+ZIELHYP:   Die erste Eiskugel ist Erdbeere und die zweite ist Apfel.
+ORIG5:      Lars kauft auch zwei Eiskugeln.
+ZIELHYP:    Lars kauft auch zwei Eiskugeln.
+ORIG6:       Die erste ist auch Erdbeere und die zweite Banane.
+ZIELHYP:    Die erste ist auch Erdbeere und die zweite Banane.
+ORIG7:        Dodo schaut das Eis an.
+ZIELHYP:     Dodo schaut das Eis an.
+ORIG8:        Lea stolpert über Dodo.
+ZIELHYP:     Lea stolpert über Dodo.
+ORIG9:        Das Eis herunterfällt und Dodo leckt das Eis.
+ZIELHYP:     Das Eis fällt herunter und Dodo leckt das Eis.
+ORIG10:      Er ist sehr sehr Glücklich aber Lea ist sehr Traurig.
+ZIELHYP:     Er ist sehr sehr glücklich aber Lea ist sehr traurig.
+ORIG11:      Dann Lars gibt Lea eine Eiskugel.
+ZIELHYP:     Dann gibt Lars Lea eine Eiskugel.
+ORIG12:      Schließlich Dodo ist das alte Eis, Lea uns Lars umarmen sich und freuen sich und, gehen in den Park.
+ZIELHYP:     Schließlich isst Dodo das alte Eis, Lea und Lars umarmen sich und freuen sich und gehen in den Park.
+
+
+

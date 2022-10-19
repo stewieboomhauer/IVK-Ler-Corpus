@@ -1,0 +1,17 @@
+﻿Alessia 	Woche 5 (Schnecken)	Datum 25.03.2020
+
+ORIG1:     Lea, Lars und Dodo werden in den Garten gehen um schneckenhäuser zu sammeln und sie zu bemalen.
+ZIELHYP:   Lea, Lars und Dodo werden in den Garten gehen um Schneckenhäuser zu sammeln und sie zu bemalen.
+ORIG2: 	    Sie begannen die Muscheln zu sammeln, ohne zu wissen, ob es schnecken gab.
+ZIELHYP:   Sie begannen die Muscheln zu sammeln, ohne zu wissen, ob es Schnecken gab.
+ORIG3:      Nachdem sie ins haus zurückgekehrt waren, riefen sie jemanden an, um zu fragen, ob sie sie malen könnten. 
+ZIELHYP:   Nachdem sie nach Hause zurückgekehrt waren, riefen sie jemanden, um zu fragen, ob sie sie bemalen könnten. 
+ORIG4:	    Sie nahmen die Felle und fingen an zu malen.
+ZIELHYP:   Sie nahmen die Pinsel und fingen an zu malen.
+ORIG5:      Als der Abend kam, legten Lea und Lars die Muscheln in eine Kiste, legten sich ins Bett und begannen zu schlafen.
+ZIELHYP:    Als der Abend kam, legten Lea und Lars die Muscheln in eine Kiste, sie legten sich ins Bett und begannen zu schlafen.
+ORIG6:       Lea und Lars si wachten plötzlich auf und sahen so viele schnecken durch den Raum kriechen. 
+ZIELHYP:    Lea und Lars wachten plötzlich auf und sahen so viele Schnecken durch den Raum kriechen.
+
+
+
