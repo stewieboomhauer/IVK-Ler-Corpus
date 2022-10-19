@@ -1,0 +1,14 @@
+ORIG1:    lea wachte auf und fand Dodo nicht. 
+ORIG2: 	   Sie sucht nach ihm und fand das nicht. 
+ORIG3:     lea klebt Aushangzettel Dodo an. 
+ORIG4:	    Sie steht mit auf zehen Spitzen da, um Aushangzettel aufkleben an Dodo vermisst hat. 
+ORIG5:	    Lea wartet auf einen Anruf. 
+ORIG6:	    Lars gefundt Dodo und ruft Lea an. 
+ORIG7:	    Lars redt mit Lea „Ich finde Dodo und komme schnell“. 
+ORIG8:	    Lea ist froh und weinen. 
+ORIG9:     Lars klinglt un der Tür.
+ORIG10:    Sie schaut aus dem fenster. 
+ORIG11:    Lars bringt Lea der Stielbonbon. 
+ORIG12:   Sie hat drauß gegangen und findt Dodo. 
+ORIG13:  Lea umarmt Lars. 
+ORIG14: Lars droht mit dem finger vor Dodo.

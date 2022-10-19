@@ -1,0 +1,14 @@
+ORIG1:    Lea und Lars treffen. 
+ORIG2: 	   Lea und Lars einander begrüßen. 
+ORIG3:     Lea zeigt Dodo in die Jacke. 
+ORIG4:	    und Lars ist überrascht. 
+ORIG5:      Lea steckt Dodo in die Jacke. 
+ORIG6:     Lea und Lars gehen in die Schule. 
+ORIG7:     Lea und Lars im unterricht sitzen. 
+ORIG8:    Lea rechnt. 
+ORIG9:    Dodo plötzlich. 
+ORIG10:  Dodo sieht einen VogeL. 
+ORIG11:   Dodo macht auf gaben. 
+ORIG12:   Dodo anbellt in VogeL. 
+ORIG13:   Lea erschreckt und Lehrerinistüberrascht. 
+ORIG14:   Lea schämt Jetzt.

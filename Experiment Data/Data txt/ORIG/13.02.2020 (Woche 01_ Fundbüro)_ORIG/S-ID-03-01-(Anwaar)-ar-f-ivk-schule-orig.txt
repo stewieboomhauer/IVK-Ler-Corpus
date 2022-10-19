@@ -1,0 +1,10 @@
+ORIG1:    lea ist im Bus 
+ORIG2:   der Mann sitzt Ihr gegen über.
+ORIG3: 	   Sie hat eine schöen Perlenkette. 
+ORIG4:     Der Mann hat einen stok. 
+ORIG5:	    lea und dodo müssen aussteigen. 
+ORIG6:      lea hat ihre Tache vergessen. 
+ORIG7:      Der Mann gibt die Tasche im Fundbüro ab. 
+ORIG8:       lea Kann ihre Tasche im Fundbüro abholen. 
+ORIG9:       lea freu sich. 
+ORIG10:     lea verabschieden sich

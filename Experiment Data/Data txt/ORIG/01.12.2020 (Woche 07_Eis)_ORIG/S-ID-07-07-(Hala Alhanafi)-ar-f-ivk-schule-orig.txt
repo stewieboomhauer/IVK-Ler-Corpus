@@ -1,0 +1,13 @@
+ORIG1:    Lea, Lars und Dodo spaziere gehen.
+ORIG2: 	   Sie sehen der Eiskiosk.
+ORIG3:     Sie gehen kaufen ein.
+ORIG4:	    Lea und Lars suchen aus.
+ORIG5:	    Sie lecken Eis und tropfen Dodo isst,
+ORIG6:	    Plötzlich Lea hat mit Dodo stolpern.
+ORIG7:	    Lea herunterfallt.
+ORIG8:	    Lea weint weil Eis herunterfallen.
+ORIG9:	    Dodo leckt Eis.
+ORIG10:    Lars verwirrt ist.
+ORIG11:    Lars will mit Lea das Eis teilen.
+ORIG12:    Lars umarmen ist Lea.
+ORIG13:    Lars und Lea freuen sich und Dodo bleibt und leckt Eis.

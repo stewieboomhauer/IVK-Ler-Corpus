@@ -1,0 +1,12 @@
+ORIG1:     Es ist Sommer. 
+ORIG2: 	    Es ist einer Guter Tag. 
+ORIG3:      Lea und Lars wollen ein Eis essen. 
+ORIG4:	     Neben Leas Haus, gibt es ein Eiskiosk. 
+ORIG5:       Sie zeigen die geschmack und dann suchen aus. 
+ORIG6:       Dann gehen sie spazieren mit Dodo, ihr Hund. 
+ORIG7:       Plötzlich, ist Lea auf dem Boden runtergefallen. 
+ORIG8:       Sie hat ihre Eis auf dem Boden Fallen gelassen. 
+ORIG9:       Sie hat viel geweint. 
+ORIG10:      Dann Lars hat ein Idee: er Teilt sein Eis mit Lea. 
+ORIG11:      Sie umarmen sich. 
+ORIG12:      Während sie spazieren gehen, isst Dodo das Eis auf dem Boden.

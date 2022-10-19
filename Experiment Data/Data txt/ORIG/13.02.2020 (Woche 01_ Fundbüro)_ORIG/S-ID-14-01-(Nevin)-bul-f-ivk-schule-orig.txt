@@ -1,0 +1,8 @@
+ORIG1:    Einen tag Lea hat gafahren mit den Bus.
+ORIG2: 	   Wann hat den Bus gestoppt, sie hat steigen aus.
+ORIG3:     Sie hat die tasche vergessen.
+ORIG4:	    Sie hat realisiert Ihre tasche ist weg.
+ORIG5:      Ein alter man hat gewunken von Lea.
+ORIG6:     Lea hat gegangen hinter den Bus, aber sie kann nicht holen auf.
+ORIG7:     Dann den alter mann hat gegeben die tasche von fundbüro, und Lea hat gegangen bis fundbüro,
+ORIG8:     und den man in fundbüro hat gegeben die tasche von Lea.

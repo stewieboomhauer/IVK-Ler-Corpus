@@ -1,0 +1,8 @@
+ORIG1:    Lea Fahrt in Bus. 
+ORIG2: 	   Mit der Bus fährt auch ein Man mit Stock.
+ORIG3:     Lea hat ein Hund, er heißt Dodo.
+ORIG4:	    Lea und sein Hund steigen aus aber sie vergesst seine ….. Tasche!!!
+ORIG5:     Der Alter Mann sieht die Tasche aber der Bus Fährt ab.
+ORIG6:     Lea realisiert und versucht der Bus aufzuholen aber sie kann nicht.
+ORIG7:    Der alter Mann geht in Fundbüro und giebt die Tasche von Lea ab.
+ORIG8:     Sie freut sich winkt und verabschiedet sich und geht mit Dodo in Park

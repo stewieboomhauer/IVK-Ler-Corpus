@@ -1,0 +1,10 @@
+ORIG1:     Lea und Lars im bett.
+ORIG2:	Lea und Lars Schrecken sich.
+ORIG3:      Lea setzen Spinne ins Glas.
+ORIG4:	Lars anschauen sich Spinne.
+ORIG5:       Lars Spinne freilassen.
+ORIG6:       Spine setzt in das Fensterbrett.
+ORIG7:       Lars Schlafen gehen.
+ORIG8:       Lars auf steht.
+ORIG9:       Lars öffnen den Fenster.
+ORIG10:       Lars sein überrascht.

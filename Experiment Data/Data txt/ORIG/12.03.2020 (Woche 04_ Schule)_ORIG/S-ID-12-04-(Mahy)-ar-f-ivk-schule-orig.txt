@@ -1,0 +1,10 @@
+ORIG1:     Lea geht in die Schule. und Sie trefft mit Lars und . sich einander begrüßen
+ORIG2: 	  Hallo lars wie geht es dir danke mehr gehtst gut. 
+ORIG3:     Lea zeigt etwas. 
+ORIG4:   Lars oh Lea Dodo oh du bist sehr nett
+ORIG5:   Lea und Lars im Unterricht sitzen. 
+ORIG6:    Sie rechnet. 
+ORIG7:    dodo schleichet und an bellen den Vogel. 
+ORIG8:     lea hat Angt. 
+ORIG9:    die leherin ist überrascht. 
+ORIG10:    Lea schämen Jetzt.

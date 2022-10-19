@@ -1,0 +1,5 @@
+ORIG1:	Lea und Lars waren im Bett.
+ORIG2:      Sie haben gerschrecken, weil Sie haben eine Spinne gesehen.
+ORIG3:	Lea hat mit Blatt und glas gefangen die Spinne in der Ecke.
+ORIG4:        Lars hat freilassen die Spinne und dann dann Sie haben gegangen ins Bett.
+ORIG5:        Am Morgen Lars hat aufgestanden und er hat überrascht sich, weil er hat gesehen nochmal eine Spinne.

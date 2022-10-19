@@ -1,0 +1,7 @@
+ORIG1:     Lea und Lars und Dodo gehen in der EisKiosk und kaufen zwei Eis.
+ORIG2: 	    Die Kinder das Eis lecken,
+ORIG3:      Dann das Eis von Lea tropfen. 
+ORIG4:	    Plötzlich Lea über etwas stolpern auf Dodo, sie weint.
+ORIG5:      Danach Lars teilen deine Eis mit Lea,
+ORIG6:       Schließlich die zweite Kinde laufen sich umarmen. 
+ORIG7:        Und Dodo isst die Eis fallen.

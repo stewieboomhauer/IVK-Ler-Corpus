@@ -1,0 +1,9 @@
+ORIG1:     Sie serd im Bett.
+ORIG2:	Lars erschreckt sich.
+ORIG3:      das Spinnennetz im zimmer.
+ORIG4:	die Spinne in der Ecke.
+ORIG5:       Lars zeigt Lars Spinne.
+ORIG6:       Lars schaut die Spinne an.
+ORIG7:       die Spinne freilässt
+ORIG8:       Sie sind schlafen gehen.
+ORIG9:       Lars steht auf, er ist überrascht das spinnennetz.

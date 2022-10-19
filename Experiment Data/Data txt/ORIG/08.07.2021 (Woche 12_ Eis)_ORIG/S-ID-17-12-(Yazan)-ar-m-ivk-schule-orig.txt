@@ -1,0 +1,17 @@
+ORIG1:   Im Sommer gingen Lea und Lars im Eiskiosk. 
+ORIG2: 	   Dann suchen lea und lars aus. 
+ORIG3:     Und der Eisverkäufer gab Lea und Lars Eiskugeln. 
+ORIG4:	    Dann zahlten Lea und Lars das Geld. 
+ORIG5:	    Dann liefen Lea und Lars und genoßen die Eiskugeln. 
+ORIG6:	    Und zu diesem Zeit leckten lea und Lars die Eiskugeln. 
+ORIG7:	    Und zu diesem Zeit tropfte die Eiskugeln. 
+ORIG8:	    Und Dodo aß die Eistropfen. 
+ORIG9:	    Und plötzlich stolperte Lea über Dodo. 
+ORIG10:    Dann lasste Lea die EisKugel auf dem Boden fallen. 
+ORIG11:    Lea fiel herunter auf dem Boden. 
+ORIG12:    Und zu diesem Zeit war Lars verwirrt. 
+ORIG13:    Dann teilte Lars seine Eiskugel. 
+ORIG14:    Und Lea umarmte Lars. 
+ORIG15:    Und zu diesem Zeit blieb Dodo auf dem Boden und lecKte Dodo die Eiskugel. 
+ORIG16: Dann freuten Lea und Lars.
+ORIG17: Und die Beide gingen nach Hause.

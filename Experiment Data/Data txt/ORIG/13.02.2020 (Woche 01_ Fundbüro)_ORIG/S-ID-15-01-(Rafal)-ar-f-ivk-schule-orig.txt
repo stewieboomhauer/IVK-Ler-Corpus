@@ -1,0 +1,7 @@
+ORIG1:    Lea verließ das Haus mit ihrem Kleinen Hund Dodo. 
+ORIG2:    Lea steig in den Bus und einer sehr netter alter mann saß vor ihr. 
+ORIG3:   Dodo begann mit dem alten Mann zu spielen. 
+ORIG4: 	   Lea erreicht ihre station und Lea kam mit ihrem Hund Dodo herunter und erinnert sich, dass sie ihre Tasche vermisste.
+ORIG5:     der alter mann bemerkte, dass eine Tasche Lea war auf dem Stuhl im Bus geblieben. 
+ORIG6:	    also nahm der alter mann ihm die Tasche und gang zum ort der verlorenen. 
+ORIG7:      Dann geht Lea und fragt über ihre Tasche im verlorenen Ort und sie hate schön gefunden.

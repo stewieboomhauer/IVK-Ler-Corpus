@@ -1,0 +1,9 @@
+ORIG1:     heute ist Lea traurig, weil sie ihre hund verloren hat. 
+ORIG2: 	    Sie hat viel Aushangzettel angeklebt. 
+ORIG3:      Sie war sehr traurig, und weintet. 
+ORIG4:	     Sie wartet auf das Fensterbrett und plötzlich ihre telefon klingeln. 
+ORIG5:       Ist Lars. 
+ORIG6:       Er hat Dodo gefunden.
+ORIG7:       Lea war Froh. 
+ORIG8:       Sie schaut auf dem Fenster, Lars klingelt an der Tür. 
+ORIG9: 	     Lea und Lars umarment sich, während Dodo isst.

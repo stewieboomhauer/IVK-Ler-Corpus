@@ -1,0 +1,12 @@
+ORIG1:    Lea, lars treffen. 
+ORIG2: 	   Lea und lars einander begrüßen. 
+ORIG3:     Lea etwas zeigt dodo. 
+ORIG4:	   lars überrascht sein
+ORIG5:    lea, lars und Dodo in die Schule gehen. 
+ORIG6:	    Lea und lars im Unterricht sitzen. 
+ORIG7:	    Lea versteckt dodo leherein. 
+ORIG8:	    Lea rechnt. 
+ORIG9:    Dodo schleicht.
+ORIG10:   Plötzlich. Dodo jemanden an bellt. 
+ORIG11:   Lea sich erschreckt. 
+ORIG12:    Lea für etwas schämen leherein.

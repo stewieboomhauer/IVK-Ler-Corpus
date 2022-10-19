@@ -1,0 +1,16 @@
+ORIG1:    Es ist langweiliger Tag. 
+ORIG2: 	   Lea ist sehr traurig, weil sie Dodo verloren hat. 
+ORIG3:     Sie hat eine Idee. 
+ORIG4:	    Sie klebt den Aushangzettel an die Wand. 
+ORIG5:      Damit wenn jemend Dodo sieht, ruft Lea an. 
+ORIG6:       Danach ist sie Fertig. und sie wartet jemend ruft sie an. 
+ORIG7:       Als sie plötzlich die Hoffnung verlor, rief sie Lars an. 
+ORIG8:        Und erzählt er Lea Doda beimir. 
+ORIG9:        Dann bellt sie. 
+ORIG10:      Danach wartet sie Begeistert auf Dodo und Lars. 
+ORIG11:      Wenn Lars an der Tür klingt, springt Lea auf das Fensterbrett. 
+ORIG12:      Und freut sie sich sehr.
+ORIG13:      während sie umarmen, droht Lars Dodo mit dem Finger.
+ORIG14:      Dodo kugt Lars nicht, und isst. 
+ORIG15:      Lars ist sehr nett er bringt mit sich einen Stielbonbon. 
+ORIG16:      Danach freuen sie sich.

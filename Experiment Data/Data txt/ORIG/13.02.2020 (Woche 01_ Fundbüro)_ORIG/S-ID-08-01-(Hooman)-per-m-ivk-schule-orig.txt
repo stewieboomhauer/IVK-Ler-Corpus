@@ -1,0 +1,6 @@
+ORIG1:    lea|und Dodo sitzen im Bus.
+ORIG2: 	   der Bus held und lea und Dodo wolen aus steigen.
+ORIG3:     Aber Lea vergessen die Ruck sack.
+ORIG4:	    Der Bus fährt schon weiter und Lea Kann ihn nicht mehr ein holen.
+ORIG5:      der Mann giebt den Ruck sack im Fundbüro. ab.
+ORIG6:     lea abholen die Ruck sack im Fundbüro.

@@ -1,0 +1,5 @@
+ORIG1:    Lea sit in Bus.
+ORIG2: 	   Lea aussteigen.
+ORIG3:     Lea etwas realisieren and etwas vergessen.
+ORIG4:	    man Go in Fundbüro abgeben Tasche.
+ORIG5:      Fru abholen tasche winken.

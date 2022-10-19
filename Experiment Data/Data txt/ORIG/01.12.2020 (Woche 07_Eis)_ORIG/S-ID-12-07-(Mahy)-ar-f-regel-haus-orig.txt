@@ -1,0 +1,8 @@
+ORIG1:      Heute ist sehr warm. 
+ORIG2: 	    Lea hat Lars gesagt: Las uns zum EisKiosk gehen.
+ORIG3:      Lars: gute idee Können wir dodo auch nehmen.
+ORIG4:	    Sie sind zum Eiskiosk gegangen und Sie haben das Eis gekaufen,
+ORIG5:      ween sie spazieren und das Eis essen dodo ist schnell gelaufen,
+ORIG6:       Lea ist gestolpern und das Eis ist heruntergefallen.
+ORIG7:        Lea weint und dodo das Eis essen.
+ORIG8:        Lars will das Eis mit Lea teilen, Lea freut sich sehr. 

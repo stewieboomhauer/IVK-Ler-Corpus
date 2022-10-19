@@ -1,0 +1,9 @@
+ORIG1:    Lea, Dodo und ein Mann sind im Bus.
+ORIG2: 	   Leo und Dodo aussteigen auf dem Bus.
+ORIG3:     Abar Lea vergessen die Schultasche im dem Bus.
+ORIG4:	    Wan Lea etwas realisieren der Bus abfahren.
+ORIG5:      Lea versuchen abar der Bus aufholen.
+ORIG6:      Der Mann geht in das Fundbüro und abgeben die Schultasche.
+ORIG7:       Lea abholen die Schultasche.
+ORIG8:        Lea bin ser freuen.
+ORIG9:       Sie winken und also der Mann.

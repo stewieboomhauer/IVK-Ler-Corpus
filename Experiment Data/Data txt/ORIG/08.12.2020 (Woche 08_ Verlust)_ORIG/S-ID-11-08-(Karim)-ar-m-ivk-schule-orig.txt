@@ -1,0 +1,9 @@
+ORIG1:     Sie hat der hund. varloh 
+ORIG2: 	    sie weint und sie hat etwas ankleben. 
+ORIG3:      Sie kokt Anruf Telefon
+ORIG4:	    klingeln Haustür 
+ORIG4:	    lars hat dodo gevonden 
+ORIG5:	    lars hat angerufen Kiehe Sorge Dodo ist bie mir 
+ORIG6:	    und. lart hat mit bonbon gebracht 
+ORIG7:	    un lars kommt nach und lea ist grugliesch.
+ORIG7:	    lea hat gesagkt Danke

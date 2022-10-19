@@ -1,0 +1,18 @@
+ORIG1:    Lea, Lars, Dodo sind in der Eiskiosk gegangen. 
+ORIG2: 	   Dann haben sie das Eis gekauft. 
+ORIG3:     Danach haben sie zwei das Eis Kugel aus gesucht. 
+ORIG4:	    Dann haben Lea und Lars die EisKugel gelecken, und hat das Eis getropfen in Dodo. 
+ORIG5:	    Jeztz hat Lea über Dodo gestolPern. 
+ORIG6:	    Danach hat Lea auf dem Boden fallen gelassen. 
+ORIG7:	    Lars ist verwirrt, nun hat Lea geweinen und Dodo hat das Eis geleckt.
+ORIG8:	    Zum schluß hat Lars das Eis geteilen und Lea hat gefreuen. 
+ORIG9:	    Am Ende ist Dodo gebleibt und das Eis geleckt.
+ORIG1:    Lea, Lars, Dodo sind in der Eiskiosk gegangen. 
+ORIG2: 	   Dann haben sie das Eis gekauft. 
+ORIG3:     Danach haben sie zwei das Eis Kugel aus gesucht. 
+ORIG4:	    Dann haben Lea und Lars die EisKugel gelecken, und hat das Eis getropfen in Dodo. 
+ORIG5:	    Jeztz hat Lea über Dodo gestolPern. 
+ORIG6:	    Danach hat Lea auf dem Boden fallen gelassen. 
+ORIG7:	    Lars ist verwirrt, nun hat Lea geweinen und Dodo hat das Eis geleckt.
+ORIG8:	    Zum schluß hat Lars das Eis geteilen und Lea hat gefreuen. 
+ORIG9:	    Am Ende ist Dodo gebleibt und das Eis geleckt.

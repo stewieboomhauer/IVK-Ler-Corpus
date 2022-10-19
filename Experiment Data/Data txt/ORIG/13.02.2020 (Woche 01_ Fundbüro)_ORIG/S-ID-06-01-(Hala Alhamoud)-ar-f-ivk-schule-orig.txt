@@ -1,0 +1,7 @@
+ORIG1:    Lea ist im Bus 
+ORIG2: 	   der Mann sitzt Ihr gegen über. 
+ORIG3:     Sie hat eine schöen Perlenkette. 
+ORIG4:	    Der Mann hat einen Stok. 
+ORIG5:      Lea und dodo müssen aussteigen.
+ORIG6:       Lea hat ihre Tache vergessen. 
+ORIG7:       Der Mann gibt ihre Tache im Fundbüro.

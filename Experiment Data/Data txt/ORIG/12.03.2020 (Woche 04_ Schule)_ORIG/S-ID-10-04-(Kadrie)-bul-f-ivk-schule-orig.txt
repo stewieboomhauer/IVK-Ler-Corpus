@@ -1,0 +1,10 @@
+ORIG1:     Lea geht in die Schule und begrüßen sich einander. 
+ORIG2: 	    Danach Lea hat der Hund geversteckt. 
+ORIG3:      Sie zeigt dodo für Lars. 
+ORIG4:	    Lars ist überarrascht. 
+ORIG5:      Sie gehen in die Klasse. 
+ORIG6:       Sie sitzen im Unterricht. 
+ORIG7:       Sie rechnet, aber Dodo scheicht. 
+ORIG8:        Dodo steht auf der Tisch. 
+ORIG9:        En vögel und Dodo hau hau gesagt. 
+ORIG10:        Vögel plötzlich und die Lehrarin seiht
