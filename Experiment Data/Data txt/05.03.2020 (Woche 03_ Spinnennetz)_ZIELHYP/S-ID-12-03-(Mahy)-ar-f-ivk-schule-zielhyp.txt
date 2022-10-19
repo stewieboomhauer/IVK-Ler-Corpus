@@ -1,0 +1,8 @@
+ZIELHYP:   Lea und Lars sind im Bett, erschrecken sich, „Oh  nein!“, und zeigen auf die Spinne.
+ZIELHYP:   „Ok, Lea, keine Angst.“
+ZIELHYP:   „Jetzt fange ich jemanden, aber gib mir ein Blatt und ein Glas, ok? Danke.“
+ZIELHYP:    „Jetzt kannst du kommen, schöne Spinne.“
+ZIELHYP:    „Mmm, du bist sehr schön“, schaut Lars die Spinne an.
+ZIELHYP:    „Ok, jetzt gehe ich ins Bett schlafen.“
+ZIELHYP:    Lars steht auf und er ist überrascht.
+ZIELHYP:    Lars zeigt das Spinnennetz.

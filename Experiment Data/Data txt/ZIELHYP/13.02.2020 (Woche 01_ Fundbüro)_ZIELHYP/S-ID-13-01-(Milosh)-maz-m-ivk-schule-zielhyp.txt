@@ -1,0 +1,9 @@
+ZIELHYP: Lea, Dodo und ein Mann sind im Bus.
+ZIELHYP:  Lea und Dodo steigen aus dem Bus aus.
+ZIELHYP:  Aber Lea vergisst die Schultasche im Bus.
+ZIELHYP:   Als Lea etwas realisiert, fährt der Bus ab.
+ZIELHYP:   Lea versucht aber den Bus aufzuholen.
+ZIELHYP:    Der Mann geht in das Fundbüro und gibt die Schultasche ab.
+ZIELHYP:    Lea holt die Schultasche ab.
+ZIELHYP:   Lea freut sich sehr.
+ZIELHYP:   Sie winkt und der Mann auch.

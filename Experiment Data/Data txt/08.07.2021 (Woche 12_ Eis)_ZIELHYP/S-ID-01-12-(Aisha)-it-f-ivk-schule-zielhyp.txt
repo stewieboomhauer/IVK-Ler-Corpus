@@ -1,0 +1,12 @@
+ZIELHYP:  Es ist Sommer.
+ZIELHYP:   Es ist ein guter Tag.
+ZIELHYP:   Lea und Lars wollen Eis essen.
+ZIELHYP:    Neben Leas Haus gibt es einen Eiskiosk.
+ZIELHYP:    Sie zeigen den Geschmack und dann suchen sie Eis aus.
+ZIELHYP:    Dann gehen sie mit Dodo, ihrem Hund, spazieren. 
+ZIELHYP:    Plötzlich ist Lea auf den Boden runtergefallen.
+ZIELHYP:    Sie hat ihr Eis auf den Boden fallen gelassen. 
+ZIELHYP:    Sie hat viel geweint.
+ZIELHYP:     Dann hat Lars eine Idee: Er teilt sein Eis mit Lea.
+ZIELHYP:     Sie umarmen sich.
+ZIELHYP:    Während sie spazieren gehen, isst Dodo das Eis von dem Boden.

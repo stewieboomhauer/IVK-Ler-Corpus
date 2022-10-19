@@ -1,0 +1,6 @@
+ZIELHYP:   Zuerst suchen Lea und Lars die Eiskugel aus.
+ZIELHYP:   Danach kauft sie Eis und genießt.
+ZIELHYP:   Dann stolpert Lea über Dodo. 
+ZIELHYP:   Sie weint und sie ist verwirrt.
+ZIELHYP:    Zuletzt teilt Lars sein Eis mit Lea.
+ZIELHYP:    Jetzt freuen sie sich und Dodo leckt die Eistropfen.

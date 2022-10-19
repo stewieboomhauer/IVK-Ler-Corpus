@@ -1,0 +1,5 @@
+ZIELHYP:  Eines Tages sind Lea, Lars und Dodo für Eis in den Eiskiosk gegangen.
+ZIELHYP:   Als sie zwei Eiskugeln gekauft haben, ist Lea gestolpert und das Eis ist heruntergefallen.
+ZIELHYP:   Lea hat angefangen zu weinen.
+ZIELHYP:   Lars hat Lea umarmt und er hat sein Eis mit Lea geteilt.
+ZIELHYP:   Zuletzt waren alle glücklich.

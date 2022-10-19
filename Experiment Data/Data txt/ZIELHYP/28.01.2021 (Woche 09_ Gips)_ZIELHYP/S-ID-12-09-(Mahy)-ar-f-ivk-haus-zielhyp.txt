@@ -1,0 +1,12 @@
+ZIELHYP:   Lars fährt mit dem Fahrrad nach Hause.
+ZIELHYP:   Er radelt sehr schnell und hat deshalb einen Unfall. 
+ZIELHYP:   Lea schreit: „Ist alles gut bei dir?“
+ZIELHYP:   Lars schreit vor Schmerz und weint. 
+ZIELHYP:    Sie gehen zusammen ins Krankenhaus.
+ZIELHYP:    Die Ärztin untersucht das Bein von Lars.
+ZIELHYP:     Lea starrt die Verletzung an.
+ZIELHYP:     Sie gipst das Bein von Lars ein. 
+ZIELHYP:     Er erschreckt sich vor dem großen Gips.
+ZIELHYP:     Die Mitschüler unterschreiben auf dem Gips. 
+ZIELHYP:     Lars freut sich sehr darüber.
+ZIELHYP:     Jetzt hat er den schönsten Gips.

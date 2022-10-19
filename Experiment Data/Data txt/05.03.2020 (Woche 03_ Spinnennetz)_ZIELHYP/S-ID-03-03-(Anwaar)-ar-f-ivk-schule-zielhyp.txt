@@ -1,0 +1,9 @@
+ZIELHYP:  Sie sind im Bett.
+ZIELHYP:   Lars erschreckt sich.
+ZIELHYP:   Das Spinnennetz ist im Zimmer.
+ZIELHYP:    Die Spinne ist in der Ecke.
+ZIELHYP:    Lars zeigt Lars die Spinne.
+ZIELHYP:    Lars schaut die Spinne an.
+ZIELHYP:    Er lässt die Spinne frei.
+ZIELHYP:    Sie gehen schlafen.
+ZIELHYP:    Lars steht auf, er ist überrascht vom Spinnennetz.

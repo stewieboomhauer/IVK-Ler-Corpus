@@ -1,0 +1,5 @@
+ZIELHYP:  Lea und Lars sind im Bett.
+ZIELHYP:   Lea und Lars stehen auf.
+ZIELHYP:   Lea hat Angst, sie fängt die Spinne.
+ZIELHYP:    Er schaut sich die Spinne an, lässt jemanden frei und geht schlafen.
+ZIELHYP:    Er steht morgens auf und ist überrascht.

@@ -1,0 +1,5 @@
+ZIELHYP:   Lars zeigt etwas in der Ecke.
+ZIELHYP:   Das ist eine Spinne.
+ZIELHYP:    Lea fängt die Spinne mit einem Glas und einem Blatt.
+ZIELHYP:    Lars schaut sie sich an und lässt sie frei und dann gehen sie ins Bett.
+ZIELHYP:    Am Morgen sieht er vor dem Fenster ein großes Spinnennetz und ist überrascht.

@@ -1,0 +1,10 @@
+ZIELHYP:  Lea und Lars sind im Bett.
+ZIELHYP:   Lea und Lars erschrecken sich.
+ZIELHYP:   Lea setzt die Spinne ins Glas.
+ZIELHYP:    Lars schaut sich die Spinne an.
+ZIELHYP:    Lars lässt die Spinne frei.
+ZIELHYP:    Die Spinne sitzt auf dem Fensterbrett.
+ZIELHYP:    Lars geht schlafen.
+ZIELHYP:    Lars steht auf.
+ZIELHYP:    Lars öffnet das Fenster.
+ZIELHYP:    Lars ist überrascht.

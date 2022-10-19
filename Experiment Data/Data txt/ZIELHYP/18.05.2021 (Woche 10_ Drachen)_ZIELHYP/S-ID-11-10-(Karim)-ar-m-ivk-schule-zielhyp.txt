@@ -1,0 +1,6 @@
+ZIELHYP:   Lea hat heute Geburtstag.
+ZIELHYP:   Und Lars hat ein Geschenk getragen.
+ZIELHYP:   In der Geschenkbox gibt es ein Lenkdrachen.
+ZIELHYP:   Lea spielt mit dem Lenkdrachen.
+ZIELHYP:   Der Lenkdrachen hängt auf dem Baum. 
+ZIELHYP:   Der Wind war sehr stark.

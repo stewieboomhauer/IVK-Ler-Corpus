@@ -1,0 +1,6 @@
+ZIELHYP:   Die Kinder pflücken auf der Wiese einen Blumenstrauß.
+ZIELHYP:   Sie besuchen ihre Oma, sie bringen ihrer Oma jeder einen Blumenstrauß.
+ZIELHYP:   Sie stellt die beiden Sträuße in eine Vase.
+ZIELHYP:   Die Kinder decken den Tisch, die Kinder essen Kuchen und trinken Limonade.
+ZIELHYP:    Sie haben im Blumenstrauß einen Marienkäfer gefunden.
+ZIELHYP:	Dann haben sie auch noch eine Spinne entdeckt.

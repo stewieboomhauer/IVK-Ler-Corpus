@@ -1,0 +1,12 @@
+ZIELHYP:   Heute ist das Wetter schön.
+ZIELHYP:   Lea und Lars wollen auf die Wiese gehen.
+ZIELHYP:   Lea hat gesagt: „Awww, schöne Natur!“
+ZIELHYP:   „Ich will einen Blumenstrauß für meine Oma pflücken.“
+ZIELHYP:   Lars hat Lea geholfen.
+ZIELHYP:   Sie haben den schönsten Blumenstrauß gepflückt.
+ZIELHYP:     Sie gehen beide die Oma besuchen.
+ZIELHYP:     Die Oma war glücklich, als sie den Blumenstrauß gesehen hat.
+ZIELHYP:     Und sie hat den Blumenstrauß in die Vase gestellt, während die Kinder den Tisch decken.
+ZIELHYP:     Danach hat die Oma einen Kuchen und Saft gebracht.
+ZIELHYP:     Während sie gegessen haben, hat Lea eine Spinne gesehen und die Oma legte den Marienkäfern auf ihren Finger.
+ZIELHYP:  Lars hat sich erschrocken, weil Insekten auf dem Tisch herumkriechen.

@@ -1,0 +1,9 @@
+ZIELHYP:   Sie hat den Hund verloren.
+ZIELHYP:   Sie weint und sie hat etwas anklebt. 
+ZIELHYP:   Sie guckt Anrufe auf dem Telefon.
+ZIELHYP:   Es klingelt an der Haustür.
+ZIELHYP:   Lars hat Dodo gefunden.
+ZIELHYP:   Lars hat angerufen: „Keine Sorge. Dodo ist bei mir.“
+ZIELHYP:   Und Lars hat einen Bonbon mitgebracht.
+ZIELHYP:   Und Lars kommt nach Hause und Lea ist glücklich.
+ZIELHYP:   Lea hat gesagt: “Danke.“

@@ -1,0 +1,6 @@
+ZIELHYP:  Lea und Dodo sitzen im Bus.
+ZIELHYP:  Der Bus hält und Lea und Dodo wollen aussteigen.
+ZIELHYP:  Aber Lea vergisst den Rucksack.
+ZIELHYP:   Der Bus fährt schon weiter und Lea kann ihn nicht mehr einholen.
+ZIELHYP:   Der Mann gibt den Rucksack im Fundbüro ab.
+ZIELHYP: Lea holt den Ruchsack im Fundbüro ab.

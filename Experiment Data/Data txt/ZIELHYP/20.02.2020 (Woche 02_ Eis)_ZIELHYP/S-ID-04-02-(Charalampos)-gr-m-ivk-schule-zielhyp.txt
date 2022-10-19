@@ -1,0 +1,12 @@
+ZIELHYP:   Es ist Sommer…
+ZIELHYP:   Lea und Lars mit Dodo gehen zum Eiskiosk und wollen Eis kaufen.
+ZIELHYP:   Lea sucht zwei Eiskugeln aus. 
+ZIELHYP:   Die erste Eiskugel ist Erdbeere und die zweite ist Apfel.
+ZIELHYP:    Lars kauft auch zwei Eiskugeln.
+ZIELHYP:    Die erste ist auch Erdbeere und die zweite Banane.
+ZIELHYP:     Dodo schaut das Eis an.
+ZIELHYP:     Lea stolpert über Dodo.
+ZIELHYP:     Das Eis fällt herunter und Dodo leckt das Eis.
+ZIELHYP:     Er ist sehr sehr glücklich aber Lea ist sehr traurig.
+ZIELHYP:     Dann gibt Lars Lea eine Eiskugel.
+ZIELHYP:     Schließlich isst Dodo das alte Eis, Lea und Lars umarmen sich und freuen sich und gehen in den Park.

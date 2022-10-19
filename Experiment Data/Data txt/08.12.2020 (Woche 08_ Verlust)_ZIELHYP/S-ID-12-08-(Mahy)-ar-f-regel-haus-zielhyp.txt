@@ -1,0 +1,12 @@
+ZIELHYP:   Heute morgen ist Lea aufgestanden.
+ZIELHYP:   Sie hat Dodo nicht gesehen und sie hatte Angst.
+ZIELHYP:   Sie ist sehr schnell rausgegangen und sie klebt den Aushangzettel an die Wand. 
+ZIELHYP:   Sie ist nach Hause zurückgekommen, sie hat Lars angerufen und sagt: „Hallo, Lars, hast du Dodo gesehen?“
+ZIELHYP:    „Ich habe ihn nicht gesehen. Wo ist er? Ich habe Angst.“
+ZIELHYP:    Lars: „Lea, Lea, sprich langsam und bleib ruhig. Er ist bei mir!“
+ZIELHYP:    Lea freut sich sehr und die Augen strahlen.
+ZIELHYP:   Lea: „Dann komm schnell, ich warte auf euch auf dem Fensterbrett.“
+ZIELHYP:   Lars: „Ja, wir kommen.“
+ZIELHYP: An der Tür klingelt es.
+ZIELHYP: Lea hat sehr schnell die Tür aufgemacht.
+ZIELHYP: Sie hat Lars umarmt und sie freut sich sehr, als sie Dodo nochmal gesehen hat.

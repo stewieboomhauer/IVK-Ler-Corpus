@@ -1,0 +1,5 @@
+ZIELHYP:   Als Lea Geburtstag hatte, hat Lars Lea ein großes Geschenk geschenkt und die Geburtstagstorte hatte 12 Kerzen.
+ZIELHYP:   Als Lea das Geschenk öffnete, fand sie einen Drachen.
+ZIELHYP:   Es wehte viel Wind und sie sind nach draußen gegangen, um den Drachen steigen zu lassen, aber der Wind trug den Drachen zu einem Baum.
+ZIELHYP:   Lea hat Lars ihn gezeigt. 
+ZIELHYP:   Lars sah überrascht aus…

@@ -1,0 +1,8 @@
+ZIELHYP: Lea fährt im Bus. 
+ZIELHYP:  Mit dem Bus fährt auch ein Mann mit Stock.
+ZIELHYP:  Lea hat einen Hund, er heißt Dodo.
+ZIELHYP:   Lea und ihr Hund steigen aus, aber sie vergisst ihre … Tasche!!!
+ZIELHYP:   Der alte Mann sieht die Tasche, aber der Bus fährt ab.
+ZIELHYP:  Lea realisiert, dass… und versucht den Bus aufzuholen, aber sie kann nicht.
+ZIELHYP: Der alte Mann geht ins Fundbüro und gibt die Tasche von Lea ab.
+ZIELHYP:  Sie freut sich, winkt und verabschiedet sich und geht mit Dodo in den Park.

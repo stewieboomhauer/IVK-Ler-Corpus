@@ -1,0 +1,8 @@
+ZIELHYP:  Eines Tages ist Lea mit dem Bus gefahren.
+ZIELHYP:  Als der Bus gestoppt hat, ist sie ausgestiegen.
+ZIELHYP:  Sie hat die Tasche vergessen.
+ZIELHYP:   Sie hat realisiert, ihre Tasche ist weg.
+ZIELHYP:   Ein alter Mann hat Lea gewunken.
+ZIELHYP:  Lea ist hinter dem Bus hergelaufen, aber sie konnte ihn nicht aufholen.
+ZIELHYP:   Dann hat der alte Mann hat die Tasche im Fundbüro abgegeben, und Lea ist ins Fundbüro gegangen.
+ZIELHYP:  Und der Mann aus dem Fundbüro hat Lea die Tasche gegeben.

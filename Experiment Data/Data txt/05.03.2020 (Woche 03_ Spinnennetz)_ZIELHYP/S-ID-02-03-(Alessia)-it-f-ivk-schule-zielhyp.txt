@@ -1,0 +1,6 @@
+ZIELHYP:  Lea und Lars sind im Bett, Lars steht auf und zeigt etwas.
+ZIELHYP:   Lars hat sich erschrocken.
+ZIELHYP:   Lea sieht eine Spinne in der Ecke und fängt jemanden.
+ZIELHYP:    Lars schaut sich zunächst die Spinne an.
+ZIELHYP:    Lars lässt die Spinne auf das Fensterbrett frei.
+ZIELHYP:    Lea und Lars sind im Bett, Lars ist am Morgen danach überrascht, er geht schlafen.

@@ -1,0 +1,10 @@
+ZIELHYP: Lea ist im Bus. 
+ZIELHYP: Der Mann sitzt ihr gegenüber.
+ZIELHYP:  Sie hat eine schöne Perlenkette.
+ZIELHYP:  Der Mann hat einen Stock.
+ZIELHYP:   Lea und Dodo müssen aussteigen. 
+ZIELHYP:   Lea hat ihre Tasche vergessen.
+ZIELHYP:    Der Mann gibt die Tasche im Fundbüro ab. 
+ZIELHYP:    Lea kann ihre Tasche im Fundbüro abholen.
+ZIELHYP:    Lea freut sich. 
+ZIELHYP:   Lea verabschiedet sich.

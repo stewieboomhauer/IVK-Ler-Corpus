@@ -1,0 +1,5 @@
+ZIELHYP:  Lea sitzt im Bus.
+ZIELHYP:  Lea steigt aus.
+ZIELHYP:  Lea realisiert etwas und vergisst etwas.
+ZIELHYP:   Der Mann geht ins Fundbüro und gibt die Tasche ab.
+ZIELHYP:   Die Frau holt die Tasche ab und winkt.

@@ -1,0 +1,14 @@
+ZIELHYP: Lea wachte auf und fand Dodo nicht.
+ZIELHYP:  Sie sucht nach ihm und fand ihn nicht.
+ZIELHYP:  Lea klebt einen Aushangzettel für Dodo an. 
+ZIELHYP:   Sie steht auf Zehenspitzen da, um den Aushangzettel aufzukleben, auf dem steht, dass Dodo vermisst wird.
+ZIELHYP:   Lea wartet auf einen Anruf.
+ZIELHYP:   Lars hat Dodo gefunden und ruft Lea an.
+ZIELHYP:   Lars redet mit Lea: „Ich finde Dodo und komme schnell.“
+ZIELHYP:   Lea ist froh und weint.
+ZIELHYP:   Lars klingelt an der Tür.
+ZIELHYP:   Sie schaut aus dem Fenster. 
+ZIELHYP:   Lars bringt Lea den Stielbonbon.
+ZIELHYP:  Sie ist rausgegangen und findet Dodo.
+ZIELHYP: Lea umarmt Lars.
+ZIELHYP: Lars droht Dodo mit dem Finger.

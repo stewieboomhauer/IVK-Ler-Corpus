@@ -1,0 +1,16 @@
+ZIELHYP: Lea: “Hallo, Lars.”
+ZIELHYP:  „Komm mit mir und spiel mit dem Fahrrad.“
+ZIELHYP:  Lars und Lea spielen mit dem Fahrrad.
+ZIELHYP:   Lars fährt mit hoher Geschwindigkeit.
+ZIELHYP:   Er hat einen Unfall.
+ZIELHYP:   Lea: „Geht es dir gut?“
+ZIELHYP:   Lea kontrolliert Lars, Lars erschreckt sich. 
+ZIELHYP:   Lea geht mit ihm ins Krankenhaus.
+ZIELHYP:   Die Ärztin: „Was ist passiert?“
+ZIELHYP:   Lea: „Er ist vom Fahrrad gefallen.“
+ZIELHYP:   Die Ärztin hat eine Untersuchung gemacht. 
+ZIELHYP:   Sie gipst den Fuß von Lars in den Gips.
+ZIELHYP:   Am nächsten Tag geht Lars in die Schule.
+ZIELHYP:   Die Mitschüler starren Lars an und unterstützen ihn. 
+ZIELHYP:   Die Mitschüler unterschreiben auf dem Gips. 
+ZIELHYP:   Lars ist zufrieden und glücklich.

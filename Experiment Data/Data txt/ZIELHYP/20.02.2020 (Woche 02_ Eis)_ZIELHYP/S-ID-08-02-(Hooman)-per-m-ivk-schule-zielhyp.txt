@@ -1,0 +1,7 @@
+ZIELHYP:  Lars und Lea und dodo gehen in den Eiskiosk.
+ZIELHYP:  Und sie kaufen Eis.
+ZIELHYP:  Sie lecken Eis.
+ZIELHYP:  Lea fällt plötzlich um. 
+ZIELHYP:  Lea weint und stolpert über etwas.
+ZIELHYP: Er gibt Lea das Eis.
+ZIELHYP: Er umarmt Lea und Lars und Lea gehen und freuen sich.

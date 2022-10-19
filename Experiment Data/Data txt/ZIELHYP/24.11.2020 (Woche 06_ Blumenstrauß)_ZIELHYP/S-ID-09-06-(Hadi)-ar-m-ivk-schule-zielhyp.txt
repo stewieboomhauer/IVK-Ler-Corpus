@@ -1,0 +1,6 @@
+ZIELHYP:  Die Kinder pflücken auf der Wiese einen Blumenstrauß.
+ZIELHYP:   Sie besuchen ihre Oma, jeder schenkt einen Blumenstrauß.
+ZIELHYP:   Sie stellt die beiden Sträuße in eine Vase.
+ZIELHYP:   Die Oma riecht an den Blumen und die Kinder decken den Tisch.
+ZIELHYP:   Und Lea zeigt auf eine Spinne, sie spielt mit einem Marienkäfer und Lars ist überrascht.
+ZIELHYP:    Und Lea hat Angst und Lars erschreckt sich, weil er den Marienkäfer sieht und die Oma lacht.

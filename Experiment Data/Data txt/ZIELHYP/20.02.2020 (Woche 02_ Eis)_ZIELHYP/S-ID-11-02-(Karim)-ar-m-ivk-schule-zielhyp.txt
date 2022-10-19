@@ -1,0 +1,6 @@
+ZIELHYP:   Lea, Lars und Dodo kaufen Eis im Eiskiosk. 
+ZIELHYP:   Sie suchen die Eiskugel aus, dann laufen sie, Dodo genießt das Eis.
+ZIELHYP:  Tatsächlich leckt er die Eistropfen.
+ZIELHYP: Plötzlich stolpert Lea wegen Dodo, so dass das Eis herunterfällt.
+ZIELHYP:  Sie weint aber Lars teilt sein Eis. 
+ZIELHYP: Schließlich umarmen sie sich und laufen fröhlich.

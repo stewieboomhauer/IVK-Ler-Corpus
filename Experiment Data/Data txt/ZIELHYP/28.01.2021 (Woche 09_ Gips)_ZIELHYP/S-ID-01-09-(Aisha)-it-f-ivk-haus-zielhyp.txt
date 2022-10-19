@@ -1,0 +1,8 @@
+ZIELHYP:  Lea und Lars machen eine Radtour. 
+ZIELHYP:   In der Kurve fällt Lars vom Fahrrad.
+ZIELHYP:   Lara hilft Lars und dann gehen sie ins Krankenhaus. 
+ZIELHYP:    Die Ärztin untersucht Lars und sein Bein. 
+ZIELHYP:    Er weint so viel.
+ZIELHYP:    Die Ärztin verbindet sein Bein mit dem Gips.
+ZIELHYP:    In der Schule schreiben die Freunde von Lars auf den Gips.
+ZIELHYP:    Er läuft mit Krücken.

@@ -1,0 +1,12 @@
+ZIELHYP: Lea und Lars treffen sich.
+ZIELHYP:  Lea und Lars begrüßen einander.
+ZIELHYP:  Lea zeigt Dodo.
+ZIELHYP:   Lars ist überrascht.
+ZIELHYP: Lea, Lars und Dodo gehen in die Schule.
+ZIELHYP:   Lea und Lars sitzen im Unterricht. 
+ZIELHYP:   Lea versteckt Dodo vor der Lehrerin.
+ZIELHYP:   Lea rechnet.
+ZIELHYP: Dodo schleicht.
+ZIELHYP:   Plötzlich bellt Dodo jemanden an.
+ZIELHYP:   Lea erschreckt sich.
+ZIELHYP:   Lea schämt sich für etwas vor der Lehrerin.

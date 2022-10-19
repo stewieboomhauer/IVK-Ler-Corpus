@@ -1,0 +1,6 @@
+ZIELHYP:  Lea und Lars treffen sich.
+ZIELHYP:   unformulierbar
+ZIELHYP:   Lars ist überrascht.
+ZIELHYP:    So gehen sie in die Schule und machen Mathematik. 
+ZIELHYP:    Als Lea rechnet, bellt Dodo plötzlich einen Vogel an.
+ZIELHYP:    Lea schämt sich.

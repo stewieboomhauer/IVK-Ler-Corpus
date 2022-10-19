@@ -1,0 +1,8 @@
+ZIELHYP:   Heute ist ein guter Tag und Lea mit ihrem Vater machen Pfannkuchen. 
+ZIELHYP:   Wir machen den Teig in eine Schüssel. 
+ZIELHYP:  Dann gießt Lea den Teig in die Pfanne.
+ZIELHYP:   Der Vater wendet die Pfannkuchen.
+ZIELHYP:    Aber die Pfannkuchen fallen auf den Boden herunter. 
+ZIELHYP:    Jetzt wendet Lea die Pfannkuchen, während der Vater den Boden putzt.
+ZIELHYP:    Als Lea es gemacht hat, landen die Pfannkuchen auf den Kopf von dem Vater.
+ZIELHYP:    Trotzdem kichert Lea und ihr Vater ist überrascht.

@@ -1,0 +1,12 @@
+ZIELHYP:   Ja, Lea hat Geburtstag, einen schokoladenen Kuchen, Kerzen und ein großeß Geschenk für Lea und sie möchte das Geschenk mit ihrem Bruder Lars teilen.
+ZIELHYP:   Sie öffnet das Geschenk mit großer Begeisterung. 
+ZIELHYP: Lea: “Was ist das, was ist das?!!!“
+ZIELHYP:   Nachdem sie die Geschenkbox geöffnet hatte, war sie überrascht.
+ZIELHYP:   Lea: „Was ist ein Drachen in Form eines Papageis?“
+ZIELHYP:    Lars: „Magst du das?“
+ZIELHYP:    Ich habe es für dich gekauft.
+ZIELHYP:   Lea: „OMG. Vielen Dank. Voll schön.“
+ZIELHYP:   Lea und Lars wollen draußen mit dem Drachen spielen.
+ZIELHYP:   Plötzlich blies ein starker Wind.
+ZIELHYP: Lea versuchte den Drachen gut zu halten, aber es flog über den Baum und blieb stecken. 
+ZIELHYP: Lea zeigt auf den Drachen und sagt: “Lass uns den Drachen retten.“

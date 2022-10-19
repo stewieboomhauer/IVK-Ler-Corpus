@@ -1,0 +1,7 @@
+ZIELHYP:   Lars fährt Fahrrad. 
+ZIELHYP:   Er fällt hin, Lea kommt und hilft ihrem Freund.
+ZIELHYP:   Lea und Lars sind in einem Krankenhaus.
+ZIELHYP:   Die Ärztin untersucht Lars Bein.
+ZIELHYP:    Die Ärztin macht einen Verband um Lars Bein.
+ZIELHYP:    Die Kinder unterschreiben auf dem Verband. 
+ZIELHYP:  Lars geht mit Krücken.

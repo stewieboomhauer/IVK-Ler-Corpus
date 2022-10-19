@@ -1,0 +1,5 @@
+ZIELHYP:   Lea und Lars waren im Bett.
+ZIELHYP:   Sie haben sich erschreckt, weil sie eine Spinne gesehen haben.
+ZIELHYP:     Lea hat mit einem Blatt und einem Glas die Spinne in der Ecke gefangen.
+ZIELHYP:    Lars hat die Spinne freigelassen und dann sind sie ins Bett gegangen.
+ZIELHYP:    Am Morgen ist Lars aufgestanden und er war überrascht, weil er nochmal eine Spinne gesehen hat.

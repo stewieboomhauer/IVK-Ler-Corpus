@@ -1,0 +1,7 @@
+ZIELHYP:   Lea ist traurig, weil sie Dodo verloren hat. 
+ZIELHYP:   Sie hat den Aushangzettel an den Baum angeklebt. 
+ZIELHYP:   Dann ruft Lars Lea an und erzählt, er hat Dodo gefunden. 
+ZIELHYP:   Am Ende kommt Lars mit Dodo.
+ZIELHYP:    Sie ist nicht traurig, weil sie Dodo sieht.
+ZIELHYP:    Die Kinder umarmen sich. 
+ZIELHYP:     Lars droht Dodo mit dem Finger und er isst.

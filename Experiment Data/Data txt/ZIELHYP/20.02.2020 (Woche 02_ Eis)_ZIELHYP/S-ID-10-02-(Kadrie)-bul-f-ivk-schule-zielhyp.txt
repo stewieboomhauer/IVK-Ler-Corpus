@@ -1,0 +1,10 @@
+ZIELHYP:  Lars und Lea gehen in den Eiskiosk.
+ZIELHYP:   Und wir kaufen Eis.
+ZIELHYP:   Lars kauft eine Kirsch- und eine Bananeneiskugel.
+ZIELHYP:	Lea kauft eine Kiwi- und eine Erdbeereiskugel.
+ZIELHYP:      Lars, Lea und Dodo laufen auf der Straße.
+ZIELHYP:    Plötzlich stolpert Lea über etwas und sie fällt um.
+ZIELHYP:     Sie weint und Dodo leckt das Eis.
+ZIELHYP:     Lars umarmt Lea und teilt sein Eis.
+ZIELHYP:     Lea freut sich.
+ZIELHYP:     Und zuletzt ist alles gut.

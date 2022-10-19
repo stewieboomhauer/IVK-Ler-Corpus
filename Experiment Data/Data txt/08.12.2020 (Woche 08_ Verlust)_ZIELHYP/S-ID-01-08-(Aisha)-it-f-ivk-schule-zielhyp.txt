@@ -1,0 +1,9 @@
+ZIELHYP:  Heute ist Lea traurig, weil sie ihren Hund verloren hat.
+ZIELHYP:   Sie hat viele Aushangzettel angeklebt. 
+ZIELHYP:   Sie war sehr traurig und weinte.
+ZIELHYP:    Sie wartet auf dem Fensterbrett und plötzlich klingelt ihr Telefon. 
+ZIELHYP:    Das ist Lars.
+ZIELHYP:    Er hat Dodo gefunden.
+ZIELHYP:    Lea war froh.
+ZIELHYP:    Sie schaut aus dem Fenster, Lars klingelt an der Tür. 
+ZIELHYP:    Lea und Lars umarmen sich, während Dodo isst.

@@ -1,0 +1,7 @@
+ZIELHYP: Lea verließ das Haus mit ihrem kleinen Hund Dodo.
+ZIELHYP:  Lea steigt in den Bus und ein sehr netter alter Mann saß vor ihr.
+ZIELHYP: Dodo begann mit dem alten Mann zu spielen.
+ZIELHYP:  Lea erreicht ihre Station und Lea kam mit ihrem Hund Dodo herunter und erinnert sich, dass sie ihre Tasche vermisste.
+ZIELHYP:  Der alte Mann bemerkte, dass eine Tasche von Lea auf dem Sitz im Bus geblieben war. 
+ZIELHYP:   Also nahm der alte Mann die Tasche und ging zum Ort der verlorenen Sachen. 
+ZIELHYP:   Dann geht Lea und fragt nach ihrer Tasche am Ort der verlorenen Sachen und sie hatte sie schon gefunden.

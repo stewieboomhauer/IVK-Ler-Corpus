@@ -1,0 +1,9 @@
+ZIELHYP:  Lara und Lars haben die Blumen gesammelt.
+ZIELHYP:  Lara und Lars haben jeder einen Blumenstrauß gehabt, danach haben Lara und Lars den Blumenstrauß der Großmutter gegeben und sie freuen sich.
+ZIELHYP:  Die Oma hat den Blumenstrauß in eine Vase getan.
+ZIELHYP:   Lars verteilt die Teller und Lara verteilt die Löffel und die Großmutter riecht an den Blumen.
+ZIELHYP:   Die Oma hat Angst vor einem Marienkäfer am Finger.
+ZIELHYP:   Lars schaut sich den Marienkäfer an.
+ZIELHYP:   Lara war überrascht, als sie eine Spinne sah.
+ZIELHYP:   Lara schaut sich die Spinne an und sie hat Angst, Lars schaut sich den Marienkäfer an.
+ZIELHYP:   Und die Oma freut sich.

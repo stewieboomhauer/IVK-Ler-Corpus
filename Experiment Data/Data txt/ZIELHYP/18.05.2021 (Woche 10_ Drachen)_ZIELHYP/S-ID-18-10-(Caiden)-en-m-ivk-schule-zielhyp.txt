@@ -1,0 +1,14 @@
+ZIELHYP:  Heute ist Leas Geburtstag.
+ZIELHYP:   Sie haben eine Geburtstagstorte auf dem Tisch. 
+ZIELHYP:   Die Geburtstagstorte hat 9/neun Kerzen.
+ZIELHYP:   So, ich glaube, sie ist jetzt neun. 
+ZIELHYP:   Sie bekommt ein Geschenk von Lars, wer Leas Freund ist. 
+ZIELHYP:   Diese zwei haben das Geschenk zu einem anderen Zimmer getragen, weil sie das Geschenk von Lars auspacken wollen.
+ZIELHYP:    Später, als sie das Geschenk aufgemacht hat, bekommt Lea große Augen.
+ZIELHYP:    Lea erwartete das nicht, sie rennen nach draußen, weil sie haben einen neuen Drachen.
+ZIELHYP:    Lea und Lars haben entschieden, dass sie den Lenkdrachen stiegen lassen, aber heute gibt es viel Sonne.
+ZIELHYP:     Trotzdem gibt es auch viel Wind.
+ZIELHYP:    Lars hält den Drachen fest.
+ZIELHYP:    Unglücklicherweise habt ihr den Drachen gelassen.
+ZIELHYP:    15 Minuten später hat Lea den Drachen gefunden und den mit dem Finger auf dem Baum gezeigt. 
+ZIELHYP:   Lars hat ihn auch gefunden.
