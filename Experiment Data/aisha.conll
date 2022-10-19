@@ -1,0 +1,154 @@
+# sent_id = 1
+# text = Er lauft mit Krücken.
+1	Er	er	PRON	PPER	PronType=prs	2	nsubj	_	_
+2	lauft	laufen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+3	mit	mit	ADP	APPR	AdpType=prep	4	case	_	_
+4	Krücken	Krücke	NOUN	NN	_	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	$.	PunctType=peri	2	punct	_	SpaceAfter=No
+
+# sent_id = 1
+# text = Lea , Lars und Dodo gehen zu dem Eiskiosk , weil sie das Eis wollen .
+1	Lea	Lea	PROPN	NE	_	6	nsubj	_	_
+2	,	,	PUNCT	$,	PunctType=comm	3	punct	_	_
+3	Lars	Lars	PROPN	NE	_	1	conj	_	_
+4	und	und	CCONJ	KON	_	5	cc	_	_
+5	Dodo	Dodo	PROPN	NE	_	1	conj	_	_
+6	gehen	gehen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+7	zu	zu	ADP	APPR	AdpType=prep	9	case	_	_
+8	dem	der	DET	ART	PronType=art	9	det	_	_
+9	Eiskiosk	Eiskiosk	NOUN	NN	_	6	obl	_	_
+10	,	,	PUNCT	$,	PunctType=comm	15	punct	_	_
+11	weil	weil	SCONJ	KOUS	_	15	mark	_	_
+12	sie	sie	PRON	PPER	PronType=prs	15	nsubj	_	_
+13	das	der	DET	ART	PronType=art	14	det	_	_
+14	Eis	Eis	NOUN	NN	_	15	obj	_	_
+15	wollen	wollen	AUX	VMFIN	Mood=ind|VerbForm=fin|VerbType=mod	6	advcl	_	_
+16	.	.	PUNCT	$.	PunctType=peri	6	punct	_	_
+
+# sent_id = 1
+# text = Lea und Lars suchen seine Eiskugel aus.
+1	Lea	Lea	PROPN	NE	_	4	nsubj	_	_
+2	und	und	CCONJ	KON	_	3	cc	_	_
+3	Lars	Lars	PROPN	NE	_	1	conj	_	_
+4	suchen	suchen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+5	seine	sein	DET	PPOSAT	Poss=yes|PronType=prs	6	det:poss	_	_
+6	Eiskugel	Eiskugel	NOUN	NN	_	4	obj	_	_
+7	aus	aus	ADP	PTKVZ	PartType=vbp	4	compound:prt	_	SpaceAfter=No
+8	.	.	PUNCT	$.	PunctType=peri	4	punct	_	SpaceAfter=No
+
+# sent_id = 1
+# text = Sie laufen während Dodo lecke die Eistropfen.
+1	Sie	Sie|sie	PRON	PPER	PronType=prs	2	nsubj	_	_
+2	laufen	laufen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+3	während	während	ADP	APPR	AdpType=prep	4	case	_	_
+4	Dodo	Dodo	PROPN	NE	_	2	obl	_	_
+5	lecke	lecken	VERB	VVFIN	Mood=ind|VerbForm=fin	2	conj	_	_
+6	die	der	DET	ART	PronType=art	7	det	_	_
+7	Eistropfen	Eistropfen	NOUN	NN	_	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	$.	PunctType=peri	2	punct	_	SpaceAfter=No
+
+# sent_id = 1
+# text = Plötzlich, Lea stolpt über Dodo und die Eis fallt.
+1	Plötzlich	plötzlich	ADJ	ADJD	_	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	$,	PunctType=comm	1	punct	_	_
+3	Lea	Lea	PROPN	NE	_	4	nsubj	_	_
+4	stolpt	stolpen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+5	über	über	ADP	APPR	AdpType=prep	6	case	_	_
+6	Dodo	Dodo	PROPN	NE	_	10	obl	_	_
+7	und	und	CCONJ	KON	_	9	cc	_	_
+8	die	der	DET	ART	PronType=art	9	det	_	_
+9	Eis	Eis	NOUN	NN	_	6	conj	_	_
+10	fallt	fallen|fallen	VERB	VVFIN	Mood=ind|VerbForm=fin	4	acl	_	SpaceAfter=No
+11	.	.	PUNCT	$.	PunctType=peri	4	punct	_	SpaceAfter=No
+
+# sent_id = 1
+# text = Lia weint, währen Dodo da Eis essen.
+1	Lia	Lia	PROPN	NE	_	2	nsubj	_	_
+2	weint	weinen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	$,	PunctType=comm	8	punct	_	_
+4	währen	währen	SCONJ	KOUS	_	8	mark	_	_
+5	Dodo	Dodo	PROPN	NE	_	8	nsubj	_	_
+6	da	da	ADV	ADV	_	8	advmod	_	_
+7	Eis	Eis	NOUN	NN	_	8	obj	_	_
+8	essen	essen	VERB	VVINF	VerbForm=inf	2	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	$.	PunctType=peri	2	punct	_	SpaceAfter=No
+
+# sent_id = 1
+# text = Lars wenn das Eis gefallen, teilen sein Eis mit Lia.
+1	Lars	Lars	PROPN	NE	_	5	nsubj	_	_
+2	wenn	wenn	SCONJ	KOUS	_	5	mark	_	_
+3	das	der	DET	ART	PronType=art	4	det	_	_
+4	Eis	Eis	NOUN	NN	_	5	nsubj	_	_
+5	gefallen	fallen|gefallen	VERB	VVPP	Aspect=perf|VerbForm=part	7	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	$,	PunctType=comm	5	punct	_	_
+7	teilen	teilen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+8	sein	sein	DET	PPOSAT	Poss=yes|PronType=prs	9	det:poss	_	_
+9	Eis	Eis	NOUN	NN	_	7	obj	_	_
+10	mit	mit	ADP	APPR	AdpType=prep	11	case	_	_
+11	Lia	Lia	PROPN	NE	_	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	$.	PunctType=peri	7	punct	_	SpaceAfter=No
+
+# sent_id = 1
+# text = Sie sind glücklich und umarmen.
+1	Sie	Sie|sie	PRON	PPER	PronType=prs	3	nsubj	_	_
+2	sind	sein	AUX	VAFIN	Mood=ind|VerbForm=fin	3	cop	_	_
+3	glücklich	glücklich	ADJ	ADJD	_	0	root	_	_
+4	und	und	CCONJ	KON	_	5	cc	_	_
+5	umarmen	umarmen	VERB	VVINF	VerbForm=inf	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	$.	PunctType=peri	3	punct	_	SpaceAfter=No
+
+# sent_id = 1
+# text = Sie spazieren zusamen während Dodo bleibt hinten.
+1	Sie	Sie|sie	PRON	PPER	PronType=prs	2	nsubj	_	_
+2	spazieren	spazieren	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+3	zusamen	zusamen	ADV	ADV	_	2	advmod	_	_
+4	während	während	ADP	APPR	AdpType=prep	5	case	_	_
+5	Dodo	Dodo	PROPN	NE	_	2	obl	_	_
+6	bleibt	bleiben	VERB	VVFIN	Mood=ind|VerbForm=fin	2	conj	_	_
+7	hinten	hinten	ADV	ADV	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	$.	PunctType=peri	2	punct	_	SpaceAfter=No
+
+# sent_id = 1
+# text = Lars ist in dem Bet wann die Spinne macht e Spinnennetz in der Ecke .
+1	Lars	Lars	PROPN	NE	_	9	nsubj	_	_
+2	ist	sein	AUX	VAFIN	Mood=ind|VerbForm=fin	9	aux	_	_
+3	in	in	ADP	APPR	AdpType=prep	5	case	_	_
+4	dem	der	DET	ART	PronType=art	5	det	_	_
+5	Bet	Bet	PROPN	NN	_	9	obl	_	_
+6	wann	wann	ADV	PWAV	PronType=int	9	advmod	_	_
+7	die	der	DET	ART	PronType=art	8	det	_	_
+8	Spinne	Spinne	NOUN	NN	_	9	nsubj	_	_
+9	macht	machen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+10	e	e	PROPN	NE	_	9	obj	_	_
+11	Spinnennetz	Spinnennetz	NOUN	NN	_	9	obj	_	_
+12	in	in	ADP	APPR	AdpType=prep	14	case	_	_
+13	der	der	DET	ART	PronType=art	14	det	_	_
+14	Ecke	Ecke	NOUN	NN	_	9	obl	_	_
+15	.	.	PUNCT	$.	PunctType=peri	9	punct	_	_
+
+# sent_id = 1
+# text = Lea jemandt fangt mit das Blatt und in das Glas setzt .
+1	Lea	Lea	PROPN	NE	_	3	nsubj	_	_
+2	jemandt	jemandt	PROPN	NE	_	1	flat	_	_
+3	fangt	fangen	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+4	mit	mit	ADP	APPR	AdpType=prep	6	case	_	_
+5	das	der	DET	ART	PronType=art	6	det	_	_
+6	Blatt	Blatt	NOUN	NN	_	3	obl	_	_
+7	und	und	CCONJ	KON	_	10	cc	_	_
+8	in	in	ADP	APPR	AdpType=prep	10	case	_	_
+9	das	der	DET	ART	PronType=art	10	det	_	_
+10	Glas	Glas	NOUN	NN	_	6	conj	_	_
+11	setzt	setzen	VERB	VVFIN	Mood=ind|VerbForm=fin	3	conj	_	_
+12	.	.	PUNCT	$.	PunctType=peri	3	punct	_	_
+
+# sent_id = 1
+# text = Lars guckt die Spinne und setz freilasst.
+1	Lars	Lars	PROPN	NE	_	2	nsubj	_	_
+2	guckt	gucken	VERB	VVFIN	Mood=ind|VerbForm=fin	0	root	_	_
+3	die	der	DET	ART	PronType=art	4	det	_	_
+4	Spinne	Spinne	NOUN	NN	_	2	obj	_	_
+5	und	und	CCONJ	KON	_	6	cc	_	_
+6	setz	setzen	VERB	VVFIN	Mood=ind|VerbForm=fin	2	conj	_	_
+7	freilasst	freilassen	ADJ	ADJD	_	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	$.	PunctType=peri	2	punct	_	SpaceAfter=No
+
