@@ -1,0 +1,12 @@
+ORIG1:     haute ist das Wätter schön. 
+ORIG2: 	    Liea und Lars sie wollen auf die Wiese gehen.
+ORIG3:      Liea hat gesagt Awww schöne Natur
+ORIG4:	    Ich will einer Blumenstrauß für meine Oma.
+ORIG5:      Lars hat Liea gehelfen.
+ORIG6:      Sie haben schönste Blumenstrauß pflücken.
+ORIG7:       Sie gehen beide oma besuchen.
+ORIG8:        die oma war glücklich, als sied aus Blumenstraß gesehen 
+ORIG9:        und sie hat BlummenStrauß in die vase gestellt, während die Kinder den tisch decken
+ORIG10:        Danach die oma hat Kuchen und Saft gebrinngtn.
+ORIG11:      Während Sie essen Liea hat eine spinne gesehen und die oma legte den MarienKäfen an ihren Finger, 
+ORIG12:  lars hat erschrectken. weil Insekten auf dem thisch herumKriechen

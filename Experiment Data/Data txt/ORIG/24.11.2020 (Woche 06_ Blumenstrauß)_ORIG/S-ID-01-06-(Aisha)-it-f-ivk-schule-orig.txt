@@ -1,0 +1,11 @@
+ORIG1:     Lea und Lars, gehen auf die Wiese für pflücken viele Blumen.
+ORIG2: 	    Sie verbrachten viel Zeit in der Natur.
+ORIG3:      Danach, sie gehen nach die Oma’s Haus. 
+ORIG4:	     Die Oma ist glücklich und Sie stellt die Blumen in eine Vase.
+ORIG5:       Lia und Lars decken den Tisch für das mittagessen.
+ORIG6:       Die Oma seviert essen.
+ORIG7:       Die Oma Finde einen Marienkäfer.
+ORIG8:       Lea und Lars zeigen, sie sind überrascht.
+ORIG9:       Lea zeigt ein Spinne und sie hat angst.
+ORIG10:     Die Oma und Lars zeigen die Spinne herumkrieche, sie versuchen die spinne zu Fangen.
+ORIG11:     Es gibt so viel insekten Fliegen.

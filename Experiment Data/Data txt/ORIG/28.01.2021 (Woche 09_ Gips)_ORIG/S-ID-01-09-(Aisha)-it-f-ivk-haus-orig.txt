@@ -1,0 +1,8 @@
+ORIG1:     Lea und Lars machen eine Radtour. 
+ORIG2: 	    In der Kurve fälllt Lars vom Fahradd. 
+ORIG3:      Lara hilft Lars und dann sie gehen ins Krankenhaus. 
+ORIG4:	     Die Ärztin untersucht Lars und sein Bein. 
+ORIG5:       Er weint so viel. 
+ORIG6:       Die Ärztin verbindet ihr Bein mit der Gips. 
+ORIG7:       In der Schule schreiben Lars Freunde auf dem Gips.
+ORIG8:       Er lauft mit Krücken.

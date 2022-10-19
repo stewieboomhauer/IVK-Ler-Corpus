@@ -1,0 +1,7 @@
+ORIG1:    Lea und Lars kaufen ein Eis auf der Eiskiosk.
+ORIG2: 	   Lea Eis fängt an tropfen und Dodo ist.
+ORIG3:     Lea plötzlich gefallt und das Eis herunterfallen.
+ORIG4:	    Lea fängt an weinen und sie Fängt an verwirrt sein.
+ORIG5:      Lars teilt ein Eiskugel für Lea.
+ORIG6:      Lea und Lars sich freuen, genießen das Eis und Dodo bleibt für das Eis.
+ORIG7:      Zuletzt sind ale glücklich.

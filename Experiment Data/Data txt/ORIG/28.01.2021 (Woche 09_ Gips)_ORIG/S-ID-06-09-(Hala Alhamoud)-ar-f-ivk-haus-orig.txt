@@ -1,0 +1,15 @@
+ORIG1:    Es ist schönes Tag. 
+ORIG2: 	   Lea und Lars erwägen, dass sie an einen Radfahrerwettbewerb machen. 
+ORIG3:     Und sie haben das gemacht, und das war sehr interessant. 
+ORIG4:	    Aber dann gab es ein Problem. 
+ORIG5:      Lars ist vom Fahrrad gefallen. 
+ORIG6:       Dann ist er sehr Traurig. 
+ORIG7:       Danach haben sie nach Krankenhaus gegangen. 
+ORIG8:       Und die Ärztin hat das Knie von Lars geuntersucht,
+ORIG9:        während sie das machen, Lea überrascht war. 
+ORIG10:      und ein Paar Stunden sPäter die Freunde vom Lars haben gekommen. 
+ORIG11:      Und sie haben Lars geunterstützt. 
+ORIG12:      Dann haben sie am Gips ausgemalt. 
+ORIG13:      Und das war sehr nett. 
+ORIG14:      Und diese Ding hat Lars sehr glücklich gemacht. 
+ORIG15:      Und Sie haben gelernt dass es eine sehr gute Sache ist, Menschen zu unterstützen und bei ihnen zu bleiben.

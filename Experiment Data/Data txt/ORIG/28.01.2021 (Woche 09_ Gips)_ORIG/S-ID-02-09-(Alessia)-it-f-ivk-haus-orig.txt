@@ -1,0 +1,7 @@
+ORIG1:     Lars fährt Fahrrad. 
+ORIG2: 	    Er fällt hin,Lea Kommt und hilfe ihr Freund.
+ORIG3:      Lea und Lars sind in einem Krankenhaus. 
+ORIG4:	    Die Ärztin Untersucht Las bein. 
+ORIG5:      Die Arztin macht einen Verband um Lars‘ Bein. 
+ORIG6:       Die Kind Unterschreiben auf dem Verband. 
+ORIG7:      Lars geht mit Krücken.

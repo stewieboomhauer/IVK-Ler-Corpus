@@ -1,0 +1,6 @@
+ORIG1:     Lea hat Heute Geburtstag. 
+ORIG2: 	    und lars getragt ein GeschenK. 
+ORIG3:      In das Geschenk Box gibt ein LehKdrachen 
+ORIG4:	    Lea spilt mit dem LehKdrachen 
+ORIG5:	    der LehKdrachen hängt auf dem Baum 
+ORIG6:	    der Wind war sehr stark.

@@ -1,0 +1,10 @@
+ORIG1:    Lea und Lars und Dodo gehen zuerst in der Eiskiosk.
+ORIG2: 	   Danach Lea und Lars kaufen Eis.
+ORIG3:     Danach Lea und Lars etwas genießen lecken und tropfen.
+ORIG4:	    Danach plötzlich. Lars über etwas stolpern.
+ORIG5:	    Danach herunterfalen.
+ORIG6:	    Dann Lars weinen.
+ORIG7:	    Danach Lars etwas teilen Eis.
+ORIG8:	    Danach sich umarmen in Lea.
+ORIG9:	    Lea sich freuen.
+ORIG10:    Dann Dodo bleiben Lecken. Zuletzt

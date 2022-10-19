@@ -1,0 +1,17 @@
+ORIG1:      Zuerst gehen Lea und Lars auf die wiese.
+ORIG2: 	    Danach sammeln sie Blummen.
+ORIG3:      Dann Lea und Lars besuchen die oma.
+ORIG4:	     Und die Oma begrüßt Lea und Lars.
+ORIG5:      Dann schenken Sie die oma einem Blumenstrauß und die oma freut sich.
+ORIG6:       Danach die Oma stellt die Blumen in die Vase.
+ORIG7:       Dann decken Lea und Lars den Tisch.
+ORIG8:        Und die Oma richt die Blumen.
+ORIG9:        Und sie genießen. 
+ORIG10:      Danach essen Sie.
+ORIG11:      Und es gibt einen Marienkäfer auf dem Finger von oma.
+ORIG12:      Und sie freut sich.
+ORIG13:      und Lea und Lars sind überrascht.
+ORIG14:      Es gibt Insekten überall.
+ORIG15:     und Es gibt eine Spinne, Die Spinne kricht herum.
+ORIG16:     und die Oma lacht. 
+ORIG17:    und Lea und Lars sind überrascht und verwirrt.

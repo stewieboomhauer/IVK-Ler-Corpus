@@ -1,0 +1,9 @@
+ORIG1:    Lara und Lars haben die Blumen gesameln.
+ORIG2: 	   Lara und Lars haben jede einer Blumenstrauß gehabt dann nach Lara und Lars haben die Blumenstrauß für die groß mutter gegeben und sie freuen sich.
+ORIG3:     Die oma hat die Blumenstrauß in eine Vase getaren.
+ORIG4:	    Lars verteilt die Tellerin und Lara verteilt die Löfeln und die groß mutter riecht die Blumen.
+ORIG5:      Oma hat Angst einen Marienkäfer am Finger.
+ORIG6:      Lars schaut die Marienkäfer,
+ORIG7:      Lara war überrascht, als sie eine spinne sah.
+ORIG8:      Lara schaut die Spinne an und sie hat Angst, Lars schaut die Marienkäfer an,
+ORIG9:      und die oma fruet sich.

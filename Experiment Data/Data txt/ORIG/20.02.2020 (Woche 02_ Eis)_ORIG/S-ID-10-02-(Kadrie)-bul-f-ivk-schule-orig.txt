@@ -1,0 +1,10 @@
+ORIG1:     Lars und Lea gehen in der Eiskiosk.
+ORIG2: 	    Und wir kaufen.
+ORIG3:      Lars kauft ein Kirsche und ein banane Eiskugel.
+ORIG4:	    Lea kauft ein Kiwi und ein erdbeere Eiskugel.
+ORIG5:   Lars, Lea und Dodo gehen in die Straße.
+ORIG6:       Plötzlich Lea stolpern über etwas und sie herunterfallt.
+ORIG7:       Sie weint und Dodo leckt das Eis.
+ORIG8:        Lars sich umarmen und teilt dein Eis.
+ORIG9:        Lea ist freut.
+ORIG10:        Und zuletzt alles ist gut.

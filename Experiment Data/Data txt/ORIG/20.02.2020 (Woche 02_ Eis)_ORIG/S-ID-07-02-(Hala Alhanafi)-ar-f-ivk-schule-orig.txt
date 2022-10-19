@@ -1,0 +1,4 @@
+ORIG1:    Lea, lars, Dodo gehen und der Eiskiosk Kaufen das Eis.
+ORIG2: 	   Lea, lars essen Die Eiskugel.
+ORIG3:     lea über etwas stolpern, herunter fallen das Eis, lars etwas teilen das Eis.
+ORIG4:	    lars sich umarmen, Lea, lars gehen sich freuen.

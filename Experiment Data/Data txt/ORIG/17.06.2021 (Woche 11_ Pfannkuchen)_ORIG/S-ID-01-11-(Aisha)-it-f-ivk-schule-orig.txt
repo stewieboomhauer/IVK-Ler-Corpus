@@ -1,0 +1,12 @@
+ORIG1:     Heute ist ein Gute Tag für Kochen. 
+ORIG2: 	    Lea und ihr Vather, Fernando, wollen Pfankuchen kochen. 
+ORIG3:      Sie machen der Teig mit Eier, Mehl und Wasser. 
+ORIG4:	     Dann rührt Lea den Teig in die schüssel. 
+ORIG5:       Sie warten für 5 Minuten, 
+ORIG6:       Dann gießt Lea der Teig in die Pfanne. 
+ORIG7:       Während gießt Lea der Teig, hält Fernando die Pfanne. 
+ORIG8:       wende die Pfannkuchen aber er ist nicht so gut, deshalb ist die Pfannkuchen untergefallen. 
+ORIG9: 	     Lea will probiert das auch. 
+ORIG10:    Während Lea wendet die Pfannkuchen, putzt Fernando den Boden. 
+ORIG11:    Trotzdem ist die Pfannkuchen auf dem Kopf von Fernando gelandet. 
+ORIG12:    Er ist sehr überrascht aber Lea hat viel spaß gehabt.

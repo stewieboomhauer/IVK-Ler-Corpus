@@ -1,0 +1,12 @@
+ORIG1:      Ja, Lea hat Geburtstag, schokoladen Kuchen, Kerzen und ein großen Geschenk für Lea und Sie möchte das Geschenk mit ihrem Bruder Lars teilen. 
+ORIG2: 	    sie öffnet das Geschenk mit großer Begeisterung, 
+ORIG3: Lea: was ist das, was ist das?!!!
+ORIG4:      Nachdem sie die GeschenKbox geöffnet hatte, war sie überrascht. 
+ORIG5:	    Lea: was is ein Drachen in Form eines Papageis? 
+ORIG6:      Lars: magst du das? 
+ORIG7:       Ich habe es für dich geKaft. 
+ORIG8:       Lea: omg Vielen danke voll schön. 
+ORIG8:      Lea und Lars wollen draußen mit Drachen spielen. 
+ORIG9:      Plötzlich blies ein starke wind. 
+ORIG10:  Lea versuchte das Drachen gut zu halten, aber es flogt über den Baum und blieb stecken. 
+ORIG11: Lea zeigt auf das Drachen und sagt: lasst uns den Drachen retten 

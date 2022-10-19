@@ -1,0 +1,11 @@
+ORIG1:    lea, Lars und Dodo gehen Der Garten.
+ORIG2: 	   Lea, lans und Dodo sich treffen die schnecken,
+ORIG3:     Sie sammeln die schnecken der Korb,
+ORIG4:	    Oma zeigt und berührt,
+ORIG5:	    lea und lars ausmalen die Schnecken der Pinsel der Aquarelle,
+ORIG6:	    lea und lans setzen die schnecken in die Kiste,
+ORIG7:	    lea und lars müden ins Bett gehen,
+ORIG8:	    lea und lars aufwachen,
+ORIG9:	    lea aufwacht herumkriechen lea wacht lars,
+ORIG10:    lea liegt lassen lars.
+ORIG11:    lars überrascht.

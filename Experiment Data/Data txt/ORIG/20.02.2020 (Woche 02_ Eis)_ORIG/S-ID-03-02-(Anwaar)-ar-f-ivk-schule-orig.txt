@@ -1,0 +1,12 @@
+ORIG1:    Lea und Lars und Dodo gehen ins Eiskiosk.
+ORIG2: 	   Lea und Lars kaufen Eis.
+ORIG3:     Lea und Lars essen Eis.
+ORIG4:	    Lea und Lars genießen Eis.
+ORIG5:      Lea und Lars lecken ihre Eis.
+ORIG6:      das Eis tropft.
+ORIG7:       Lea lasst das Eis fallen.
+ORIG8:        Lea weint.
+ORIG9:        Lars teilt das Eis mit Lea.
+ORIG10:      Lea umarmt ihen.
+ORIG11:     Lea und Lars freuen.
+ORIG12:     Dodo bleibt über Eis.

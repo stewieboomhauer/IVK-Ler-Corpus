@@ -1,0 +1,16 @@
+ORIG1:    Lea: Hallo lars. 
+ORIG2: 	   Komm mit mir, und spielt Fahrrad.
+ORIG3:     lars und lea spielt mit dem Fahrrad
+ORIG4:	    lars fahrt Geschwindigkeit,
+ORIG5:	    Er hat einen Unfall,
+ORIG6:	    lea: geht es dir gut,
+ORIG7:	    lea kontrolliert sich er heit lars, lars erschreckt. 
+ORIG8:	    lea gehet ihn ins Krankenhaus. 
+ORIG9:	    die Ärztin: Was ist Passiert? 
+ORIG10:    lea: er von Fahrrad gefalt. 
+ORIG11:    die Ärztin untersucht gemacht. 
+ORIG12:    Sie gipst der Gips lars Fuß.
+ORIG13:    Am nächste Tag lars geht in der schule,
+ORIG14:    die Mitschülen unstauen vor lars und unterstützen. 
+ORIG15:    die Mitschülen  unter schreiben vor Gips. 
+ORIG16:    lars ist zufrieden und glücklich.

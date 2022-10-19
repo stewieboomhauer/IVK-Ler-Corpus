@@ -1,0 +1,12 @@
+ORIG1:     lea, lars und Dodo, gehen der Eiskiosk. 
+ORIG2: 	    lea und lars aussuchen Eis das. 
+ORIG3:     lea und lars Kaufen EisKugel.
+ORIG4:    lea und lars genießen Eis.
+ORIG5:   Plötzlich Lea über etwas stolpern.
+ORIG6:    lea her unterfallt und weint. 
+ORIG7:	  lars verwirrt sein. 
+ORIG8:	   Dodo leckt Eis.
+ORIG9:	   lars etwas teilen Eis und gebt die EisKugel.
+ORIG10:   lars umarmt lea.	    
+ORIG11:   lea freut.	    
+ORIG12:   Dodo bleibt leckt das eis.	    

@@ -1,0 +1,13 @@
+ORIG1:     Heute hat Lea Geburtstag. 
+ORIG2: 	    Sie ist jezt 9. 
+ORIG3:      Lars tragt eine große Geschenk. 
+ORIG4:	     Das ist vor Lea. 
+ORIG5:       Sie bekommen diese Geschenk, Sie ist neugierig. 
+ORIG6:       Wenn sie das Geschenk auspacken, ist sie überrascht. 
+ORIG7:       Es gibt eine schöner Papagei auf dem Drachen. 
+ORIG8:       Lea und Lars wollen draußen spielen, daswegen gehen sie in der Garten. 
+ORIG9: 	     Lea will der Drachen steige lassen deswegen rennen sie. 
+ORIG10:    Ist eine wendig Tag, gut Für spielen mit dem Drachen. 
+ORIG11:    Dann ist der Drachen auf dem Baum hängen bleibt. 
+ORIG12:    Lea und Lars sind sehr überraschen. 
+ORIG13:    Sie brauchen eine idee Für bringen der Drachen.

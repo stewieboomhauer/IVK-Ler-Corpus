@@ -1,0 +1,12 @@
+ORIG1:      Lars fährt mit dem Fahrrad nach Hause. 
+ORIG2: 	    Er radelt sehr schnell und macht deshalb einen Unfall. 
+ORIG3:      Lea schreit: „ist alles gut bei dir?“ 
+ORIG4:	    Lars schreit vor Schmerz und weint. 
+ORIG5:      Sie gehen zusammen ins Krankenhaus. 
+ORIG6:       Die Ärztin untersucht das Bein von Lars. 
+ORIG7:        Lea starrt die Verletzung an. 
+ORIG7:        Sie gipst das Bein von Lars ein. 
+ORIG8:        Er erschreckt sich vor dem großen Gips.
+ORIG9:        Die Mitschüler unterschreiben auf dem Gips.
+ORIG10:      Lars freut sich sehr darüber.
+ORIG11:      Jetzt hat er den schönsten Gips.

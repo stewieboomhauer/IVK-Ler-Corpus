@@ -1,0 +1,6 @@
+ORIG1:     Lea und Lars haben Blummen gesammelt.
+ORIG2: 	    Danach haben sie ein Blumenstrauß gemacht und zunächst haben den Blumenstrauß in seinen oma gegeben.
+ORIG3:      Die oma hat sich gefreut und die Blumen in eine vase gemacht. 
+ORIG4:	    Danach Lea und Lars haben den Tisch gedecken und die Oma hat die Blumen geriechen.
+ORIG5:      Dann haben die zusammen gegessen und mit Marienkäfern gespielt.
+ORIG6:       Schließlich Lea und lars waren verwirrt weil der Blumenstrauß hat ein Käfer gehabt.
