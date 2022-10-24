@@ -1,22 +1,9 @@
 # Study 2. 
 
+Human correction of automatic annotations is crucial to corpus annotation. However, this necessary step is one of the most time-consuming parts of it. For this reason, it is helpful to use automatic tools that already provide the best possible results in order to reduce correction times and efforts. Even though many system evaluations achieve 97.85% accuracy results applying automatically POS-tagging , their results can hardly be applied reliably to L2 texts. 
 Since the underlying Natural Language Processing (NLP) models are generally trained on native language data, the validity of the analysis cannot be taken for granted for learner language and can involve substantial conceptual challenges (Meurers & Dickinson 2017). It is thus important to determine: How much does learners’ language affect automated analyses like POS-tag?
+In this study, I  do automatic POS-tagging by applying the two sequence labeling systems SpaCy and sticker on original (original hypothesis) and corrected (target hypothesis) learner texts  in order to find out how much learners’ language affects automated analyses like POS-tag. During the collection of this corpus, a human-annotated gold standard was created for the parts-of-speech of the original texts and target hypotheses. On the basis of this gold standard, I provide a comparison of SpaCy and sticker. There are no comparisons of such frameworks for L2 learner texts (with grammatical and orthographic errors) that I know of.  It is very useful information to know which sequence labeling tool to use for L2 learner texts to keep human annotation times at a minimum thanks to a good prior automatic annotation quality.
 
-## Data
-
-The texts were written by international children with the help of short picture stories.  
-The pupils had to describe what they saw in the pictures.  
-They were provided with a vocabulary list containing words connected to the story plot.
-
-### Story 1
-
-### Story 2
-
-### Story 3
-
-...
-
-## Annotation
 
 ### Part-of-Speech Tagging
 
