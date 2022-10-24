@@ -250,7 +250,7 @@ flattenCorrMatrix <- function(cormat, pmat) {
 cor_df <- flattenCorrMatrix(res2$r, res2$P)
 
 
-datao_corr_df <- identify.relevant.features(cor_df, df.ig., 0.6)
+datao_corr_df <- identify.relevant.features(cor_df, df.ig., 0.8)
 datao_corr_df_oneR <-
   identify.relevant.features(cor_df, df.ig.oneRattr, 0.8)
 
